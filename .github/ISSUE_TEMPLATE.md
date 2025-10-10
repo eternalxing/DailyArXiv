@@ -4,60 +4,22 @@ labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Time Series
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[NdLinear: Preserving Multi-Dimensional Structure for Parameter-Efficient Neural Networks](http://arxiv.org/abs/2503.17353v3)** | 2025-10-08 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ensemble-core/NdLinear</p></details> |
-| **[GTCN-G: A Residual Graph-Temporal Fusion Network for Imbalanced Intrusion Detection (Preprint)](http://arxiv.org/abs/2510.07285v1)** | 2025-10-08 | <details><summary>This ...</summary><p>This preprint was submitted to IEEE TrustCom 2025. The accepted version will be published under copyright 2025 IEEE</p></details> |
-| **[HTMformer: Hybrid Time and Multivariate Transformer for Time Series Forecasting](http://arxiv.org/abs/2510.07084v1)** | 2025-10-08 |  |
-| **[Causal Feedback Discovery using Convergence Cross Mapping on Sea Ice Data](http://arxiv.org/abs/2505.09001v4)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted in ACM Sigspatial Conference, PolDS Workshop, 9 pages</p></details> |
-| **[Lossless Compression of Time Series Data: A Comparative Study](http://arxiv.org/abs/2510.07015v1)** | 2025-10-08 |  |
-| **[Bayesian Modelling of Multi-Year Crop Type Classification Using Deep Neural Networks and Hidden Markov Models](http://arxiv.org/abs/2510.07008v1)** | 2025-10-08 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, accepted conference paper at IEEE International Geoscience and Remote Sensing Symposium, 7-12 July 2024, Athens, Greece</p></details> |
-| **[Bayesian Nonparametric Dynamical Clustering of Time Series](http://arxiv.org/abs/2510.06919v1)** | 2025-10-08 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. 15 pages. 9 figures</p></details> |
-| **[Vacuum Spiker: A Spiking Neural Network-Based Model for Efficient Anomaly Detection in Time Series](http://arxiv.org/abs/2510.06910v1)** | 2025-10-08 | <details><summary>53 pa...</summary><p>53 pages, 16 figures, preprint submitted to a journal for review</p></details> |
-| **[GenFacts-Generative Counterfactual Explanations for Multi-Variate Time Series](http://arxiv.org/abs/2509.20936v2)** | 2025-10-08 | 4 pages |
-| **[CNN-TFT explained by SHAP with multi-head attention weights for time series forecasting](http://arxiv.org/abs/2510.06840v1)** | 2025-10-08 |  |
-| **[Early wind turbine alarm prediction based on machine learning: AlarmForecasting](http://arxiv.org/abs/2510.06831v1)** | 2025-10-08 | <details><summary>Inter...</summary><p>International Journal of Electrical Power and Energy Systems</p></details> |
-| **[A Diffusion Model for Regular Time Series Generation from Irregular Data with Completion and Masking](http://arxiv.org/abs/2510.06699v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025; The first two authors contributed equally and are co-leading authors</p></details> |
-| **[TimeFormer: Transformer with Attention Modulation Empowered by Temporal Characteristics for Time Series Forecasting](http://arxiv.org/abs/2510.06680v1)** | 2025-10-08 |  |
-| **[StruSR: Structure-Aware Symbolic Regression with Physics-Informed Taylor Guidance](http://arxiv.org/abs/2510.06635v1)** | 2025-10-08 |  |
-| **[Simulation-based inference via telescoping ratio estimation for trawl processes](http://arxiv.org/abs/2510.04042v2)** | 2025-10-08 |  |
-
-## Trajectory
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis](http://arxiv.org/abs/2505.16834v3)** | 2025-10-08 |  |
-| **[Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation](http://arxiv.org/abs/2502.10040v2)** | 2025-10-08 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, accepted to IEEE Robotics and Automation Letters (RAL)</p></details> |
-| **[Diffusing Trajectory Optimization Problems for Recovery During Multi-Finger Manipulation](http://arxiv.org/abs/2510.07030v1)** | 2025-10-08 |  |
-| **[Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories](http://arxiv.org/abs/2506.18824v2)** | 2025-10-08 | <details><summary>ACCEP...</summary><p>ACCEPTED FOR ASE 2025</p></details> |
-| **[GPS-MTM: Capturing Pattern of Normalcy in GPS-Trajectories with self-supervised learning](http://arxiv.org/abs/2509.24031v2)** | 2025-10-08 | 4 pages, 2 figures |
-| **[Longitudinal Flow Matching for Trajectory Modeling](http://arxiv.org/abs/2510.03569v2)** | 2025-10-07 |  |
-| **[Temporally Smooth Mesh Extraction for Procedural Scenes with Long-Range Camera Trajectories using Spacetime Octrees](http://arxiv.org/abs/2509.13306v3)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted as a Conference Paper to Siggraph Asia 2025. Updated related work and references to include Jang et al. (2022)</p></details> |
-| **[Nearly Instance-Optimal Parameter Recovery from Many Trajectories via Hellinger Localization](http://arxiv.org/abs/2510.06434v1)** | 2025-10-07 |  |
-| **[Off-Trajectory Reasoning: Can LLMs Collaborate on Reasoning Trajectory?](http://arxiv.org/abs/2510.06410v1)** | 2025-10-07 |  |
-| **[Trajectory Prediction Meets Large Language Models: A Survey](http://arxiv.org/abs/2506.03408v2)** | 2025-10-07 | <details><summary>16 pa...</summary><p>16 pages, GitHub: https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers</p></details> |
-| **[Multimodal Trajectory Representation Learning for Travel Time Estimation](http://arxiv.org/abs/2510.05840v1)** | 2025-10-07 |  |
-| **[Improving Clinical Dataset Condensation with Mode Connectivity-based Trajectory Surrogates](http://arxiv.org/abs/2510.05805v1)** | 2025-10-07 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, Submitted to AISTATS 2026</p></details> |
-| **[Traj-Transformer: Diffusion Models with Transformer for GPS Trajectory Generation](http://arxiv.org/abs/2510.06291v1)** | 2025-10-07 |  |
-| **[AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories](http://arxiv.org/abs/2504.08942v2)** | 2025-10-06 |  |
-| **[Poisson multi-Bernoulli mixture filter for trajectory measurements](http://arxiv.org/abs/2504.08421v2)** | 2025-10-06 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, journal paper</p></details> |
-
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GTCN-G: A Residual Graph-Temporal Fusion Network for Imbalanced Intrusion Detection (Preprint)](http://arxiv.org/abs/2510.07285v1)** | 2025-10-08 | <details><summary>This ...</summary><p>This preprint was submitted to IEEE TrustCom 2025. The accepted version will be published under copyright 2025 IEEE</p></details> |
-| **[AMBER: Adaptive Mesh Generation by Iterative Mesh Resolution Prediction](http://arxiv.org/abs/2505.23663v2)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to NeurIPS2025</p></details> |
-| **[GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics](http://arxiv.org/abs/2510.07109v1)** | 2025-10-08 | <details><summary>This ...</summary><p>This paper has been accepted for publication in IEEE Transactions on Consumer Electronics. 10 pages, 6 figures</p></details> |
-| **[Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](http://arxiv.org/abs/2411.17063v2)** | 2025-10-08 | KDD 2025 |
-| **[Revisiting Node Affinity Prediction in Temporal Graphs](http://arxiv.org/abs/2510.06940v1)** | 2025-10-08 | preprint |
-| **[NAR-*ICP: Neural Execution of Classical ICP-based Pointcloud Registration Algorithms](http://arxiv.org/abs/2410.11031v3)** | 2025-10-08 | <details><summary>19 pa...</summary><p>19 pages, 16 tables, 7 figures</p></details> |
-| **[MoRE-GNN: Multi-omics Data Integration with a Heterogeneous Graph Autoencoder](http://arxiv.org/abs/2510.06880v1)** | 2025-10-08 |  |
-| **[Towards Generalization of Graph Neural Networks for AC Optimal Power Flow](http://arxiv.org/abs/2510.06860v1)** | 2025-10-08 | <details><summary>Pre-p...</summary><p>Pre-print has been submitted for review</p></details> |
-| **[GMLM: Bridging Graph Neural Networks and Language Models for Heterophilic Node Classification](http://arxiv.org/abs/2503.05763v6)** | 2025-10-08 |  |
-| **[Structure-Aware Compound-Protein Affinity Prediction via Graph Neural Network with Group Lasso Regularization](http://arxiv.org/abs/2507.03318v2)** | 2025-10-07 | 15 pages, 7 figures |
-| **[Spatiotemporal Graph Learning with Direct Volumetric Information Passing and Feature Enhancement](http://arxiv.org/abs/2409.18013v2)** | 2025-10-07 |  |
-| **[Analyzing the Effect of Embedding Norms and Singular Values to Oversmoothing in Graph Neural Networks](http://arxiv.org/abs/2510.06066v1)** | 2025-10-07 |  |
-| **[A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond](http://arxiv.org/abs/2410.02362v2)** | 2025-10-07 |  |
-| **[A comprehensive comparison of neural operators for 3D industry-scale engineering designs](http://arxiv.org/abs/2510.05995v1)** | 2025-10-07 |  |
-| **[Cross-Document Cross-Lingual NLI via RST-Enhanced Graph Fusion and Interpretability Prediction](http://arxiv.org/abs/2504.12324v3)** | 2025-10-07 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main (Camera Ready)</p></details> |
+| **[Graph-SCP: Accelerating Set Cover Problems with Graph Neural Networks](http://arxiv.org/abs/2310.07979v3)** | 2025-10-09 |  |
+| **[Efficient Graph Condensation via Gaussian Process](http://arxiv.org/abs/2501.02565v2)** | 2025-10-09 |  |
+| **[gLSTM: Mitigating Over-Squashing by Increasing Storage Capacity](http://arxiv.org/abs/2510.08450v1)** | 2025-10-09 | <details><summary>22 pa...</summary><p>22 pages, 22 figures, 7 tables</p></details> |
+| **[Interpreting GNN-based IDS Detections Using Provenance Graph Structural Features](http://arxiv.org/abs/2306.00934v7)** | 2025-10-09 |  |
+| **[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](http://arxiv.org/abs/2502.00338v4)** | 2025-10-09 |  |
+| **[GNN-based Path Embeddings for Efficient and Exact Subgraph Matching (Technical Report)](http://arxiv.org/abs/2309.15641v4)** | 2025-10-09 |  |
+| **[FireGNN: Neuro-Symbolic Graph Neural Networks with Trainable Fuzzy Rules for Interpretable Medical Image Classification](http://arxiv.org/abs/2509.10510v2)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Conference (Workshop Track), San Diego, USA</p></details> |
+| **[Verifying Graph Neural Networks with Readout is Intractable](http://arxiv.org/abs/2510.08045v1)** | 2025-10-09 |  |
+| **[GraphEnet: Event-driven Human Pose Estimation with a Graph Neural Network](http://arxiv.org/abs/2510.07990v1)** | 2025-10-09 |  |
+| **[MMM: Quantum-Chemical Molecular Representation Learning for Combinatorial Drug Recommendation](http://arxiv.org/abs/2510.07910v1)** | 2025-10-09 | <details><summary>Medic...</summary><p>Medical Image Computing and Computer-Assisted Intervention (MICCAI) Predictive Intelligence in Medicine Workshop (MICCAI PRIME) 2025; 13 pages</p></details> |
+| **[Leveraging Personalized PageRank and Higher-Order Topological Structures for Heterophily Mitigation in Graph Neural Networks](http://arxiv.org/abs/2507.16347v2)** | 2025-10-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted at IJCAI 2025. Proceedings: https://www.ijcai.org/proceedings/2025/0724.pdf</p></details> |
+| **[Meta-Learning Based Few-Shot Graph-Level Anomaly Detection](http://arxiv.org/abs/2510.07847v1)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted by ARRML2025</p></details> |
+| **[Knowledge-Driven Federated Graph Learning on Model Heterogeneity](http://arxiv.org/abs/2501.12624v3)** | 2025-10-09 |  |
+| **[DGTEN: A Robust Deep Gaussian based Graph Neural Network for Dynamic Trust Evaluation with Uncertainty-Quantification Support](http://arxiv.org/abs/2510.07620v1)** | 2025-10-08 | <details><summary>18 pa...</summary><p>18 pages, 9 figures, 5 tables</p></details> |
+| **[Locality-Sensitive Hashing-Based Efficient Point Transformer for Charged Particle Reconstruction](http://arxiv.org/abs/2510.07594v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Machine Learning and the Physical Sciences Workshop</p></details> |
 

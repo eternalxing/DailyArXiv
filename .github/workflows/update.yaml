@@ -39,8 +39,8 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: Zezhishao
-        email: 864453277@qq.com
+        name: eternalxing
+        email: xingyh18@mails.jlu.edu.cn
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2

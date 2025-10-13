@@ -1,46 +1,27 @@
 ---
-title: Latest 15 Papers - October 11, 2025
+title: Latest 15 Papers - October 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Graph Neural Networks
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Graph-SCP: Accelerating Set Cover Problems with Graph Neural Networks](http://arxiv.org/abs/2310.07979v3)** | 2025-10-09 |  |
-| **[Efficient Graph Condensation via Gaussian Process](http://arxiv.org/abs/2501.02565v2)** | 2025-10-09 |  |
-| **[gLSTM: Mitigating Over-Squashing by Increasing Storage Capacity](http://arxiv.org/abs/2510.08450v1)** | 2025-10-09 | <details><summary>22 pa...</summary><p>22 pages, 22 figures, 7 tables</p></details> |
-| **[Interpreting GNN-based IDS Detections Using Provenance Graph Structural Features](http://arxiv.org/abs/2306.00934v7)** | 2025-10-09 |  |
-| **[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](http://arxiv.org/abs/2502.00338v4)** | 2025-10-09 |  |
-| **[GNN-based Path Embeddings for Efficient and Exact Subgraph Matching (Technical Report)](http://arxiv.org/abs/2309.15641v4)** | 2025-10-09 |  |
-| **[FireGNN: Neuro-Symbolic Graph Neural Networks with Trainable Fuzzy Rules for Interpretable Medical Image Classification](http://arxiv.org/abs/2509.10510v2)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Conference (Workshop Track), San Diego, USA</p></details> |
-| **[Verifying Graph Neural Networks with Readout is Intractable](http://arxiv.org/abs/2510.08045v1)** | 2025-10-09 |  |
-| **[GraphEnet: Event-driven Human Pose Estimation with a Graph Neural Network](http://arxiv.org/abs/2510.07990v1)** | 2025-10-09 |  |
-| **[MMM: Quantum-Chemical Molecular Representation Learning for Combinatorial Drug Recommendation](http://arxiv.org/abs/2510.07910v1)** | 2025-10-09 | <details><summary>Medic...</summary><p>Medical Image Computing and Computer-Assisted Intervention (MICCAI) Predictive Intelligence in Medicine Workshop (MICCAI PRIME) 2025; 13 pages</p></details> |
-| **[Leveraging Personalized PageRank and Higher-Order Topological Structures for Heterophily Mitigation in Graph Neural Networks](http://arxiv.org/abs/2507.16347v2)** | 2025-10-09 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted at IJCAI 2025. Proceedings: https://www.ijcai.org/proceedings/2025/0724.pdf</p></details> |
-| **[Meta-Learning Based Few-Shot Graph-Level Anomaly Detection](http://arxiv.org/abs/2510.07847v1)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted by ARRML2025</p></details> |
-| **[Knowledge-Driven Federated Graph Learning on Model Heterogeneity](http://arxiv.org/abs/2501.12624v3)** | 2025-10-09 |  |
-| **[DGTEN: A Robust Deep Gaussian based Graph Neural Network for Dynamic Trust Evaluation with Uncertainty-Quantification Support](http://arxiv.org/abs/2510.07620v1)** | 2025-10-08 | <details><summary>18 pa...</summary><p>18 pages, 9 figures, 5 tables</p></details> |
-| **[Locality-Sensitive Hashing-Based Efficient Point Transformer for Charged Particle Reconstruction](http://arxiv.org/abs/2510.07594v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Machine Learning and the Physical Sciences Workshop</p></details> |
-
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models](http://arxiv.org/abs/2510.05034v3)** | 2025-10-09 | The 1st version |
-| **[Agent Learning via Early Experience](http://arxiv.org/abs/2510.08558v1)** | 2025-10-09 | Work in progress |
-| **[Play to Generalize: Learning to Reason Through Game Play](http://arxiv.org/abs/2506.08011v4)** | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://yunfeixie233.github.io/ViGaL/</p></details> |
-| **[Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](http://arxiv.org/abs/2510.08554v1)** | 2025-10-09 |  |
-| **[Entropy Regularizing Activation: Boosting Continuous Control, Large Language Models, and Image Classification with Activation as Entropy Constraints](http://arxiv.org/abs/2510.08549v1)** | 2025-10-09 |  |
-| **[MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with Holistic Platform and Adaptive Hybrid Policy Optimization](http://arxiv.org/abs/2510.08540v1)** | 2025-10-09 |  |
-| **[On the optimization dynamics of RLVR: Gradient gap and step size thresholds](http://arxiv.org/abs/2510.08539v1)** | 2025-10-09 |  |
-| **[SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.08531v1)** | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/SpatialLadder/ Code: https://github.com/ZJU-REAL/SpatialLadder</p></details> |
-| **[CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards](http://arxiv.org/abs/2510.08529v1)** | 2025-10-09 |  |
-| **[Convergence Theorems for Entropy-Regularized and Distributional Reinforcement Learning](http://arxiv.org/abs/2510.08526v1)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025. First two authors contributed equally</p></details> |
-| **[Which Heads Matter for Reasoning? RL-Guided KV Cache Compression](http://arxiv.org/abs/2510.08525v1)** | 2025-10-09 |  |
-| **[DYNAMIX: RL-based Adaptive Batch Size Optimization in Distributed Machine Learning Systems](http://arxiv.org/abs/2510.08522v1)** | 2025-10-09 |  |
-| **[Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning](http://arxiv.org/abs/2507.16746v2)** | 2025-10-09 | <details><summary>datas...</summary><p>dataset link: https://huggingface.co/datasets/multimodal-reasoning-lab/Zebra-CoT</p></details> |
-| **[Scaling up Multi-Turn Off-Policy RL and Multi-Agent Tree Search for LLM Step-Provers](http://arxiv.org/abs/2509.06493v2)** | 2025-10-09 |  |
-| **[Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools](http://arxiv.org/abs/2510.08480v1)** | 2025-10-09 |  |
+| **[Dyna-Mind: Learning to Simulate from Experience for Better AI Agents](http://arxiv.org/abs/2510.09577v1)** | 2025-10-10 |  |
+| **[Guiding Energy-Efficient Locomotion through Impact Mitigation Rewards](http://arxiv.org/abs/2510.09543v1)** | 2025-10-10 |  |
+| **[SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models](http://arxiv.org/abs/2510.09541v1)** | 2025-10-10 |  |
+| **[Mitigating Overthinking through Reasoning Shaping](http://arxiv.org/abs/2510.09535v1)** | 2025-10-10 |  |
+| **[Language Model Guided Reinforcement Learning in Quantitative Trading](http://arxiv.org/abs/2508.02366v2)** | 2025-10-10 | <details><summary>12 pa...</summary><p>12 pages (4 pages appendix and references) and 6 figures. Accepted for presentation at FLLM 2025, Vienna</p></details> |
+| **[Multimodal Policy Internalization for Conversational Agents](http://arxiv.org/abs/2510.09474v1)** | 2025-10-10 |  |
+| **[Scalable Multi-Agent Path Finding using Collision-Aware Dynamic Alert Mask and a Hybrid Execution Strategy](http://arxiv.org/abs/2510.09469v1)** | 2025-10-10 |  |
+| **[A view on learning robust goal-conditioned value functions: Interplay between RL and MPC](http://arxiv.org/abs/2502.06996v2)** | 2025-10-10 | Postprint; 37 pages |
+| **[From Data to Rewards: a Bilevel Optimization Perspective on Maximum Likelihood Estimation](http://arxiv.org/abs/2510.07624v2)** | 2025-10-10 |  |
+| **[HINT: Helping Ineffective Rollouts Navigate Towards Effectiveness](http://arxiv.org/abs/2510.09388v1)** | 2025-10-10 |  |
+| **[AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal Imitation-Exploration Balance](http://arxiv.org/abs/2508.06944v3)** | 2025-10-10 | <details><summary>The p...</summary><p>The paper is currently under investigation regarding concerns of potential academic misconduct. While the investigation is ongoing, the authors have voluntarily requested to withdraw the manuscript</p></details> |
+| **[Logit Arithmetic Elicits Long Reasoning Capabilities Without Training](http://arxiv.org/abs/2510.09354v1)** | 2025-10-10 |  |
+| **[Safety Game: Balancing Safe and Informative Conversations with Blackbox Agentic AI using LP Solvers](http://arxiv.org/abs/2510.09330v1)** | 2025-10-10 |  |
+| **[Rate optimal learning of equilibria from data](http://arxiv.org/abs/2510.09325v1)** | 2025-10-10 |  |
+| **[A Method to Improve the Performance of Reinforcement Learning Based on the Y Operator for a Class of Stochastic Differential Equation-Based Child-Mother Systems](http://arxiv.org/abs/2311.04014v4)** | 2025-10-10 | 15 pages, 2 figures |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -60,4 +41,23 @@ labels: documentation
 | **[Metering traffic flows for perimeter control through auction-based signalling using connected vehicles](http://arxiv.org/abs/2508.09678v1)** | 2025-08-13 |  |
 | **[Combat Urban Congestion via Collaboration: Heterogeneous GNN-based MARL for Coordinated Platooning and Traffic Signal Control](http://arxiv.org/abs/2310.10948v3)** | 2025-08-12 |  |
 | **[Making Teams and Influencing Agents: Efficiently Coordinating Decision Trees for Interpretable Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2505.19316v2)** | 2025-08-12 | <details><summary>17 pa...</summary><p>17 pages; 2 tables; 12 figures; accepted version, published at the 8th AAAI/ACM Conference on AI, Ethics and Society (AIES '25)</p></details> |
+
+## Graph Neural Networks
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Geo-Aware Models for Stream Temperature Prediction across Different Spatial Regions and Scales](http://arxiv.org/abs/2510.09500v1)** | 2025-10-10 |  |
+| **[Precoder Design in Multi-User FDD Systems with VQ-VAE and GNN](http://arxiv.org/abs/2510.09495v1)** | 2025-10-10 | <details><summary>Submi...</summary><p>Submitted to IEEE ICASSP 2026</p></details> |
+| **[A Multimodal Approach to SME Credit Scoring Integrating Transaction and Ownership Networks](http://arxiv.org/abs/2510.09407v1)** | 2025-10-10 |  |
+| **[A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond](http://arxiv.org/abs/2410.02362v3)** | 2025-10-10 |  |
+| **[Deep Learning to Identify the Spatio-Temporal Cascading Effects of Train Delays in a High-Density Network](http://arxiv.org/abs/2510.09350v1)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted at SIGSPATIAL 2025 - GeoAI Workshop</p></details> |
+| **[Semantic-Condition Tuning: Fusing Graph Context with Large Language Models for Knowledge Graph Completion](http://arxiv.org/abs/2510.08966v1)** | 2025-10-10 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, conference</p></details> |
+| **[When LLM Agents Meet Graph Optimization: An Automated Data Quality Improvement Approach](http://arxiv.org/abs/2510.08952v1)** | 2025-10-10 | 12 pages, 7figures |
+| **[Graph-SCP: Accelerating Set Cover Problems with Graph Neural Networks](http://arxiv.org/abs/2310.07979v3)** | 2025-10-09 |  |
+| **[Efficient Graph Condensation via Gaussian Process](http://arxiv.org/abs/2501.02565v2)** | 2025-10-09 |  |
+| **[Fair Graph Machine Learning under Adversarial Missingness Processes](http://arxiv.org/abs/2311.01591v4)** | 2025-10-09 |  |
+| **[gLSTM: Mitigating Over-Squashing by Increasing Storage Capacity](http://arxiv.org/abs/2510.08450v1)** | 2025-10-09 | <details><summary>22 pa...</summary><p>22 pages, 22 figures, 7 tables</p></details> |
+| **[Interpreting GNN-based IDS Detections Using Provenance Graph Structural Features](http://arxiv.org/abs/2306.00934v7)** | 2025-10-09 |  |
+| **[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](http://arxiv.org/abs/2502.00338v4)** | 2025-10-09 |  |
+| **[GNN-based Path Embeddings for Efficient and Exact Subgraph Matching (Technical Report)](http://arxiv.org/abs/2309.15641v4)** | 2025-10-09 |  |
+| **[FireGNN: Neuro-Symbolic Graph Neural Networks with Trainable Fuzzy Rules for Interpretable Medical Image Classification](http://arxiv.org/abs/2509.10510v2)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Conference (Workshop Track), San Diego, USA</p></details> |
 

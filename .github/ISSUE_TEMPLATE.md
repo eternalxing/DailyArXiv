@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 17, 2025
+title: Latest 15 Papers - October 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning](http://arxiv.org/abs/2510.13809v1)** | 2025-10-15 | <details><summary>Proje...</summary><p>Project Page: https://sihuiji.github.io/PhysMaster-Page/</p></details> |
-| **[h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning](http://arxiv.org/abs/2510.07312v2)** | 2025-10-15 | <details><summary>Prepr...</summary><p>Preprint, 31 pages, 8 figures, long-horizon reasoning</p></details> |
-| **[Breadcrumbs Reasoning: Memory-Efficient Reasoning with Compression Beacons](http://arxiv.org/abs/2510.13797v1)** | 2025-10-15 |  |
-| **[MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control](http://arxiv.org/abs/2510.13794v2)** | 2025-10-16 |  |
-| **[Flattening Hierarchies with Policy Bootstrapping](http://arxiv.org/abs/2505.14975v2)** | 2025-10-15 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight, top 3.2%)</p></details> |
-| **[Provably Invincible Adversarial Attacks on Reinforcement Learning Systems: A Rate-Distortion Information-Theoretic Approach](http://arxiv.org/abs/2510.13792v1)** | 2025-10-15 |  |
-| **[The Art of Scaling Reinforcement Learning Compute for LLMs](http://arxiv.org/abs/2510.13786v1)** | 2025-10-15 | 28 pages, 20 figures |
-| **[Egocentric Visual Navigation through Hippocampal Sequences](http://arxiv.org/abs/2510.09951v2)** | 2025-10-15 | <details><summary>20 pa...</summary><p>20 pages, 21 figures. This is a conference submission</p></details> |
-| **[Asymptotically optimal reinforcement learning in Block Markov Decision Processes](http://arxiv.org/abs/2510.13748v1)** | 2025-10-15 | 74 pages, 3 figures |
-| **[From Refusal to Recovery: A Control-Theoretic Approach to Generative AI Guardrails](http://arxiv.org/abs/2510.13727v1)** | 2025-10-15 |  |
-| **[Simplicial Embeddings Improve Sample Efficiency in Actor-Critic Agents](http://arxiv.org/abs/2510.13704v1)** | 2025-10-15 |  |
-| **[LLM-Enabled In-Context Learning for Data Collection Scheduling in UAV-assisted Sensor Networks](http://arxiv.org/abs/2504.14556v2)** | 2025-10-15 |  |
-| **[Information-Theoretic Reward Modeling for Stable RLHF: Detecting and Mitigating Reward Hacking](http://arxiv.org/abs/2510.13694v1)** | 2025-10-15 | <details><summary>46 pa...</summary><p>46 pages, 36 figures, submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence</p></details> |
-| **[Fact-R1: Towards Explainable Video Misinformation Detection with Deep Reasoning](http://arxiv.org/abs/2505.16836v3)** | 2025-10-15 | 34 pages, 25 figures |
-| **[What is the objective of reasoning with reinforcement learning?](http://arxiv.org/abs/2510.13651v1)** | 2025-10-15 |  |
+| **[Agentic Design of Compositional Machines](http://arxiv.org/abs/2510.14980v1)** | 2025-10-16 | <details><summary>75 pa...</summary><p>75 pages, 31 figures, Project Page: https://besiegefield.github.io</p></details> |
+| **[Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn LLM Agents](http://arxiv.org/abs/2510.14967v1)** | 2025-10-16 |  |
+| **[CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v1)** | 2025-10-16 | 8 pages |
+| **[EdgeNavMamba: Mamba Optimized Object Detection for Energy Efficient Edge Devices](http://arxiv.org/abs/2510.14946v1)** | 2025-10-16 | <details><summary>The 1...</summary><p>The 11th IEEE International Conference on Edge Computing and Scalable Cloud (IEEE EdgeCom 2025)</p></details> |
+| **[LaSeR: Reinforcement Learning with Last-Token Self-Rewarding](http://arxiv.org/abs/2510.14943v1)** | 2025-10-16 | <details><summary>Work ...</summary><p>Work in progress. Github repo: https://github.com/RUCBM/LaSeR</p></details> |
+| **[VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tunin](http://arxiv.org/abs/2510.14930v1)** | 2025-10-16 | <details><summary>Accep...</summary><p>Accepted by 9th Conference on Robot Learning (CoRL 2025); Website: https://binghao-huang.github.io/vt_refine/</p></details> |
+| **[Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](http://arxiv.org/abs/2509.06948v2)** | 2025-10-16 |  |
+| **[A Hard-Label Black-Box Evasion Attack against ML-based Malicious Traffic Detection Systems](http://arxiv.org/abs/2510.14906v1)** | 2025-10-16 |  |
+| **[Reasoning with Sampling: Your Base Model is Smarter Than You Think](http://arxiv.org/abs/2510.14901v1)** | 2025-10-16 |  |
+| **[Mapping Smarter, Not Harder: A Test-Time Reinforcement Learning Agent That Improves Without Labels or Model Updates](http://arxiv.org/abs/2510.14900v1)** | 2025-10-16 |  |
+| **[Strategyproof Reinforcement Learning from Human Feedback](http://arxiv.org/abs/2503.09561v2)** | 2025-10-16 | <details><summary>To ap...</summary><p>To appear at NeurIPS 2025</p></details> |
+| **[Thinker: Learning to Think Fast and Slow](http://arxiv.org/abs/2505.21097v2)** | 2025-10-16 | 23 pages |
+| **[Reinforcement Learning with Stochastic Reward Machines](http://arxiv.org/abs/2510.14837v1)** | 2025-10-16 | <details><summary>A sho...</summary><p>A shorter version of this paper appeared in the Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22). Source code available at https://github.com/corazza/srm</p></details> |
+| **[RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning](http://arxiv.org/abs/2510.14830v1)** | 2025-10-16 | <details><summary>https...</summary><p>https://lei-kun.github.io/RL-100/</p></details> |
+| **[RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning](http://arxiv.org/abs/2510.14828v1)** | 2025-10-16 |  |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,13 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GraphLand: Evaluating Graph Machine Learning Models on Diverse Industrial Data](http://arxiv.org/abs/2409.14500v4)** | 2025-10-16 |  |
+| **[Spatial Computing Communications for Multi-User Virtual Reality in Distributed Mobile Edge Computing Network](http://arxiv.org/abs/2510.14243v1)** | 2025-10-16 | <details><summary>submi...</summary><p>submited to IEEE journal</p></details> |
+| **[Inferred global dense residue transition graphs from primary structure sequences enable protein interaction prediction via directed graph convolutional neural networks](http://arxiv.org/abs/2510.14139v1)** | 2025-10-15 | <details><summary>under...</summary><p>under review in Frontiers in Bioinformatics</p></details> |
+| **[iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering](http://arxiv.org/abs/2506.01784v3)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Track</p></details> |
+| **[On the expressivity of sparse maxout networks](http://arxiv.org/abs/2510.14068v1)** | 2025-10-15 |  |
+| **[Maximum entropy temporal networks](http://arxiv.org/abs/2509.02098v4)** | 2025-10-15 | 17 pages, 25 figures |
+| **[GammaZero: Learning To Guide POMDP Belief Space Search With Graph Representations](http://arxiv.org/abs/2510.14035v1)** | 2025-10-15 | <details><summary>10 pa...</summary><p>10 pages content. 2 pages references</p></details> |
 | **[Multi-Scale High-Resolution Logarithmic Grapher Module for Efficient Vision GNNs](http://arxiv.org/abs/2510.13740v1)** | 2025-10-15 | <details><summary>Publi...</summary><p>Published in the Proceedings of the Third Learning on Graphs Conference (LoG 2024)</p></details> |
 | **[Axial Neural Networks for Dimension-Free Foundation Models](http://arxiv.org/abs/2510.13665v1)** | 2025-10-15 |  |
 | **[Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision](http://arxiv.org/abs/2504.02477v3)** | 2025-10-15 | <details><summary>27 pa...</summary><p>27 pages, 11 figures. Accepted to Information Fusion. Final journal version: volume 126 (Part B), February 2026</p></details> |
@@ -53,11 +60,4 @@ labels: documentation
 | **[Leveraging Teleconnections with Physics-Informed Graph Attention Networks for Long-Range Extreme Rainfall Forecasting in Thailand](http://arxiv.org/abs/2510.12328v2)** | 2025-10-15 |  |
 | **[Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective](http://arxiv.org/abs/2510.13254v1)** | 2025-10-15 | <details><summary>This ...</summary><p>This paper is accepted by ECML-PKDD 2025</p></details> |
 | **[Are High-Degree Representations Really Unnecessary in Equivariant Graph Neural Networks?](http://arxiv.org/abs/2410.11443v4)** | 2025-10-15 |  |
-| **[Universally Invariant Learning in Equivariant GNNs](http://arxiv.org/abs/2510.13169v1)** | 2025-10-15 |  |
-| **[Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering](http://arxiv.org/abs/2510.12959v1)** | 2025-10-14 |  |
-| **[Rademacher Meets Colors: More Expressivity, but at What Cost ?](http://arxiv.org/abs/2510.10101v2)** | 2025-10-14 |  |
-| **[Disentangling Neurodegeneration with Brain Age Gap Prediction Models: A Graph Signal Processing Perspective](http://arxiv.org/abs/2510.12763v1)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Signal Processing Magazine</p></details> |
-| **[Multi-View Graph Learning with Graph-Tuple](http://arxiv.org/abs/2510.10341v2)** | 2025-10-14 | <details><summary>Submi...</summary><p>Submitted to TAG workshop</p></details> |
-| **[Multitask finetuning and acceleration of chemical pretrained models for small molecule drug property prediction](http://arxiv.org/abs/2510.12719v1)** | 2025-10-14 |  |
-| **[Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding (Technical Report)](http://arxiv.org/abs/2309.15641v5)** | 2025-10-14 |  |
 

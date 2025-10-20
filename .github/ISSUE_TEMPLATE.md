@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 19, 2025
+title: Latest 15 Papers - October 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -36,11 +36,6 @@ labels: documentation
 | **[A Hierarchical Deep Reinforcement Learning Framework for Traffic Signal Control with Predictable Cycle Planning](http://arxiv.org/abs/2509.03118v1)** | 2025-09-03 |  |
 | **[Goal-Conditioned Data Augmentation for Offline Reinforcement Learning](http://arxiv.org/abs/2412.20519v2)** | 2025-09-02 |  |
 | **[cMALC-D: Contextual Multi-Agent LLM-Guided Curriculum Learning with Diversity-Based Context Blending](http://arxiv.org/abs/2508.20818v1)** | 2025-08-28 | <details><summary>A sho...</summary><p>A shorter version has been accepted to the 2025 Conference on Information and Knowledge Management</p></details> |
-| **[Multi-Agent Reinforcement Learning in Intelligent Transportation Systems: A Comprehensive Survey](http://arxiv.org/abs/2508.20315v1)** | 2025-08-27 |  |
-| **[GPLight+: A Genetic Programming Method for Learning Symmetric Traffic Signal Control Policy](http://arxiv.org/abs/2508.16090v1)** | 2025-08-22 |  |
-| **[Metering traffic flows for perimeter control through auction-based signalling using connected vehicles](http://arxiv.org/abs/2508.09678v1)** | 2025-08-13 |  |
-| **[Combat Urban Congestion via Collaboration: Heterogeneous GNN-based MARL for Coordinated Platooning and Traffic Signal Control](http://arxiv.org/abs/2310.10948v3)** | 2025-08-12 |  |
-| **[Making Teams and Influencing Agents: Efficiently Coordinating Decision Trees for Interpretable Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2505.19316v2)** | 2025-08-12 | <details><summary>17 pa...</summary><p>17 pages; 2 tables; 12 figures; accepted version, published at the 8th AAAI/ACM Conference on AI, Ethics and Society (AIES '25)</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
@@ -55,9 +50,4 @@ labels: documentation
 | **[Multi-Scale High-Resolution Logarithmic Grapher Module for Efficient Vision GNNs](http://arxiv.org/abs/2510.13740v1)** | 2025-10-15 | <details><summary>Publi...</summary><p>Published in the Proceedings of the Third Learning on Graphs Conference (LoG 2024)</p></details> |
 | **[Axial Neural Networks for Dimension-Free Foundation Models](http://arxiv.org/abs/2510.13665v1)** | 2025-10-15 |  |
 | **[Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision](http://arxiv.org/abs/2504.02477v3)** | 2025-10-15 | <details><summary>27 pa...</summary><p>27 pages, 11 figures. Accepted to Information Fusion. Final journal version: volume 126 (Part B), February 2026</p></details> |
-| **[Intelligent4DSE: Optimizing High-Level Synthesis Design Space Exploration with Graph Neural Networks and Large Language Models](http://arxiv.org/abs/2504.19649v3)** | 2025-10-15 |  |
-| **[Going with the Flow: Approximating Banzhaf Values via Graph Neural Networks](http://arxiv.org/abs/2510.13391v1)** | 2025-10-15 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 11-page appendix</p></details> |
-| **[Leveraging Teleconnections with Physics-Informed Graph Attention Networks for Long-Range Extreme Rainfall Forecasting in Thailand](http://arxiv.org/abs/2510.12328v2)** | 2025-10-15 |  |
-| **[Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective](http://arxiv.org/abs/2510.13254v1)** | 2025-10-15 | <details><summary>This ...</summary><p>This paper is accepted by ECML-PKDD 2025</p></details> |
-| **[Are High-Degree Representations Really Unnecessary in Equivariant Graph Neural Networks?](http://arxiv.org/abs/2410.11443v4)** | 2025-10-15 |  |
 

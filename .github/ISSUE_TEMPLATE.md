@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2025
+title: Latest 15 Papers - October 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Foundational Automatic Evaluators: Scaling Multi-Task Generative Evaluator Training for Reasoning-Centric Domains](http://arxiv.org/abs/2510.17793v1)** | 2025-10-20 | <details><summary>29 pa...</summary><p>29 pages, 9 tables, 6 figures</p></details> |
-| **[SoftMimic: Learning Compliant Whole-body Control from Examples](http://arxiv.org/abs/2510.17792v1)** | 2025-10-20 | <details><summary>Websi...</summary><p>Website: https://gmargo11.github.io/softmimic/</p></details> |
-| **[UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action](http://arxiv.org/abs/2510.17790v1)** | 2025-10-20 |  |
-| **[REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards](http://arxiv.org/abs/2505.24760v2)** | 2025-10-20 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight. For code, see https://github.com/open-thought/reasoning-gym</p></details> |
-| **[Train for Truth, Keep the Skills: Binary Retrieval-Augmented Reward Mitigates Hallucinations](http://arxiv.org/abs/2510.17733v1)** | 2025-10-20 |  |
-| **[QueST: Incentivizing LLMs to Generate Difficult Problems](http://arxiv.org/abs/2510.17715v1)** | 2025-10-20 | 20 pages, 7 figures |
-| **[A Principle of Targeted Intervention for Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2510.17697v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[Efficient Algorithms for Mitigating Uncertainty and Risk in Reinforcement Learning](http://arxiv.org/abs/2510.17690v1)** | 2025-10-20 | Dissertation |
-| **[CrossGuard: Safeguarding MLLMs against Joint-Modal Implicit Malicious Attacks](http://arxiv.org/abs/2510.17687v1)** | 2025-10-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 2 tables</p></details> |
-| **[RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation](http://arxiv.org/abs/2510.17640v1)** | 2025-10-20 | <details><summary>9 pag...</summary><p>9 pages,7 figures, submitted to ICRA2026</p></details> |
-| **[Grounded Reinforcement Learning for Visual Reasoning](http://arxiv.org/abs/2505.23678v2)** | 2025-10-20 | <details><summary>Proje...</summary><p>Project website: https://visually-grounded-rl.github.io/</p></details> |
-| **[Quantum Reinforcement Learning Trading Agent for Sector Rotation in the Taiwan Stock Market](http://arxiv.org/abs/2506.20930v2)** | 2025-10-20 |  |
-| **[Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning](http://arxiv.org/abs/2507.00432v2)** | 2025-10-20 |  |
-| **[ScreenCoder: Advancing Visual-to-Code Generation for Front-End Automation via Modular Multimodal Agents](http://arxiv.org/abs/2507.22827v2)** | 2025-10-20 | ScreenCoder-v2 |
-| **[An Empirical Study of Lagrangian Methods in Safe Reinforcement Learning](http://arxiv.org/abs/2510.17564v1)** | 2025-10-20 |  |
+| **[Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting](http://arxiv.org/abs/2510.18874v1)** | 2025-10-21 |  |
+| **[Wonder Wins Ways: Curiosity-Driven Exploration through Multi-Agent Contextual Calibration](http://arxiv.org/abs/2509.20648v2)** | 2025-10-21 |  |
+| **[EffiReasonTrans: RL-Optimized Reasoning for Code Translation](http://arxiv.org/abs/2510.18863v1)** | 2025-10-21 |  |
+| **[Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model](http://arxiv.org/abs/2510.18855v1)** | 2025-10-21 | Technical Report |
+| **[Lyapunov-Aware Quantum-Inspired Reinforcement Learning for Continuous-Time Vehicle Control: A Feasibility Study](http://arxiv.org/abs/2510.18852v1)** | 2025-10-21 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 20 equations, 3 appendices, 4 tables</p></details> |
+| **[Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning](http://arxiv.org/abs/2510.18849v1)** | 2025-10-21 | work in progress |
+| **[Actor-Free Continuous Control via Structurally Maximizable Q-Functions](http://arxiv.org/abs/2510.18828v1)** | 2025-10-21 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Towards Versatile Humanoid Table Tennis: Unified Reinforcement Learning with Prediction Augmentation](http://arxiv.org/abs/2509.21690v2)** | 2025-10-21 |  |
+| **[Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers](http://arxiv.org/abs/2510.11370v2)** | 2025-10-21 |  |
+| **[Search Self-play: Pushing the Frontier of Agent Capability without Supervision](http://arxiv.org/abs/2510.18821v1)** | 2025-10-21 |  |
+| **[Online SFT for LLM Reasoning: Surprising Effectiveness of Self-Tuning without Rewards](http://arxiv.org/abs/2510.18814v1)** | 2025-10-21 |  |
+| **[SafeSearch: Do Not Trade Safety for Utility in LLM Search Agents](http://arxiv.org/abs/2510.17017v2)** | 2025-10-21 |  |
+| **[Stochastic Path Planning in Correlated Obstacle Fields](http://arxiv.org/abs/2509.19559v2)** | 2025-10-21 |  |
+| **[Janus-Pro-R1: Advancing Collaborative Visual Comprehension and Generation via Reinforcement Learning](http://arxiv.org/abs/2506.01480v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[WebSeer: Training Deeper Search Agents through Reinforcement Learning with Self-Reflection](http://arxiv.org/abs/2510.18798v1)** | 2025-10-21 |  |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generation of Uncertainty-Aware Emergent Concepts in Factorized 3D Scene Graphs via Graph Neural Networks](http://arxiv.org/abs/2409.11972v2)** | 2025-10-21 | <details><summary>Submi...</summary><p>Submitted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
+| **[Robustness Verification of Graph Neural Networks Via Lightweight Satisfiability Testing](http://arxiv.org/abs/2510.18591v1)** | 2025-10-21 |  |
+| **[Molecular Fingerprints Are Strong Models for Peptide Function Prediction](http://arxiv.org/abs/2501.17901v2)** | 2025-10-21 |  |
+| **[Benchmarking Fairness-aware Graph Neural Networks in Knowledge Graphs](http://arxiv.org/abs/2510.18473v1)** | 2025-10-21 |  |
+| **[Simple and Efficient Heterogeneous Temporal Graph Neural Network](http://arxiv.org/abs/2510.18467v1)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by Neurips 2025</p></details> |
+| **[Training Diverse Graph Experts for Ensembles: A Systematic Empirical Study](http://arxiv.org/abs/2510.18370v1)** | 2025-10-21 |  |
+| **[Preference-driven Knowledge Distillation for Few-shot Node Classification](http://arxiv.org/abs/2510.10116v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis](http://arxiv.org/abs/2311.00164v3)** | 2025-10-21 | <details><summary>22 pa...</summary><p>22 pages. Appeared in NeurIPS 2023</p></details> |
+| **[QINNs: Quantum-Informed Neural Networks](http://arxiv.org/abs/2510.17984v1)** | 2025-10-20 | 20 pages, 9 figures |
 | **[OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs](http://arxiv.org/abs/2510.15188v2)** | 2025-10-20 | <details><summary>This ...</summary><p>This is the authors' extended version of the paper accepted for publication at the ACM SIGSAC Conference on Computer and Communications Security (CCS 2025). The final published version is available at https://doi.org/10.1145/3719027.3765219</p></details> |
 | **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](http://arxiv.org/abs/2503.03313v3)** | 2025-10-20 |  |
 | **[Model Metamers Reveal Invariances in Graph Neural Networks](http://arxiv.org/abs/2510.17378v1)** | 2025-10-20 |  |
 | **[Going with the Flow: Approximating Banzhaf Values via Graph Neural Networks](http://arxiv.org/abs/2510.13391v2)** | 2025-10-20 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 11-page appendix</p></details> |
 | **[Dress Well via Fashion Cognitive Learning](http://arxiv.org/abs/2208.00639v2)** | 2025-10-20 |  |
 | **[Robustness in Text-Attributed Graph Learning: Insights, Trade-offs, and New Defenses](http://arxiv.org/abs/2510.17185v1)** | 2025-10-20 |  |
-| **[GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation](http://arxiv.org/abs/2502.01113v2)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[When LLM Agents Meet Graph Optimization: An Automated Data Quality Improvement Approach](http://arxiv.org/abs/2510.08952v2)** | 2025-10-20 | 12 pages, 7figures |
-| **[Co-Evolutionary Defence of Active Directory Attack Graphs via GNN-Approximated Dynamic Programming](http://arxiv.org/abs/2505.11710v2)** | 2025-10-20 |  |
-| **[HERO: Heterogeneous Continual Graph Learning via Meta-Knowledge Distillation](http://arxiv.org/abs/2505.17458v2)** | 2025-10-19 | <details><summary>updat...</summary><p>updated version with new LaTeX template and minor formatting revisions, added references and experimental results</p></details> |
-| **[Efficient Data Selection for Training Genomic Perturbation Models](http://arxiv.org/abs/2503.14571v6)** | 2025-10-19 | 17 pages |
-| **[UniGTE: Unified Graph-Text Encoding for Zero-Shot Generalization across Graph Tasks and Domains](http://arxiv.org/abs/2510.16885v1)** | 2025-10-19 |  |
-| **[Observation-guided Interpolation Using Graph Neural Networks for High-Resolution Nowcasting in Switzerland](http://arxiv.org/abs/2509.00017v2)** | 2025-10-19 | Updated 19.10.2025 |
-| **[Boosting Graph Robustness Against Backdoor Attacks: An Over-Similarity Perspective](http://arxiv.org/abs/2502.01272v2)** | 2025-10-19 | <details><summary>After...</summary><p>After discussions with one of the co-authors, it was decided that this version should not be made public at this time. To respect the co-author's perspective and ensure alignment among all authors, I am requesting the withdrawal of this article</p></details> |
-| **[ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning](http://arxiv.org/abs/2510.16824v1)** | 2025-10-19 |  |
 

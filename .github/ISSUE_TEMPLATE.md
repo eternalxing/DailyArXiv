@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 24, 2025
+title: Latest 15 Papers - October 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,16 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning Reward Machines from Partially Observed Policies](http://arxiv.org/abs/2502.03762v3)** | 2025-10-22 |  |
-| **[olmOCR 2: Unit Test Rewards for Document OCR](http://arxiv.org/abs/2510.19817v1)** | 2025-10-22 | <details><summary>https...</summary><p>https://olmocr.allen.ai/</p></details> |
-| **[Scaf-GRPO: Scaffolded Group Relative Policy Optimization for Enhancing LLM Reasoning](http://arxiv.org/abs/2510.19807v1)** | 2025-10-22 | <details><summary>Code:...</summary><p>Code: https://github.com/dvlab-research/Scaf-GRPO</p></details> |
-| **[Provably Efficient Reward Transfer in Reinforcement Learning with Discrete Markov Decision Processes](http://arxiv.org/abs/2503.13414v3)** | 2025-10-22 |  |
-| **[QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training](http://arxiv.org/abs/2506.00711v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted as Oral at NeurIPS 2025. Revision after camera ready</p></details> |
-| **[SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas](http://arxiv.org/abs/2510.19766v1)** | 2025-10-22 |  |
-| **[Video-R1: Reinforcing Video Reasoning in MLLMs](http://arxiv.org/abs/2503.21776v4)** | 2025-10-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025, Project page: https://github.com/tulerfeng/Video-R1</p></details> |
-| **[Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement Learning for General LLM Reasoning](http://arxiv.org/abs/2508.16949v5)** | 2025-10-22 |  |
-| **[Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning](http://arxiv.org/abs/2510.19732v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted for Spotlight Presentation at NeurIPS 2025</p></details> |
-| **[AttentionSwarm: Reinforcement Learning with Attention Control Barier Function for Crazyflie Drones in Dynamic Environments](http://arxiv.org/abs/2503.07376v2)** | 2025-10-22 | 6 pages, 6 figures |
+| **[KL-Regularized Reinforcement Learning is Designed to Mode Collapse](http://arxiv.org/abs/2510.20817v1)** | 2025-10-23 |  |
+| **[GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation](http://arxiv.org/abs/2510.20813v1)** | 2025-10-23 |  |
+| **[Reinforcement Learning and Consumption-Savings Behavior](http://arxiv.org/abs/2510.20748v1)** | 2025-10-23 | 41 pages, 10 figures |
+| **[No-Regret Thompson Sampling for Finite-Horizon Markov Decision Processes with Gaussian Processes](http://arxiv.org/abs/2510.20725v1)** | 2025-10-23 | <details><summary>Appea...</summary><p>Appearing in NeurIPS, 2025</p></details> |
+| **[Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning](http://arxiv.org/abs/2504.15275v3)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Fast-Slow Thinking GRPO for Large Vision-Language Model Reasoning](http://arxiv.org/abs/2504.18458v2)** | 2025-10-23 |  |
+| **[TabR1: Taming GRPO for tabular reasoning LLMs](http://arxiv.org/abs/2510.17385v2)** | 2025-10-23 |  |
+| **[ViTacGen: Robotic Pushing with Vision-to-Touch Generation](http://arxiv.org/abs/2510.14117v2)** | 2025-10-23 |  |
+| **[Real-Time Gait Adaptation for Quadrupeds using Model Predictive Control and Reinforcement Learning](http://arxiv.org/abs/2510.20706v1)** | 2025-10-23 |  |
+| **[Plan Then Retrieve: Reinforcement Learning-Guided Complex Reasoning over Knowledge Graphs](http://arxiv.org/abs/2510.20691v1)** | 2025-10-23 |  |
+| **[Temporal-Difference Variational Continual Learning](http://arxiv.org/abs/2410.07812v4)** | 2025-10-23 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025</p></details> |
+| **[The Shape of Reasoning: Topological Analysis of Reasoning Traces in Large Language Models](http://arxiv.org/abs/2510.20665v1)** | 2025-10-23 |  |
+| **[Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](http://arxiv.org/abs/2504.13837v4)** | 2025-10-23 | 30 pages, 27 figures |
+| **[floq: Training Critics via Flow-Matching for Scaling Compute in Value-Based RL](http://arxiv.org/abs/2509.06863v2)** | 2025-10-23 | <details><summary>Added...</summary><p>Added new experiments, fixed typos. Code -- https://github.com/CMU-AIRe/floq</p></details> |
+| **[How Ensembles of Distilled Policies Improve Generalisation in Reinforcement Learning](http://arxiv.org/abs/2505.16581v2)** | 2025-10-23 |  |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -40,19 +45,19 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bayesian Inference of Primordial Magnetic Field Parameters from CMB with Spherical Graph Neural Networks](http://arxiv.org/abs/2510.20795v1)** | 2025-10-23 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 4 tables</p></details> |
+| **[Integrating Structural and Semantic Signals in Text-Attributed Graphs with BiGTex](http://arxiv.org/abs/2504.12474v3)** | 2025-10-23 | 26 pages, 4 figures |
+| **[Learning to Triage Taint Flows Reported by Dynamic Program Analysis in Node.js Packages](http://arxiv.org/abs/2510.20739v1)** | 2025-10-23 |  |
+| **[Unsupervised Anomaly Prediction with N-BEATS and Graph Neural Network in Multi-variate Semiconductor Process Time Series](http://arxiv.org/abs/2510.20718v1)** | 2025-10-23 | 17 pages, 27 figures |
+| **[GRACE: GRaph-based Addiction Care prEdiction](http://arxiv.org/abs/2510.20671v1)** | 2025-10-23 |  |
+| **[Making Classic GNNs Strong Baselines Across Varying Homophily: A Smoothness-Generalization Perspective](http://arxiv.org/abs/2412.09805v2)** | 2025-10-23 | <details><summary>36 pa...</summary><p>36 pages. Accepted by NeurIPS 2025</p></details> |
+| **[Transferable Graph Learning for Transmission Congestion Management via Busbar Splitting](http://arxiv.org/abs/2510.20591v1)** | 2025-10-23 |  |
+| **[Structural Invariance Matters: Rethinking Graph Rewiring through Graph Metrics](http://arxiv.org/abs/2510.20556v1)** | 2025-10-23 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, conference</p></details> |
+| **[Intransitive Player Dominance and Market Inefficiency in Tennis Forecasting: A Graph Neural Network Approach](http://arxiv.org/abs/2510.20454v1)** | 2025-10-23 | 39 pages, 8 figures |
+| **[Quantifying Distributional Invariance in Causal Subgraph for IRM-Free Graph Generalization](http://arxiv.org/abs/2510.20295v1)** | 2025-10-23 |  |
 | **[Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics](http://arxiv.org/abs/2506.06045v3)** | 2025-10-23 |  |
-| **[gLSTM: Mitigating Over-Squashing by Increasing Storage Capacity](http://arxiv.org/abs/2510.08450v2)** | 2025-10-22 | <details><summary>23 pa...</summary><p>23 pages, 22 figures, 7 tables. v2: clarified over-squashing separation in light of related work</p></details> |
-| **[Scalable Boltzmann Generators for equilibrium sampling of large-scale materials](http://arxiv.org/abs/2509.25486v2)** | 2025-10-22 |  |
-| **[Survey of Graph Neural Network for Internet of Things and NextG Networks](http://arxiv.org/abs/2405.17309v2)** | 2025-10-22 |  |
-| **[EEG-Based Consumer Behaviour Prediction: An Exploration from Classical Machine Learning to Graph Neural Networks](http://arxiv.org/abs/2509.21567v2)** | 2025-10-22 |  |
-| **[A Comprehensive Benchmark for RNA 3D Structure-Function Modeling](http://arxiv.org/abs/2503.21681v3)** | 2025-10-22 |  |
-| **[FnRGNN: Distribution-aware Fairness in Graph Neural Network](http://arxiv.org/abs/2510.19257v1)** | 2025-10-22 |  |
-| **[Enhancing Graph Neural Networks: A Mutual Learning Approach](http://arxiv.org/abs/2510.19223v1)** | 2025-10-22 |  |
-| **[Mesh Interpolation Graph Network for Dynamic and Spatially Irregular Global Weather Forecasting](http://arxiv.org/abs/2509.20911v2)** | 2025-10-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025 main track</p></details> |
-| **[An Active Diffusion Neural Network for Graphs](http://arxiv.org/abs/2510.19202v1)** | 2025-10-22 |  |
-| **[Learning noisy tissue dynamics across time scales](http://arxiv.org/abs/2510.19090v1)** | 2025-10-21 | 15 pages, 6 figures |
-| **[Generation of Uncertainty-Aware Emergent Concepts in Factorized 3D Scene Graphs via Graph Neural Networks](http://arxiv.org/abs/2409.11972v2)** | 2025-10-21 | <details><summary>Submi...</summary><p>Submitted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[Robustness Verification of Graph Neural Networks Via Lightweight Satisfiability Testing](http://arxiv.org/abs/2510.18591v1)** | 2025-10-21 |  |
-| **[Molecular Fingerprints Are Strong Models for Peptide Function Prediction](http://arxiv.org/abs/2501.17901v2)** | 2025-10-21 |  |
-| **[Benchmarking Fairness-aware Graph Neural Networks in Knowledge Graphs](http://arxiv.org/abs/2510.18473v1)** | 2025-10-21 |  |
+| **[Layer-to-Layer Knowledge Mixing in Graph Neural Network for Chemical Property Prediction](http://arxiv.org/abs/2510.20236v1)** | 2025-10-23 |  |
+| **[Text to Band Gap: Pre-trained Language Models as Encoders for Semiconductor Band Gap Prediction](http://arxiv.org/abs/2501.03456v3)** | 2025-10-23 |  |
+| **[Extending machine learning model for implicit solvation to free energy calculations](http://arxiv.org/abs/2510.20103v1)** | 2025-10-23 |  |
+| **[Training Robust Graph Neural Networks by Modeling Noise Dependencies](http://arxiv.org/abs/2502.19670v2)** | 2025-10-23 | NeurIPS 2025 |
 

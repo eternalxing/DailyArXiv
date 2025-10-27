@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 26, 2025
+title: Latest 15 Papers - October 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -15,7 +15,7 @@ labels: documentation
 | **[Fast-Slow Thinking GRPO for Large Vision-Language Model Reasoning](http://arxiv.org/abs/2504.18458v2)** | 2025-10-23 |  |
 | **[TabR1: Taming GRPO for tabular reasoning LLMs](http://arxiv.org/abs/2510.17385v2)** | 2025-10-23 |  |
 | **[ViTacGen: Robotic Pushing with Vision-to-Touch Generation](http://arxiv.org/abs/2510.14117v2)** | 2025-10-23 |  |
-| **[Real-Time Gait Adaptation for Quadrupeds using Model Predictive Control and Reinforcement Learning](http://arxiv.org/abs/2510.20706v1)** | 2025-10-23 |  |
+| **[Real-Time Gait Adaptation for Quadrupeds using Model Predictive Control and Reinforcement Learning](http://arxiv.org/abs/2510.20706v2)** | 2025-10-24 | 7 pages |
 | **[Plan Then Retrieve: Reinforcement Learning-Guided Complex Reasoning over Knowledge Graphs](http://arxiv.org/abs/2510.20691v1)** | 2025-10-23 |  |
 | **[Temporal-Difference Variational Continual Learning](http://arxiv.org/abs/2410.07812v4)** | 2025-10-23 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025</p></details> |
 | **[The Shape of Reasoning: Topological Analysis of Reasoning Traces in Large Language Models](http://arxiv.org/abs/2510.20665v1)** | 2025-10-23 |  |
@@ -50,7 +50,7 @@ labels: documentation
 | **[Learning to Triage Taint Flows Reported by Dynamic Program Analysis in Node.js Packages](http://arxiv.org/abs/2510.20739v1)** | 2025-10-23 |  |
 | **[Unsupervised Anomaly Prediction with N-BEATS and Graph Neural Network in Multi-variate Semiconductor Process Time Series](http://arxiv.org/abs/2510.20718v1)** | 2025-10-23 | 17 pages, 27 figures |
 | **[GRACE: GRaph-based Addiction Care prEdiction](http://arxiv.org/abs/2510.20671v1)** | 2025-10-23 |  |
-| **[Making Classic GNNs Strong Baselines Across Varying Homophily: A Smoothness-Generalization Perspective](http://arxiv.org/abs/2412.09805v2)** | 2025-10-23 | <details><summary>36 pa...</summary><p>36 pages. Accepted by NeurIPS 2025</p></details> |
+| **[Making Classic GNNs Strong Baselines Across Varying Homophily: A Smoothness-Generalization Perspective](http://arxiv.org/abs/2412.09805v3)** | 2025-10-24 | <details><summary>36 pa...</summary><p>36 pages. Accepted by NeurIPS 2025</p></details> |
 | **[Transferable Graph Learning for Transmission Congestion Management via Busbar Splitting](http://arxiv.org/abs/2510.20591v1)** | 2025-10-23 |  |
 | **[Structural Invariance Matters: Rethinking Graph Rewiring through Graph Metrics](http://arxiv.org/abs/2510.20556v1)** | 2025-10-23 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, conference</p></details> |
 | **[Intransitive Player Dominance and Market Inefficiency in Tennis Forecasting: A Graph Neural Network Approach](http://arxiv.org/abs/2510.20454v1)** | 2025-10-23 | 39 pages, 8 figures |

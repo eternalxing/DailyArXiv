@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 01, 2025
+title: Latest 15 Papers - November 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -36,11 +36,6 @@ labels: documentation
 | **[Traffic Co-Simulation Framework Empowered by Infrastructure Camera Sensing and Reinforcement Learning](http://arxiv.org/abs/2412.03925v2)** | 2025-09-18 |  |
 | **[HiLight: A Hierarchical Reinforcement Learning Framework with Global Adversarial Guidance for Large-Scale Traffic Signal Control](http://arxiv.org/abs/2506.14391v2)** | 2025-09-11 |  |
 | **[EvolveSignal: A Large Language Model Powered Coding Agent for Discovering Traffic Signal Control Algorithms](http://arxiv.org/abs/2509.03335v2)** | 2025-09-04 |  |
-| **[A Hierarchical Deep Reinforcement Learning Framework for Traffic Signal Control with Predictable Cycle Planning](http://arxiv.org/abs/2509.03118v1)** | 2025-09-03 |  |
-| **[Goal-Conditioned Data Augmentation for Offline Reinforcement Learning](http://arxiv.org/abs/2412.20519v2)** | 2025-09-02 |  |
-| **[cMALC-D: Contextual Multi-Agent LLM-Guided Curriculum Learning with Diversity-Based Context Blending](http://arxiv.org/abs/2508.20818v1)** | 2025-08-28 | <details><summary>A sho...</summary><p>A shorter version has been accepted to the 2025 Conference on Information and Knowledge Management</p></details> |
-| **[Multi-Agent Reinforcement Learning in Intelligent Transportation Systems: A Comprehensive Survey](http://arxiv.org/abs/2508.20315v1)** | 2025-08-27 |  |
-| **[GPLight+: A Genetic Programming Method for Learning Symmetric Traffic Signal Control Policy](http://arxiv.org/abs/2508.16090v1)** | 2025-08-22 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |

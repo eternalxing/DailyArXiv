@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2025
+title: Latest 15 Papers - November 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Defeating the Training-Inference Mismatch via FP16](http://arxiv.org/abs/2510.26788v1)** | 2025-10-30 |  |
-| **[A General Incentives-Based Framework for Fairness in Multi-agent Resource Allocation](http://arxiv.org/abs/2510.26740v1)** | 2025-10-30 |  |
-| **[Enhancing Reasoning Skills in Small Persian Medical Language Models Can Outperform Large-Scale Data Training](http://arxiv.org/abs/2510.20059v2)** | 2025-10-30 | 7 pages, 5 figures |
-| **[RLBFF: Binary Flexible Feedback to bridge between Human Feedback & Verifiable Rewards](http://arxiv.org/abs/2509.21319v2)** | 2025-10-30 | <details><summary>Added...</summary><p>Added link to access models: https://huggingface.co/collections/nvidia/reward-models-10-2025</p></details> |
-| **[Kimi Linear: An Expressive, Efficient Attention Architecture](http://arxiv.org/abs/2510.26692v1)** | 2025-10-30 | <details><summary>Kimi ...</summary><p>Kimi Linear tech report</p></details> |
-| **[Action-Driven Processes for Continuous-Time Control](http://arxiv.org/abs/2510.26672v1)** | 2025-10-30 |  |
-| **[The Era of Agentic Organization: Learning to Organize with Language Models](http://arxiv.org/abs/2510.26658v1)** | 2025-10-30 |  |
-| **[Hybrid DQN-TD3 Reinforcement Learning for Autonomous Navigation in Dynamic Environments](http://arxiv.org/abs/2510.26646v1)** | 2025-10-30 | <details><summary>6 pag...</summary><p>6 pages, 5 figures; ROS+Gazebo (TurtleBot3) implementation; evaluation with PathBench metrics; code (primary): https://github.com/MayaCHEN-github/HierarchicalRL-robot-navigation; mirror (for reproducibility): https://github.com/ShowyHe/DRL-robot-navigation</p></details> |
-| **[Low-Altitude UAV-Carried Movable Antenna for Joint Wireless Power Transfer and Covert Communications](http://arxiv.org/abs/2510.26628v1)** | 2025-10-30 | <details><summary>This ...</summary><p>This paper has been submitted to IEEE Journal on Selected Areas in Communications</p></details> |
-| **[A DRL-Empowered Multi-Level Jamming Approach for Secure Semantic Communication](http://arxiv.org/abs/2510.26610v1)** | 2025-10-30 |  |
-| **[Emu3.5: Native Multimodal Models are World Learners](http://arxiv.org/abs/2510.26583v1)** | 2025-10-30 | <details><summary>proje...</summary><p>project page: https://emu.world</p></details> |
-| **[InfoFlow: Reinforcing Search Agent Via Reward Density Optimization](http://arxiv.org/abs/2510.26575v1)** | 2025-10-30 |  |
-| **[Smart Exploration in Reinforcement Learning using Bounded Uncertainty Models](http://arxiv.org/abs/2504.05978v2)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted for Presentation at 64th IEEE Conference on Decision and Control, CDC 2025, Rio de Janeiro, Brazil, 2025</p></details> |
-| **[Incentivizing LLMs to Self-Verify Their Answers](http://arxiv.org/abs/2506.01369v2)** | 2025-10-30 |  |
-| **[Human-Like Goalkeeping in a Realistic Football Simulation: a Sample-Efficient Reinforcement Learning Approach](http://arxiv.org/abs/2510.23216v3)** | 2025-10-30 |  |
+| **[Challenges in Credit Assignment for Multi-Agent Reinforcement Learning in Open Agent Systems](http://arxiv.org/abs/2510.27659v1)** | 2025-10-31 |  |
+| **[Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning](http://arxiv.org/abs/2510.27606v1)** | 2025-10-31 | preprint |
+| **[MARAG-R1: Beyond Single Retriever via Reinforcement-Learned Multi-Tool Agentic Retrieval](http://arxiv.org/abs/2510.27569v1)** | 2025-10-31 |  |
+| **[Interact-RAG: Reason and Interact with the Corpus, Beyond Black-Box Retrieval](http://arxiv.org/abs/2510.27566v1)** | 2025-10-31 |  |
+| **[NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation](http://arxiv.org/abs/2504.13055v4)** | 2025-10-31 | NeurIPS 2025 |
+| **[RObotic MAnipulation Network (ROMAN) -- Hybrid Hierarchical Learning for Solving Complex Sequential Tasks](http://arxiv.org/abs/2307.00125v3)** | 2025-10-31 | <details><summary>To ap...</summary><p>To appear in Nature Machine Intelligence. Includes the main and supplementary manuscript. Total of 70 pages, with a total of 9 Figures and 17 Tables</p></details> |
+| **[DO-IQS: Dynamics-Aware Offline Inverse Q-Learning for Optimal Stopping with Unknown Gain Functions](http://arxiv.org/abs/2503.03515v2)** | 2025-10-31 |  |
+| **[Generating Auxiliary Tasks with Reinforcement Learning](http://arxiv.org/abs/2510.22940v3)** | 2025-10-31 |  |
+| **[VCORE: Variance-Controlled Optimization-based Reweighting for Chain-of-Thought Supervision](http://arxiv.org/abs/2510.27462v1)** | 2025-10-31 | Under Review |
+| **[Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning](http://arxiv.org/abs/2505.14216v2)** | 2025-10-31 | 25 pages |
+| **[Learning Soft Robotic Dynamics with Active Exploration](http://arxiv.org/abs/2510.27428v1)** | 2025-10-31 |  |
+| **[DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO](http://arxiv.org/abs/2506.07464v4)** | 2025-10-31 | NeurIPS 2025 |
+| **[DeepCompress: A Dual Reward Strategy for Dynamically Exploring and Compressing Reasoning Chains](http://arxiv.org/abs/2510.27419v1)** | 2025-10-31 | Work in progress |
+| **[Realistic pedestrian-driver interaction modelling using multi-agent RL with human perceptual-motor constraints](http://arxiv.org/abs/2510.27383v1)** | 2025-10-31 |  |
+| **[Uncertainty-Based Smooth Policy Regularisation for Reinforcement Learning with Few Demonstrations](http://arxiv.org/abs/2509.15981v2)** | 2025-10-31 |  |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Sparse Approximate Inverse Preconditioners for Conjugate Gradient Solvers on GPUs](http://arxiv.org/abs/2510.27517v1)** | 2025-10-31 | NeurIPS 2025, poster |
+| **[Spectral Neural Graph Sparsification](http://arxiv.org/abs/2510.27474v1)** | 2025-10-31 |  |
+| **[Geometry-Aware Edge Pooling for Graph Neural Networks](http://arxiv.org/abs/2506.11700v2)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS) 2025. Our code is available at https://github.com/aidos-lab/mag_edge_pool</p></details> |
+| **[Multi-Modal Feature Fusion for Spatial Morphology Analysis of Traditional Villages via Hierarchical Graph Neural Networks](http://arxiv.org/abs/2510.27208v1)** | 2025-10-31 |  |
+| **[MDAS-GNN: Multi-Dimensional Spatiotemporal GNN with Spatial Diffusion for Urban Traffic Risk Forecasting](http://arxiv.org/abs/2510.27197v1)** | 2025-10-31 |  |
+| **[A Cloud-Based Spatio-Temporal GNN-Transformer Hybrid Model for Traffic Flow Forecasting with External Feature Integration](http://arxiv.org/abs/2510.27039v1)** | 2025-10-30 |  |
+| **[A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification](http://arxiv.org/abs/2410.22377v3)** | 2025-10-30 | <details><summary>Compl...</summary><p>Complementary GitHub repository at https://github.com/FlaGer99/SLR-Spatio-Temporal-GNN.git</p></details> |
+| **[Graph Semi-Supervised Learning for Point Classification on Data Manifolds](http://arxiv.org/abs/2506.12197v2)** | 2025-10-30 | 16 pages, 3 figures |
+| **[RELATE: A Schema-Agnostic Perceiver Encoder for Multimodal Relational Graphs](http://arxiv.org/abs/2510.19954v2)** | 2025-10-30 | 6 pages |
 | **[HEIR: Learning Graph-Based Motion Hierarchies](http://arxiv.org/abs/2510.26786v1)** | 2025-10-30 | <details><summary>Code ...</summary><p>Code link: https://github.com/princeton-computational-imaging/HEIR</p></details> |
 | **[Understanding Generalization in Node and Link Prediction](http://arxiv.org/abs/2507.00927v3)** | 2025-10-30 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2412.07106</p></details> |
 | **[UnifiedFL: A Dynamic Unified Learning Framework for Equitable Federation](http://arxiv.org/abs/2510.26350v1)** | 2025-10-30 |  |
 | **[From Embedding to Control: Representations for Stochastic Multi-Object Systems](http://arxiv.org/abs/2510.26344v1)** | 2025-10-30 |  |
 | **[A Survey of Heterogeneous Graph Neural Networks for Cybersecurity Anomaly Detection](http://arxiv.org/abs/2510.26307v1)** | 2025-10-30 | <details><summary>37 pa...</summary><p>37 pages, 4 figures, 86 references. Submitted to Journal of Computer Security (under review)</p></details> |
 | **[Morphology-Aware Graph Reinforcement Learning for Tensegrity Robot Locomotion](http://arxiv.org/abs/2510.26067v1)** | 2025-10-30 |  |
-| **[Data-driven Projection Generation for Efficiently Solving Heterogeneous Quadratic Programming Problems](http://arxiv.org/abs/2510.26061v1)** | 2025-10-30 |  |
-| **[Hierarchical Graph Networks for Accurate Weather Forecasting via Lightweight Training](http://arxiv.org/abs/2510.22094v2)** | 2025-10-29 |  |
-| **[Robust GNN Watermarking via Implicit Perception of Topological Invariants](http://arxiv.org/abs/2510.25934v1)** | 2025-10-29 |  |
-| **[Graph Network-based Structural Simulator: Graph Neural Networks for Structural Dynamics](http://arxiv.org/abs/2510.25683v1)** | 2025-10-29 | 16 pages, 14 figures |
-| **[A method for the systematic generation of graph XAI benchmarks via Weisfeiler-Leman coloring](http://arxiv.org/abs/2505.12437v2)** | 2025-10-29 |  |
-| **[Exploring End-to-end Differentiable Neural Charged Particle Tracking -- A Loss Landscape Perspective](http://arxiv.org/abs/2407.13420v2)** | 2025-10-29 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), 2025</p></details> |
-| **[GnnXemplar: Exemplars to Explanations -- Natural Language Rules for Global GNN Interpretability](http://arxiv.org/abs/2509.18376v2)** | 2025-10-29 | <details><summary>38 pa...</summary><p>38 pages, 20 figures, NeurIPS 2025 (Oral)</p></details> |
-| **[FastJAM: a Fast Joint Alignment Model for Images](http://arxiv.org/abs/2510.22842v2)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025. Pages 1-10 are the Main Paper. Pages 23-31 are Supplemental Material. FastJAM website - https://bgu-cs-vil.github.io/FastJAM/</p></details> |
-| **[Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting](http://arxiv.org/abs/2410.12593v3)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
 

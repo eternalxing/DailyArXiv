@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 06, 2025
+title: Latest 15 Papers - November 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,16 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Imagine Beyond! Distributionally Robust Auto-Encoding for State Space Coverage in Online Reinforcement Learning](http://arxiv.org/abs/2505.17830v3)** | 2025-11-04 |  |
-| **[MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning](http://arxiv.org/abs/2511.02805v1)** | 2025-11-04 | <details><summary>Proje...</summary><p>Project page: https://github.com/icip-cas/MemSearcher</p></details> |
-| **[From Solo to Symphony: Orchestrating Multi-Agent Collaboration with Single-Agent Demos](http://arxiv.org/abs/2511.02762v1)** | 2025-11-04 |  |
-| **[Controlling Performance and Budget of a Centralized Multi-agent LLM System with Reinforcement Learning](http://arxiv.org/abs/2511.02755v1)** | 2025-11-04 | 14 pages |
-| **[Noise-based reward-modulated learning](http://arxiv.org/abs/2503.23972v3)** | 2025-11-04 |  |
-| **[VidEmo: Affective-Tree Reasoning for Emotion-Centric Video Foundation Models](http://arxiv.org/abs/2511.02712v1)** | 2025-11-04 | 41 pages, 26 figures |
-| **[Curriculum Design for Trajectory-Constrained Agent: Compressing Chain-of-Thought Tokens in LLMs](http://arxiv.org/abs/2511.02690v1)** | 2025-11-04 | NeurIPS'25 paper |
-| **[Audio-Thinker: Guiding Audio Language Model When and How to Think via Reinforcement Learning](http://arxiv.org/abs/2508.08039v3)** | 2025-11-04 | preprint |
-| **[RL-Aided Cognitive ISAC: Robust Detection and Sensing-Communication Trade-offs](http://arxiv.org/abs/2511.02672v1)** | 2025-11-04 | <details><summary>29 pa...</summary><p>29 pages, 14 figures. Invited paper, submitted to the EURASIP Journal on Wireless Communications and Networking (JWCN)</p></details> |
-| **[FELA: A Multi-Agent Evolutionary System for Feature Engineering of Industrial Event Log Data](http://arxiv.org/abs/2510.25223v2)** | 2025-11-04 | 14 pages, 11 figures |
+| **[Outbidding and Outbluffing Elite Humans: Mastering Liar's Poker via Self-Play and Reinforcement Learning](http://arxiv.org/abs/2511.03724v1)** | 2025-11-05 |  |
+| **[Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards](http://arxiv.org/abs/2511.03710v1)** | 2025-11-05 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
+| **[AnaFlow: Agentic LLM-based Workflow for Reasoning-Driven Explainable and Sample-Efficient Analog Circuit Sizing](http://arxiv.org/abs/2511.03697v1)** | 2025-11-05 | <details><summary>This ...</summary><p>This article was accepted by 2025 International Conference on Computer-Aided Design (ICCAD 2025) and was presented in Munich, October 2025</p></details> |
+| **[Behavior-Adaptive Q-Learning: A Unifying Framework for Offline-to-Online RL](http://arxiv.org/abs/2511.03695v1)** | 2025-11-05 |  |
+| **[Simulation-Based Validation of an Integrated 4D/5D Digital-Twin Framework for Predictive Construction Control](http://arxiv.org/abs/2511.03684v1)** | 2025-11-05 |  |
+| **[DQN Performance with Epsilon Greedy Policies and Prioritized Experience Replay](http://arxiv.org/abs/2511.03670v1)** | 2025-11-05 | 10 pages, 8 figures |
+| **[RoboRAN: A Unified Robotics Framework for Reinforcement Learning-Based Autonomous Navigation](http://arxiv.org/abs/2505.14526v2)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted at Transactions on Machine Learning Research (TMLR)</p></details> |
+| **[Shift Before You Learn: Enabling Low-Rank Representations in Reinforcement Learning](http://arxiv.org/abs/2509.05193v2)** | 2025-11-05 | <details><summary>63 pa...</summary><p>63 pages, 11 figures. Accepted to NeurIPS 2025 (Spotlight)</p></details> |
+| **[The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise](http://arxiv.org/abs/2401.07844v7)** | 2025-11-05 | <details><summary>Journ...</summary><p>Journal of Machine Learning Research (JMLR), 2025</p></details> |
+| **[Towards Formalizing Reinforcement Learning Theory](http://arxiv.org/abs/2511.03618v1)** | 2025-11-05 |  |
+| **[Going Beyond Expert Performance via Deep Implicit Imitation Reinforcement Learning](http://arxiv.org/abs/2511.03616v1)** | 2025-11-05 |  |
+| **[Tensor-Efficient High-Dimensional Q-learning](http://arxiv.org/abs/2511.03595v1)** | 2025-11-05 |  |
+| **[PerfDojo: Automated ML Library Generation for Heterogeneous Architectures](http://arxiv.org/abs/2511.03586v1)** | 2025-11-05 |  |
+| **[Reinforcement Learning Foundations for Deep Research Systems: A Survey](http://arxiv.org/abs/2509.06733v2)** | 2025-11-05 | <details><summary>39 pa...</summary><p>39 pages, second version</p></details> |
+| **[Learning Without Critics? Revisiting GRPO in Classical Reinforcement Learning Environments](http://arxiv.org/abs/2511.03527v1)** | 2025-11-05 |  |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -40,19 +45,12 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Causal Graph Neural Networks for Healthcare](http://arxiv.org/abs/2511.02531v1)** | 2025-11-04 |  |
-| **[Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization](http://arxiv.org/abs/2511.02489v1)** | 2025-11-04 | <details><summary>20 pa...</summary><p>20 pages, Submitted to IEEE TIM</p></details> |
-| **[Using ensemble learning with hybrid graph neural networks and transformers to predict traffic in cities](http://arxiv.org/abs/2511.02484v1)** | 2025-11-04 |  |
-| **[Link Prediction with Untrained Message Passing Layers](http://arxiv.org/abs/2406.16687v2)** | 2025-11-04 |  |
-| **[Evolving Graph Learning for Out-of-Distribution Generalization in Non-stationary Environments](http://arxiv.org/abs/2511.02354v1)** | 2025-11-04 |  |
-| **[Explainable Graph Neural Architecture Search via Monte-Carlo Tree Search (Full version)](http://arxiv.org/abs/2308.15734v3)** | 2025-11-04 |  |
-| **[UFGraphFR: Graph Federation Recommendation System based on User Text description features](http://arxiv.org/abs/2501.08044v4)** | 2025-11-04 |  |
-| **[3DViT-GAT: A Unified Atlas-Based 3D Vision Transformer and Graph Learning Framework for Major Depressive Disorder Detection Using Structural MRI Data](http://arxiv.org/abs/2509.12143v3)** | 2025-11-04 | <details><summary>17 pa...</summary><p>17 pages, 3 figure, 9 tables</p></details> |
-| **[Link prediction Graph Neural Networks for structure recognition of Handwritten Mathematical Expressions](http://arxiv.org/abs/2511.02288v1)** | 2025-11-04 | <details><summary>accep...</summary><p>accepted for ICDAR2025-WML</p></details> |
-| **[PrivGNN: High-Performance Secure Inference for Cryptographic Graph Neural Networks](http://arxiv.org/abs/2511.02185v1)** | 2025-11-04 | Accepted to FC'25 |
-| **[AGNES: Adaptive Graph Neural Network and Dynamic Programming Hybrid Framework for Real-Time Nanopore Seed Chaining](http://arxiv.org/abs/2510.16013v3)** | 2025-11-04 | <details><summary>31 pa...</summary><p>31 pages, 12 figures, 6 tables. Submitted to ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB). Includes comprehensive evaluation with statistical validation, ablation studies, and open-source implementation</p></details> |
-| **[Rethinking LLM Human Simulation: When a Graph is What You Need](http://arxiv.org/abs/2511.02135v1)** | 2025-11-03 | <details><summary>Code:...</summary><p>Code: https://github.com/schang-lab/gems</p></details> |
-| **[A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification](http://arxiv.org/abs/2410.22377v4)** | 2025-11-03 |  |
-| **[Predicting Microbial Interactions Using Graph Neural Networks](http://arxiv.org/abs/2511.02038v1)** | 2025-11-03 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, NeurIPS 2025 Workshop New Perspectives in Graph Machine Learning</p></details> |
-| **[E2Former: An Efficient and Equivariant Transformer with Linear-Scaling Tensor Products](http://arxiv.org/abs/2501.19216v4)** | 2025-11-03 |  |
+| **[Graph Sampling for Scalable and Expressive Graph Neural Networks on Homophilic Graphs](http://arxiv.org/abs/2410.16593v5)** | 2025-11-05 |  |
+| **[SHIELD: Securing Healthcare IoT with Efficient Machine Learning Techniques for Anomaly Detection](http://arxiv.org/abs/2511.03661v1)** | 2025-11-05 |  |
+| **[A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges](http://arxiv.org/abs/2403.04468v2)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2025)</p></details> |
+| **[Learning noisy tissue dynamics across time scales](http://arxiv.org/abs/2510.19090v2)** | 2025-11-05 | 15 pages, 6 figures |
+| **[Graph Neural AI with Temporal Dynamics for Comprehensive Anomaly Detection in Microservices](http://arxiv.org/abs/2511.03285v1)** | 2025-11-05 |  |
+| **[GMoPE:A Prompt-Expert Mixture Framework for Graph Foundation Models](http://arxiv.org/abs/2511.03251v1)** | 2025-11-05 |  |
+| **[GraphCliff: Short-Long Range Gating for Subtle Differences but Critical Changes](http://arxiv.org/abs/2511.03170v1)** | 2025-11-05 |  |
+| **[Homomorphism distortion: A metric to distinguish them all and in the latent space bind them](http://arxiv.org/abs/2511.03068v1)** | 2025-11-04 |  |
 

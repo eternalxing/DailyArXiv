@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 10, 2025
+title: Latest 15 Papers - November 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction](http://arxiv.org/abs/2511.04679v1)** | 2025-11-06 | <details><summary>Home ...</summary><p>Home page: https://gentle-humanoid.axell.top</p></details> |
-| **[Forgetting is Everywhere](http://arxiv.org/abs/2511.04666v1)** | 2025-11-06 | <details><summary>Proje...</summary><p>Project page: https://ben-sanati.github.io/forgetting-is-everywhere-project/</p></details> |
-| **[Environment Agnostic Goal-Conditioning, A Study of Reward-Free Autonomous Learning](http://arxiv.org/abs/2511.04598v1)** | 2025-11-06 | <details><summary>8 pag...</summary><p>8 pages without cover, references and supplementary materials, 11 with. Submitted to RLC 2025's workshop RLBrew and IMOL 2025</p></details> |
-| **[End-to-End Reinforcement Learning of Koopman Models for eNMPC of an Air Separation Unit](http://arxiv.org/abs/2511.04522v1)** | 2025-11-06 | <details><summary>manus...</summary><p>manuscript (8 pages, 5 figures, 1 table), supplementary materials (5 pages, 1 figure, 1 table)</p></details> |
-| **[V-Thinker: Interactive Thinking with Images](http://arxiv.org/abs/2511.04460v1)** | 2025-11-06 | Working in progress |
-| **[Fitting Reinforcement Learning Model to Behavioral Data under Bandits](http://arxiv.org/abs/2511.04454v1)** | 2025-11-06 |  |
-| **[Learning Communication Skills in Multi-task Multi-agent Deep Reinforcement Learning](http://arxiv.org/abs/2511.03348v2)** | 2025-11-06 | 20 pages, 10 figures |
-| **[The Peril of Preference: Why GRPO fails on Ordinal Rewards](http://arxiv.org/abs/2511.04439v1)** | 2025-11-06 |  |
-| **[Temporal Action Selection for Action Chunking](http://arxiv.org/abs/2511.04421v1)** | 2025-11-06 |  |
-| **[MacroNav: Multi-Task Context Representation Learning Enables Efficient Navigation in Unknown Environments](http://arxiv.org/abs/2511.04320v1)** | 2025-11-06 |  |
-| **[GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents](http://arxiv.org/abs/2511.04307v1)** | 2025-11-06 |  |
-| **[Efficient Reinforcement Learning from Human Feedback via Bayesian Preference Inference](http://arxiv.org/abs/2511.04286v1)** | 2025-11-06 |  |
-| **[RLoop: An Self-Improving Framework for Reinforcement Learning with Iterative Policy Initialization](http://arxiv.org/abs/2511.04285v1)** | 2025-11-06 |  |
-| **[SSPO: Subsentence-level Policy Optimization](http://arxiv.org/abs/2511.04256v1)** | 2025-11-06 |  |
-| **[Can Context Bridge the Reality Gap? Sim-to-Real Transfer of Context-Aware Policies](http://arxiv.org/abs/2511.04249v1)** | 2025-11-06 |  |
+| **[Visual Spatial Tuning](http://arxiv.org/abs/2511.05491v1)** | 2025-11-07 |  |
+| **[TimeSearch-R: Adaptive Temporal Search for Long-Form Video Understanding via Self-Verification Reinforcement Learning](http://arxiv.org/abs/2511.05489v1)** | 2025-11-07 | <details><summary>22 pa...</summary><p>22 pages, 17 figures. Official code: https://github.com/Time-Search/TimeSearch-R</p></details> |
+| **[Tactical Decision Making for Autonomous Trucks by Deep Reinforcement Learning with Total Cost of Operation Based Reward](http://arxiv.org/abs/2403.06524v2)** | 2025-11-07 | <details><summary>Paper...</summary><p>Paper is accepted for publication in Artificial Intelligence Review</p></details> |
+| **[Ethics-Aware Safe Reinforcement Learning for Rare-Event Risk Control in Interactive Urban Driving](http://arxiv.org/abs/2508.14926v3)** | 2025-11-07 |  |
+| **[Stochastic Approximation with Unbounded Markovian Noise: A General-Purpose Theorem](http://arxiv.org/abs/2410.21704v2)** | 2025-11-07 |  |
+| **[Minority-Aware Satisfaction Estimation in Dialogue Systems via Preference-Adaptive Reinforcement Learning](http://arxiv.org/abs/2511.05407v1)** | 2025-11-07 | <details><summary>IJCNL...</summary><p>IJCNLP-AACL 2025 (Main)</p></details> |
+| **[Sample Complexity of Distributionally Robust Off-Dynamics Reinforcement Learning with Online Interaction](http://arxiv.org/abs/2511.05396v1)** | 2025-11-07 | <details><summary>53 pa...</summary><p>53 pages, 6 figures, 3 tables. Published in Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
+| **[PreResQ-R1: Towards Fine-Grained Rank-and-Score Reinforcement Learning for Visual Quality Assessment via Preference-Response Disentangled Policy Optimization](http://arxiv.org/abs/2511.05393v1)** | 2025-11-07 | <details><summary>27 pa...</summary><p>27 pages, 14 figures, under review as a conference paper</p></details> |
+| **[Outbidding and Outbluffing Elite Humans: Mastering Liar's Poker via Self-Play and Reinforcement Learning](http://arxiv.org/abs/2511.03724v2)** | 2025-11-07 |  |
+| **[TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework](http://arxiv.org/abs/2511.05385v1)** | 2025-11-07 | 32 pages |
+| **[QUESTER: Query Specification for Generative Retrieval](http://arxiv.org/abs/2511.05301v1)** | 2025-11-07 |  |
+| **[Reflective Personalization Optimization: A Post-hoc Rewriting Framework for Black-Box Large Language Models](http://arxiv.org/abs/2511.05286v1)** | 2025-11-07 |  |
+| **[DeepEyesV2: Toward Agentic Multimodal Model](http://arxiv.org/abs/2511.05271v1)** | 2025-11-07 | <details><summary>Homep...</summary><p>Homepage: https://visual-agent.github.io/</p></details> |
+| **[An End-to-End Deep Reinforcement Learning Approach for Solving the Traveling Salesman Problem with Drones](http://arxiv.org/abs/2511.05265v1)** | 2025-11-07 |  |
+| **[Emergence from Emergence: Financial Market Simulation via Learning with Heterogeneous Preferences](http://arxiv.org/abs/2511.05207v1)** | 2025-11-07 |  |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,11 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DGTN: Graph-Enhanced Transformer with Diffusive Attention Gating Mechanism for Enzyme DDG Prediction](http://arxiv.org/abs/2511.05483v1)** | 2025-11-07 |  |
+| **[No One-Model-Fits-All: Uncovering Spatio-Temporal Forecasting Trade-offs with Graph Neural Networks and Foundation Models](http://arxiv.org/abs/2511.05179v1)** | 2025-11-07 |  |
+| **[Graph Learning](http://arxiv.org/abs/2507.05636v2)** | 2025-11-07 | 185 pages |
+| **[Peptide2Mol: A Diffusion Model for Generating Small Molecules as Peptide Mimics for Targeted Protein Binding](http://arxiv.org/abs/2511.04984v1)** | 2025-11-07 | <details><summary>Abstr...</summary><p>Abstract 1 page, main text 9 pages, references 2 pages, 4 figures. Submitted to RECOMB 2026</p></details> |
+| **[SPECTRA: Spectral Target-Aware Graph Augmentation for Imbalanced Molecular Property Regression](http://arxiv.org/abs/2511.04838v1)** | 2025-11-06 |  |
 | **[SolarCrossFormer: Improving day-ahead Solar Irradiance Forecasting by Integrating Satellite Imagery and Ground Sensors](http://arxiv.org/abs/2509.15827v2)** | 2025-11-06 | <details><summary>14 pa...</summary><p>14 pages, 18 figures, accepted for publication in IEEE Transactions on Sustainable Energy</p></details> |
 | **[WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](http://arxiv.org/abs/2505.08614v4)** | 2025-11-06 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 7 tables</p></details> |
 | **[Causal Graph Neural Networks for Healthcare](http://arxiv.org/abs/2511.02531v2)** | 2025-11-06 |  |
@@ -55,9 +60,4 @@ labels: documentation
 | **[GNN-MoE: Context-Aware Patch Routing using GNNs for Parameter-Efficient Domain Generalization](http://arxiv.org/abs/2511.04008v1)** | 2025-11-06 | 6 pages, 3 figures |
 | **[Local Fragments, Global Gains: Subgraph Counting using Graph Neural Networks](http://arxiv.org/abs/2305.19659v4)** | 2025-11-05 |  |
 | **[Sketch-Augmented Features Improve Learning Long-Range Dependencies in Graph Neural Networks](http://arxiv.org/abs/2511.03824v1)** | 2025-11-05 | <details><summary>To ap...</summary><p>To appear at NeurIPS 2025</p></details> |
-| **[Deep Graph Learning for Industrial Carbon Emission Analysis and Policy Impact](http://arxiv.org/abs/2507.02912v3)** | 2025-11-05 | <details><summary>NeurI...</summary><p>NeurIPS 2025 AI for Science Workshop</p></details> |
-| **[Graph Sampling for Scalable and Expressive Graph Neural Networks on Homophilic Graphs](http://arxiv.org/abs/2410.16593v5)** | 2025-11-05 |  |
-| **[SHIELD: Securing Healthcare IoT with Efficient Machine Learning Techniques for Anomaly Detection](http://arxiv.org/abs/2511.03661v1)** | 2025-11-05 |  |
-| **[A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges](http://arxiv.org/abs/2403.04468v2)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2025)</p></details> |
-| **[Learning noisy tissue dynamics across time scales](http://arxiv.org/abs/2510.19090v2)** | 2025-11-05 | 15 pages, 6 figures |
 

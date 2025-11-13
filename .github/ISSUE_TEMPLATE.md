@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 12, 2025
+title: Latest 15 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -54,8 +54,8 @@ labels: documentation
 | **[Graph Neural Networks for Small Graph and Giant Network Representation Learning: An Overview](https://arxiv.org/pdf/1908.00187v1)** | 2019-09-30 | <details><summary>30 pa...</summary><p>30 pages. arXiv admin note: text overlap with arXiv:1908.00187</p></details> |
 | **[On Node Features for Graph Neural Networks](https://arxiv.org/pdf/1911.08795v1)** | 2019-11-21 |  |
 | **[Graph Neural Processes: Towards Bayesian Graph Neural Networks](https://arxiv.org/pdf/1902.10042v2)** | 2019-10-03 |  |
-| **[Spatio-Temporal Graph Neural Networks: A Survey](https://arxiv.org/pdf/2301.10569v2)** | 2023-02-14 |  |
 | **[Graph Neural Networks: Taxonomy, Advances and Trends](https://arxiv.org/pdf/2012.08752v4)** | 2022-02-28 | 55 pages, 7 figures |
+| **[Spatio-Temporal Graph Neural Networks: A Survey](https://arxiv.org/pdf/2301.10569v2)** | 2023-02-14 |  |
 | **[Graph Coordinates and Conventional Neural Networks -- An Alternative for Graph Neural Networks](https://arxiv.org/pdf/2312.01342v1)** | 2024-04-19 | <details><summary>This ...</summary><p>This paper is submitted and will be published on Big Data Conference 2023, Data-driven Science for Graphs: Algorithms, Architectures, and Application workshop</p></details> |
 | **[Quantum Graph Neural Networks](https://arxiv.org/pdf/1909.12264v1)** | 2019-09-27 | 8 pages |
 | **[Inferring the Graph Structure of Images for Graph Neural Networks](https://arxiv.org/pdf/2509.04677v1)** | 2025-09-08 |  |

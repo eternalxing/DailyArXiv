@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unsupervised Meta-Learning for Reinforcement Learning](https://arxiv.org/pdf/1806.04640v3)** | 2020-05-01 | <details><summary>First...</summary><p>First two authors contributed equally</p></details> |
-| **[Lineage Evolution Reinforcement Learning](https://arxiv.org/pdf/2010.14616v1)** | 2020-10-29 |  |
-| **[Reinforcement Learning: A Survey](https://arxiv.org/pdf/cs/9605103v1)** | 2014-11-17 | <details><summary>See h...</summary><p>See http://www.jair.org/ for any accompanying files</p></details> |
-| **[Transfer Learning in Deep Reinforcement Learning: A Survey](https://arxiv.org/pdf/2009.07888v7)** | 2023-07-06 |  |
-| **[Causal Reinforcement Learning: A Survey](https://arxiv.org/pdf/2307.01452v2)** | 2023-11-22 | 52 pages, 10 figures |
-| **[Two-Memory Reinforcement Learning](https://arxiv.org/pdf/2304.10098v2)** | 2023-04-25 |  |
-| **[Rating-based Reinforcement Learning](https://arxiv.org/pdf/2307.16348v2)** | 2024-01-30 | <details><summary>This ...</summary><p>This is an extended version of the paper "Rating-based Reinforcement Learning" accepted to the 38th Annual AAAI Conference on Artificial Intelligence</p></details> |
-| **[Reinforcement Learning in R](https://arxiv.org/pdf/1810.00240v1)** | 2018-10-02 |  |
-| **[Reinforcement learning](https://arxiv.org/pdf/2405.10369v1)** | 2024-05-20 | <details><summary>To ap...</summary><p>To appear, Astronomy & Computing</p></details> |
-| **[Reinforcement Evolutionary Learning Method for self-learning](https://arxiv.org/pdf/1810.03198v1)** | 2018-10-09 | 5 figures |
-| **[Interpretable Reinforcement Learning with Ensemble Methods](https://arxiv.org/pdf/1809.06995v1)** | 2018-09-20 |  |
-| **[Approximating Shapley Explanations in Reinforcement Learning](https://arxiv.org/pdf/2511.06094v1)** | 2025-11-11 | <details><summary>Camer...</summary><p>Camera-ready version. Published at the Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Rethinking the Foundations for Continual Reinforcement Learning](https://arxiv.org/pdf/2504.08161v3)** | 2025-07-16 |  |
-| **[A Definition of Continual Reinforcement Learning](https://arxiv.org/pdf/2307.11046v2)** | 2023-12-04 | NeurIPS 2023 |
-| **[Federated Deep Reinforcement Learning](https://arxiv.org/pdf/1901.08277v3)** | 2020-02-11 | 9 pages, 5 figures |
+| **[Enhancing the Outcome Reward-based RL Training of MLLMs with Self-Consistency Sampling](https://arxiv.org/abs/2511.10648v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 (The Thirty-Ninth Annual Conference on Neural Information Processing Systems)</p></details> |
+| **[Robot Crash Course: Learning Soft and Stylized Falling](https://arxiv.org/abs/2511.10635v1)** | 2025-11-13 |  |
+| **[Instella: Fully Open Language Models with Stellar Performance](https://arxiv.org/abs/2511.10628v1)** | 2025-11-13 |  |
+| **[Global Solutions to Non-Convex Functional Constrained Problems with Hidden Convexity](https://arxiv.org/abs/2511.10626v1)** | 2025-11-13 |  |
+| **[Towards Emotionally Intelligent and Responsible Reinforcement Learning](https://arxiv.org/abs/2511.10573v1)** | 2025-11-13 |  |
+| **[Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following](https://arxiv.org/abs/2511.10507v1)** | 2025-11-13 |  |
+| **[Strategic Opponent Modeling with Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling](https://arxiv.org/abs/2511.10501v1)** | 2025-11-13 | 26 pages |
+| **[Transfer in Reinforcement Learning via Regret Bounds for Learning Agents](https://arxiv.org/abs/2202.01182v2)** | 2025-11-13 |  |
+| **[Reasoning About Intent for Ambiguous Requests](https://arxiv.org/abs/2511.10453v1)** | 2025-11-13 |  |
+| **[Onboard Mission Replanning for Adaptive Cooperative Multi-Robot Systems](https://arxiv.org/abs/2506.06094v4)** | 2025-11-13 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 1 table</p></details> |
+| **[Explaining Decentralized Multi-Agent Reinforcement Learning Policies](https://arxiv.org/abs/2511.10409v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted for oral presentation at AAAI-26</p></details> |
+| **[AgentEvolver: Towards Efficient Self-Evolving Agent System](https://arxiv.org/abs/2511.10395v1)** | 2025-11-13 |  |
+| **[MonkeyOCR v1.5 Technical Report: Unlocking Robust Document Parsing for Complex Patterns](https://arxiv.org/abs/2511.10390v1)** | 2025-11-13 |  |
+| **[Operator Models for Continuous-Time Offline Reinforcement Learning](https://arxiv.org/abs/2511.10383v1)** | 2025-11-13 |  |
+| **[Constructing an Optimal Behavior Basis for the Option Keyboard](https://arxiv.org/abs/2505.00787v2)** | 2025-11-13 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the Thirty-ninth Conference on Neural Information Processing Systems (NeurIPS), 2025</p></details> |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MalLight: Influence-Aware Coordinated Traffic Signal Control for Traffic Signal Malfunctions](https://arxiv.org/pdf/2408.09768v3)** | 2024-09-16 | <details><summary>Paper...</summary><p>Paper accepted to CIKM24 Full Research track</p></details> |
-| **[Economic-Driven Adaptive Traffic Signal Control](https://arxiv.org/pdf/2210.00645v1)** | 2022-10-04 | <details><summary>18 pa...</summary><p>18 pages, 12 figures, presented at the Transportation Research Board (TRB) 100th Annual Meeting, 2021</p></details> |
-| **[Diagnosing Reinforcement Learning for Traffic Signal Control](https://arxiv.org/pdf/1905.04716v1)** | 2019-05-14 |  |
-| **[SynTraC: A Synthetic Dataset for Traffic Signal Control from Traffic Monitoring Cameras](https://arxiv.org/pdf/2408.09588v1)** | 2024-08-20 | <details><summary>Accep...</summary><p>Accepted to IEEE ITSC2024</p></details> |
-| **[A Survey on Traffic Signal Control Methods](https://arxiv.org/pdf/1904.08117v3)** | 2020-01-17 | 32 pages |
-| **[Random Ensemble Reinforcement Learning for Traffic Signal Control](https://arxiv.org/pdf/2203.05961v1)** | 2022-03-14 | 7 pages, 5 figures |
-| **[Deep Reinforcement Learning for Adaptive Traffic Signal Control](https://arxiv.org/pdf/1911.06294v1)** | 2019-11-15 | <details><summary>ASME ...</summary><p>ASME 2019 Dynamic Systems and Control Conference (DSCC), October 9-11, Park City, Utah, USA</p></details> |
-| **[An Open-Source Framework for Adaptive Traffic Signal Control](https://arxiv.org/pdf/1909.00395v1)** | 2019-09-04 |  |
-| **[A Genetic Programming System with an Epigenetic Mechanism for Traffic Signal Control](https://arxiv.org/pdf/1903.03854v1)** | 2019-03-12 | <details><summary>PhD t...</summary><p>PhD thesis, Computer Science Department, Memorial University of Newfoundland. Defended on February 11th, 2019. 183 pages</p></details> |
-| **[A Blockchain-Based Architecture for Traffic Signal Control Systems](https://arxiv.org/pdf/1906.02628v3)** | 2023-05-29 | <details><summary>This ...</summary><p>This paper has been accepted at IEEE International Congress on Internet of Things (IEEE ICIOT 2019), Milan, Italy</p></details> |
-| **[ModelLight: Model-Based Meta-Reinforcement Learning for Traffic Signal Control](https://arxiv.org/pdf/2111.08067v2)** | 2021-12-08 |  |
-| **[Learning Phase Competition for Traffic Signal Control](https://arxiv.org/pdf/1905.04722v1)** | 2019-05-14 |  |
-| **[Learning Traffic Signal Control via Genetic Programming](https://arxiv.org/pdf/2403.17328v3)** | 2025-06-18 |  |
-| **[Cooperative Reinforcement Learning on Traffic Signal Control](https://arxiv.org/pdf/2205.11291v2)** | 2022-08-09 |  |
-| **[A Deep Reinforcement Learning Approach for Fair Traffic Signal Control](https://arxiv.org/pdf/2107.10146v1)** | 2021-07-22 | <details><summary>7 pag...</summary><p>7 pages, Accepted at ITSC 2021 (International Conference on Intelligent Transportation Systems)</p></details> |
+| **[ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset](https://arxiv.org/abs/2509.04449v2)** | 2025-11-13 |  |
+| **[How does the Performance of the Data-driven Traffic Flow Forecasting Models deteriorate with Increasing Forecasting Horizon? An Extensive Approach Considering Statistical, Machine Learning and Deep Learning Models](https://arxiv.org/abs/2511.09450v1)** | 2025-11-12 | <details><summary>6,227...</summary><p>6,227 words text + 2*250 (2 tables) = 6,727 words</p></details> |
+| **[Beyond Centrality: Understanding Urban Street Network Typologies Through Intersection Patterns](https://arxiv.org/abs/2511.06747v1)** | 2025-11-10 |  |
+| **[SymLight: Exploring Interpretable and Deployable Symbolic Policies for Traffic Signal Control](https://arxiv.org/abs/2511.05790v1)** | 2025-11-08 |  |
+| **[Ethics-Aware Safe Reinforcement Learning for Rare-Event Risk Control in Interactive Urban Driving](https://arxiv.org/abs/2508.14926v3)** | 2025-11-07 |  |
+| **[Improving Injection-Throttling Mechanisms for Congestion Control for Data-center and Supercomputer Interconnects](https://arxiv.org/abs/2511.05149v1)** | 2025-11-07 | 4 pages, 3 figures |
+| **[Improving dynamic congestion isolation in data-center networks](https://arxiv.org/abs/2511.04639v1)** | 2025-11-06 | 26 pages, 6 figures |
+| **[Optimizing Multi-Lane Intersection Performance in Mixed Autonomy Environments](https://arxiv.org/abs/2511.02217v1)** | 2025-11-04 |  |
+| **[Beyond Static Thresholds: Adaptive RRC Signaling Storm Detection with Extreme Value Theory](https://arxiv.org/abs/2511.01391v1)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted to MSWiM 2025</p></details> |
+| **[Logic-informed reinforcement learning for cross-domain optimization of large-scale cyber-physical systems](https://arxiv.org/abs/2511.00806v1)** | 2025-11-02 |  |
+| **[Single-agent Reinforcement Learning Model for Regional Adaptive Traffic Signal Control](https://arxiv.org/abs/2511.00551v1)** | 2025-11-01 |  |
+| **[Robust Single-Agent Reinforcement Learning for Regional Traffic Signal Control Under Demand Fluctuations](https://arxiv.org/abs/2511.00549v1)** | 2025-11-01 |  |
+| **[A Dual Large Language Models Architecture with Herald Guided Prompts for Parallel Fine Grained Traffic Signal Control](https://arxiv.org/abs/2511.00136v1)** | 2025-10-31 |  |
+| **[Retrieval Augmented Generation-Enhanced Distributed LLM Agents for Generalizable Traffic Signal Control with Emergency Vehicles](https://arxiv.org/abs/2510.26242v1)** | 2025-10-30 |  |
+| **[FlightKooba: A Fast Interpretable FTP Model](https://arxiv.org/abs/2506.19885v2)** | 2025-10-27 | <details><summary>Versi...</summary><p>Version 2: Major revision of the manuscript to refine the narrative, clarify the model's theoretical limitations and application scope, and improve overall presentation for journal submission</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Factor Graph Neural Network](https://arxiv.org/pdf/1906.00554v1)** | 2019-06-04 |  |
-| **[Neural Graph Machines: Learning Neural Networks Using Graphs](https://arxiv.org/pdf/1703.04818v1)** | 2017-03-16 | 9 pages |
-| **[Graph Neural Networks for Learning Equivariant Representations of Neural Networks](https://arxiv.org/pdf/2403.12143v3)** | 2024-07-24 | <details><summary>In IC...</summary><p>In ICLR 2024. Source code: https://github.com/mkofinas/neural-graphs</p></details> |
-| **[Superhypergraph Neural Networks and Plithogenic Graph Neural Networks: Theoretical Foundations](https://arxiv.org/pdf/2412.01176v1)** | 2025-05-26 | 77 pages; 3 figures |
-| **[Graph Structure of Neural Networks](https://arxiv.org/pdf/2007.06559v2)** | 2020-08-28 | <details><summary>ICML ...</summary><p>ICML 2020, with open-source code</p></details> |
-| **[Customized Graph Neural Networks](https://arxiv.org/pdf/2005.12386v2)** | 2021-12-15 |  |
-| **[Graph Neural Networks for Small Graph and Giant Network Representation Learning: An Overview](https://arxiv.org/pdf/1908.00187v1)** | 2019-09-30 | <details><summary>30 pa...</summary><p>30 pages. arXiv admin note: text overlap with arXiv:1908.00187</p></details> |
-| **[On Node Features for Graph Neural Networks](https://arxiv.org/pdf/1911.08795v1)** | 2019-11-21 |  |
-| **[Graph Neural Processes: Towards Bayesian Graph Neural Networks](https://arxiv.org/pdf/1902.10042v2)** | 2019-10-03 |  |
-| **[Graph Neural Networks: Taxonomy, Advances and Trends](https://arxiv.org/pdf/2012.08752v4)** | 2022-02-28 | 55 pages, 7 figures |
-| **[Spatio-Temporal Graph Neural Networks: A Survey](https://arxiv.org/pdf/2301.10569v2)** | 2023-02-14 |  |
-| **[Graph Coordinates and Conventional Neural Networks -- An Alternative for Graph Neural Networks](https://arxiv.org/pdf/2312.01342v1)** | 2024-04-19 | <details><summary>This ...</summary><p>This paper is submitted and will be published on Big Data Conference 2023, Data-driven Science for Graphs: Algorithms, Architectures, and Application workshop</p></details> |
-| **[Quantum Graph Neural Networks](https://arxiv.org/pdf/1909.12264v1)** | 2019-09-27 | 8 pages |
-| **[Inferring the Graph Structure of Images for Graph Neural Networks](https://arxiv.org/pdf/2509.04677v1)** | 2025-09-08 |  |
-| **[Graph Rewriting for Graph Neural Networks](https://arxiv.org/pdf/2305.18632v1)** | 2023-05-31 | <details><summary>Origi...</summary><p>Originally submitted to ICGT 2023, part of STAF Conferences</p></details> |
+| **[DESS: DeBERTa Enhanced Syntactic-Semantic Aspect Sentiment Triplet Extraction](https://arxiv.org/abs/2511.10577v1)** | 2025-11-13 | <details><summary>15 pa...</summary><p>15 pages, 2 figures. Published in Proceedings of the 17th International Conference on Computational Collective Intelligence (ICCCI 2025), Lecture Notes in Artificial Intelligence, Springer</p></details> |
+| **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Enhanced Structured Lasso Pruning with Class-wise Information](https://arxiv.org/abs/2502.09125v2)** | 2025-11-13 | 11 pages, 3 figures |
+| **[Strategic Opponent Modeling with Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling](https://arxiv.org/abs/2511.10501v1)** | 2025-11-13 | 26 pages |
+| **[On Stealing Graph Neural Network Models](https://arxiv.org/abs/2511.07170v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
+| **[FastGraph: Optimized GPU-Enabled Algorithms for Fast Graph Building and Message Passing](https://arxiv.org/abs/2511.10442v1)** | 2025-11-13 |  |
+| **[Efficient quantification on large-scale networks](https://arxiv.org/abs/2503.15267v2)** | 2025-11-13 | Published version |
+| **[Enhancing Logical Expressiveness in Graph Neural Networks via Path-Neighbor Aggregation](https://arxiv.org/abs/2511.07994v2)** | 2025-11-13 |  |
+| **[DarkFarseer: Robust Spatio-temporal Kriging under Graph Sparsity and Noise](https://arxiv.org/abs/2501.02808v2)** | 2025-11-13 | Accepted by AAAI'26 |
+| **[SVD-NO: Learning PDE Solution Operators with SVD Integral Kernels](https://arxiv.org/abs/2511.10025v1)** | 2025-11-13 | AAAI-26 |
+| **[GraphSB: Boosting Imbalanced Node Classification on Graphs through Structural Balance](https://arxiv.org/abs/2511.10022v1)** | 2025-11-13 |  |
+| **[AI-Integrated Decision Support System for Real-Time Market Growth Forecasting and Multi-Source Content Diffusion Analytics](https://arxiv.org/abs/2511.09962v1)** | 2025-11-13 |  |
+| **[AdaptViG: Adaptive Vision GNN with Exponential Decay Gating](https://arxiv.org/abs/2511.09942v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted in 2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026)</p></details> |
+| **[ScaleDL: Towards Scalable and Efficient Runtime Prediction for Distributed Deep Learning Workloads](https://arxiv.org/abs/2511.04162v2)** | 2025-11-13 |  |
+| **[Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations](https://arxiv.org/abs/2501.02409v5)** | 2025-11-12 |  |
 

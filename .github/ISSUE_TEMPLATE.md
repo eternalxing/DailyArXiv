@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 21, 2025
+title: Latest 15 Papers - November 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization](https://arxiv.org/abs/2511.15705v1)** | 2025-11-19 |  |
-| **[The Impact of Quantization on Large Reasoning Model Reinforcement Learning](https://arxiv.org/abs/2511.15694v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted to the NeurIPS 2025 Efficient Reasoning Workshop</p></details> |
-| **[Foundational Automatic Evaluators: Scaling Multi-Task Generative Evaluator Training for Reasoning-Centric Domains](https://arxiv.org/abs/2510.17793v2)** | 2025-11-19 | <details><summary>29 pa...</summary><p>29 pages, 9 tables, 6 figures</p></details> |
-| **[VisPlay: Self-Evolving Vision-Language Models from Images](https://arxiv.org/abs/2511.15661v1)** | 2025-11-19 |  |
-| **[Continual Reinforcement Learning for Cyber-Physical Systems: Lessons Learned and Open Challenges](https://arxiv.org/abs/2511.15652v1)** | 2025-11-19 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, Accepted to RLDM 2025</p></details> |
-| **[Distribution Matching Distillation Meets Reinforcement Learning](https://arxiv.org/abs/2511.13649v2)** | 2025-11-19 | <details><summary>The s...</summary><p>The synergy of reinforcement learning and distribution matching distillation. See more: https://github.com/vvvvvjdy/dmdr</p></details> |
-| **[Optimal control of the future via prospective learning with control](https://arxiv.org/abs/2511.08717v2)** | 2025-11-19 |  |
-| **[SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models](https://arxiv.org/abs/2511.15605v1)** | 2025-11-19 |  |
-| **[Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition](https://arxiv.org/abs/2511.15597v1)** | 2025-11-19 | 8 pages, 4 figures |
-| **[Meta-Black-Box Optimization with Bi-Space Landscape Analysis and Dual-Control Mechanism for SAEA](https://arxiv.org/abs/2511.15551v1)** | 2025-11-19 |  |
-| **[DeepEN: A Deep Reinforcement Learning Framework for Personalized Enteral Nutrition in Critical Care](https://arxiv.org/abs/2510.08350v2)** | 2025-11-19 |  |
-| **[Adversarial Agents: Black-Box Evasion Attacks with Reinforcement Learning](https://arxiv.org/abs/2503.01734v2)** | 2025-11-19 |  |
-| **[Importance Ranking in Complex Networks via Influence-aware Causal Node Embedding](https://arxiv.org/abs/2511.01228v2)** | 2025-11-19 |  |
-| **[IPR-1: Interactive Physical Reasoner](https://arxiv.org/abs/2511.15407v1)** | 2025-11-19 | 11 pages, 5 figures |
-| **[Planning in Branch-and-Bound: Model-Based Reinforcement Learning for Exact Combinatorial Optimization](https://arxiv.org/abs/2511.09219v2)** | 2025-11-19 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2510.19348</p></details> |
+| **[Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](https://arxiv.org/abs/2511.16671v1)** | 2025-11-20 | <details><summary>Proje...</summary><p>Project Page: https://think-while-gen.github.io Code: https://github.com/ZiyuGuo99/Thinking-while-Generating</p></details> |
+| **[Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO](https://arxiv.org/abs/2511.16669v1)** | 2025-11-20 | <details><summary>Proje...</summary><p>Project page: https://video-as-answer.github.io/</p></details> |
+| **[SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation](https://arxiv.org/abs/2511.16666v1)** | 2025-11-20 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight), Project Page: https://henghuiding.com/SceneDesigner/</p></details> |
+| **[Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v1)** | 2025-11-20 |  |
+| **[Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations](https://arxiv.org/abs/2511.16661v1)** | 2025-11-20 |  |
+| **[Stabilizing Policy Gradient Methods via Reward Profiling](https://arxiv.org/abs/2511.16629v1)** | 2025-11-20 |  |
+| **[Leveraging Reinforcement Learning, Genetic Algorithms and Transformers for background determination in particle physics](https://arxiv.org/abs/2509.14894v2)** | 2025-11-20 | 34 pages, 12 figures |
+| **[Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization](https://arxiv.org/abs/2511.16602v1)** | 2025-11-20 |  |
+| **[Green Resilience of Cyber-Physical Systems: Doctoral Dissertation](https://arxiv.org/abs/2511.16593v1)** | 2025-11-20 |  |
+| **[MiMo-Embodied: X-Embodied Foundation Model Technical Report](https://arxiv.org/abs/2511.16518v1)** | 2025-11-20 | <details><summary>Code:...</summary><p>Code: https://github.com/XiaomiMiMo/MiMo-Embodied Model: https://huggingface.co/XiaomiMiMo/MiMo-Embodied-7B</p></details> |
+| **[Large Language Model-Based Reward Design for Deep Reinforcement Learning-Driven Autonomous Cyber Defense](https://arxiv.org/abs/2511.16483v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted in the AAAI-26 Workshop on Artificial Intelligence for Cyber Security (AICS)</p></details> |
+| **[Limitations of Scalarisation in MORL: A Comparative Study in Discrete Environments](https://arxiv.org/abs/2511.16476v1)** | 2025-11-20 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, published in the Proceedings of the 46th Annual Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT 2025)</p></details> |
+| **[A Comparison Between Decision Transformers and Traditional Offline Reinforcement Learning Algorithms](https://arxiv.org/abs/2511.16475v1)** | 2025-11-20 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, published in the Proceedings of the 46th Annual conference of the South African Institute of Computer Scientists and Information Technologists (SIACSIT 2025)</p></details> |
+| **[Eliciting Reasoning in Language Models with Cognitive Tools](https://arxiv.org/abs/2506.12115v2)** | 2025-11-20 | 25 pages, 2 figures |
+| **[LAOF: Robust Latent Action Learning with Optical Flow Constraints](https://arxiv.org/abs/2511.16407v1)** | 2025-11-20 | <details><summary>Code ...</summary><p>Code can be found at https://github.com/XizoB/LAOF</p></details> |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Interpretable Retinal Disease Prediction Using Biology-Informed Heterogeneous Graph Representations](https://arxiv.org/abs/2502.16697v2)** | 2025-11-19 |  |
-| **[A Hybrid CNN-ViT-GNN Framework with GAN-Based Augmentation for Intelligent Weed Detection in Precision Agriculture](https://arxiv.org/abs/2511.15535v1)** | 2025-11-19 |  |
-| **[Computation for Epidemic Prediction with Graph Neural Network by Model Combination](https://arxiv.org/abs/2511.15469v1)** | 2025-11-19 | 37pages, 24 figures |
-| **[S-DAG: A Subject-Based Directed Acyclic Graph for Multi-Agent Heterogeneous Reasoning](https://arxiv.org/abs/2511.06727v2)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Platform-Agnostic Reinforcement Learning Framework for Safe Exploration of Cluttered Environments with Graph Attention](https://arxiv.org/abs/2511.15358v1)** | 2025-11-19 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, submitted to the 2026 IEEE International Conference on Robotics & Automation</p></details> |
-| **[LaguerreNet: Advancing a Unified Solution for Heterophily and Over-smoothing with Adaptive Continuous Polynomials](https://arxiv.org/abs/2511.15328v1)** | 2025-11-19 |  |
-| **[KrawtchoukNet: A Unified GNN Solution for Heterophily and Over-smoothing with Adaptive Bounded Polynomials](https://arxiv.org/abs/2511.15327v1)** | 2025-11-19 |  |
-| **[ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction](https://arxiv.org/abs/2505.21117v3)** | 2025-11-19 |  |
-| **[Edge-Centric Relational Reasoning for 3D Scene Graph Prediction](https://arxiv.org/abs/2511.15288v1)** | 2025-11-19 |  |
-| **[D2D Power Allocation via Quantum Graph Neural Network](https://arxiv.org/abs/2511.15246v1)** | 2025-11-19 |  |
-| **[FireCastNet: Earth-as-a-Graph for Seasonal Fire Prediction](https://arxiv.org/abs/2502.01550v2)** | 2025-11-19 |  |
-| **[Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets](https://arxiv.org/abs/2511.15222v1)** | 2025-11-19 | 12 pages; 5 figures |
-| **[Combining LLM Semantic Reasoning with GNN Structural Modeling for Multi-View Multi-Label Feature Selection](https://arxiv.org/abs/2511.08008v2)** | 2025-11-19 | 9 pages, 5 figures |
-| **[Vehicle Routing Problems via Quantum Graph Attention Network Deep Reinforcement Learning](https://arxiv.org/abs/2511.15175v1)** | 2025-11-19 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 2 tables. Accepted by SOICT 2025</p></details> |
-| **[MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition](https://arxiv.org/abs/2404.10210v5)** | 2025-11-19 |  |
+| **[Optimizing Quantum Key Distribution Network Performance using Graph Neural Networks](https://arxiv.org/abs/2511.16468v1)** | 2025-11-20 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, and 2 tables</p></details> |
+| **[Graph Neural Networks for Surgical Scene Segmentation](https://arxiv.org/abs/2511.16430v1)** | 2025-11-20 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 3 tables</p></details> |
+| **[Unsupervised Graph Neural Network Framework for Balanced Multipatterning in Advanced Electronic Design Automation Layouts](https://arxiv.org/abs/2511.16374v1)** | 2025-11-20 | <details><summary>manus...</summary><p>manuscript under review</p></details> |
+| **[Reasoning Meets Representation: Envisioning Neuro-Symbolic Wireless Foundation Models](https://arxiv.org/abs/2511.16369v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: AI and ML for Next-Generation Wireless Communications and Networking (AI4NextG)</p></details> |
+| **[Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering](https://arxiv.org/abs/2506.09920v4)** | 2025-11-20 |  |
+| **[Explainable AI for Diabetic Retinopathy Detection Using Deep Learning with Attention Mechanisms and Fuzzy Logic-Based Interpretability](https://arxiv.org/abs/2511.16294v1)** | 2025-11-20 |  |
+| **[CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality](https://arxiv.org/abs/2511.16191v1)** | 2025-11-20 | <details><summary>Prepr...</summary><p>Preprint. 9 pages, 3 figures, 2 tables. Code and implementation details available at: https://github.com/XiaotongZhan/Causal_Mamba</p></details> |
+| **[An Iterative Question-Guided Framework for Knowledge Base Question Answering](https://arxiv.org/abs/2506.01784v4)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Track</p></details> |
+| **[HybSpecNet: A Critical Analysis of Architectural Instability in Hybrid-Domain Spectral GNNs](https://arxiv.org/abs/2511.16101v1)** | 2025-11-20 |  |
+| **[Bellman Memory Units: A neuromorphic framework for synaptic reinforcement learning with an evolving network topology](https://arxiv.org/abs/2511.16066v1)** | 2025-11-20 | <details><summary>11 pa...</summary><p>11 pages, submitted to IEEE Transactions on Automatic Control</p></details> |
+| **[Gauge-Equivariant Graph Networks via Self-Interference Cancellation](https://arxiv.org/abs/2511.16062v1)** | 2025-11-20 |  |
+| **[Exploiting Inter-Sample Information for Long-tailed Out-of-Distribution Detection](https://arxiv.org/abs/2511.16015v1)** | 2025-11-20 |  |
+| **[Multi-View Polymer Representations for the Open Polymer Prediction](https://arxiv.org/abs/2511.10893v2)** | 2025-11-20 | <details><summary>The a...</summary><p>The authors have decided to withdraw this manuscript due to internal approval and authorship issues. A revised version may be posted in the future</p></details> |
+| **[AquaSentinel: Next-Generation AI System Integrating Sensor Networks for Urban Underground Water Pipeline Anomaly Detection via Collaborative MoE-LLM Agent Architecture](https://arxiv.org/abs/2511.15870v1)** | 2025-11-19 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 2 tables, Accepted to the 40th AAAI Conference on Artificial Intelligence (AAAI 2026), IAAI Deployed Applications Track</p></details> |
+| **[Efficient Environmental Claim Detection with Hyperbolic Graph Neural Networks](https://arxiv.org/abs/2502.13628v3)** | 2025-11-19 |  |
 

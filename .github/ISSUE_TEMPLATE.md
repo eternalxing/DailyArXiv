@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 03, 2025
+title: Latest 15 Papers - December 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Diffusion Model Framework for Maximum Entropy Reinforcement Learning](https://arxiv.org/abs/2512.02019v1)** | 2025-12-01 |  |
-| **[Learning Dexterous Manipulation Skills from Imperfect Simulations](https://arxiv.org/abs/2512.02011v1)** | 2025-12-01 |  |
-| **[Learning Sim-to-Real Humanoid Locomotion in 15 Minutes](https://arxiv.org/abs/2512.01996v1)** | 2025-12-01 | <details><summary>Proje...</summary><p>Project website: https://younggyo.me/fastsac-humanoid</p></details> |
-| **[RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies](https://arxiv.org/abs/2512.01993v1)** | 2025-12-01 | Preprint |
-| **[Artemis: Structured Visual Reasoning for Perception Policy Learning](https://arxiv.org/abs/2512.01988v1)** | 2025-12-01 |  |
-| **[Forecasting in Offline Reinforcement Learning for Non-stationary Environments](https://arxiv.org/abs/2512.01987v1)** | 2025-12-01 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025</p></details> |
-| **[From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning](https://arxiv.org/abs/2512.01970v1)** | 2025-12-01 | <details><summary>Work ...</summary><p>Work in Progress. Code and data will be available at https://github.com/sitaocheng/from_atomic_to_composite</p></details> |
-| **[Meta-Reinforcement Learning for Building Energy Management System](https://arxiv.org/abs/2210.12590v2)** | 2025-12-01 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:1909.10165 by other authors</p></details> |
-| **[Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions](https://arxiv.org/abs/2504.11967v3)** | 2025-12-01 | <details><summary>Best ...</summary><p>Best Paper, Accepted at CVPR Workshop Anti-UAV 2025. 16 pages</p></details> |
-| **[Adaptive Plane Reformatting for 4D Flow MRI using Deep Reinforcement Learning](https://arxiv.org/abs/2506.00727v2)** | 2025-12-01 |  |
-| **[Outcome-based Reinforcement Learning to Predict the Future](https://arxiv.org/abs/2505.17989v4)** | 2025-12-01 |  |
-| **[Learned-Rule-Augmented Large Language Model Evaluators](https://arxiv.org/abs/2512.01958v1)** | 2025-12-01 |  |
-| **[GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment](https://arxiv.org/abs/2512.01952v1)** | 2025-12-01 |  |
-| **[Agentic Policy Optimization via Instruction-Policy Co-Evolution](https://arxiv.org/abs/2512.01945v1)** | 2025-12-01 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 2 tables (18 pages including references and appendices)</p></details> |
-| **[Rectifying LLM Thought from Lens of Optimization](https://arxiv.org/abs/2512.01925v1)** | 2025-12-01 | Work in progress |
+| **[OneThinker: All-in-one Reasoning Model for Image and Video](https://arxiv.org/abs/2512.03043v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page: https://github.com/tulerfeng/OneThinker</p></details> |
+| **[Training a Scientific Reasoning Model for Chemistry](https://arxiv.org/abs/2506.17238v2)** | 2025-12-02 |  |
+| **[Pre-trained Language Models Improve the Few-shot Prompt Ability of Decision Transformer](https://arxiv.org/abs/2408.01402v2)** | 2025-12-02 | <details><summary>2 fig...</summary><p>2 figures, 10 tables. Published in Transactions on Machine Learning Research (TMLR)</p></details> |
+| **[Forecasting in Offline Reinforcement Learning for Non-stationary Environments](https://arxiv.org/abs/2512.01987v2)** | 2025-12-02 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025</p></details> |
+| **[Convergent Reinforcement Learning Algorithms for Stochastic Shortest Path Problem](https://arxiv.org/abs/2508.13963v2)** | 2025-12-02 |  |
+| **[MARSHAL: Incentivizing Multi-Agent Reasoning via Self-Play with Strategic LLMs](https://arxiv.org/abs/2510.15414v2)** | 2025-12-02 |  |
+| **[From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v3)** | 2025-12-02 |  |
+| **[MindGPT-4ov: An Enhanced MLLM via a Multi-Stage Post-Training Paradigm](https://arxiv.org/abs/2512.02895v1)** | 2025-12-02 | 33 pages, 14 figures |
+| **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801v2)** | 2025-12-02 |  |
+| **[Taming Camera-Controlled Video Generation with Verifiable Geometry Reward](https://arxiv.org/abs/2512.02870v1)** | 2025-12-02 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 7 tables</p></details> |
+| **[OpenREAD: Reinforced Open-Ended Reasoning for End-to-End Autonomous Driving with LLM-as-Critic](https://arxiv.org/abs/2512.01830v2)** | 2025-12-02 |  |
+| **[Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach](https://arxiv.org/abs/2407.12687v4)** | 2025-12-02 |  |
+| **[ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning](https://arxiv.org/abs/2512.02835v1)** | 2025-12-02 |  |
+| **[Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach](https://arxiv.org/abs/2512.02834v1)** | 2025-12-02 | <details><summary>The f...</summary><p>The first two authors contributed equally. Yang Zhang leads the whole project</p></details> |
+| **[Phase-Adaptive LLM Framework with Multi-Stage Validation for Construction Robot Task Allocation: A Systematic Benchmark Against Traditional Optimization Algorithms](https://arxiv.org/abs/2512.02810v1)** | 2025-12-02 |  |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Morphling: Fast, Fused, and Flexible GNN Training at Scale](https://arxiv.org/abs/2512.01678v2)** | 2025-12-02 |  |
+| **[Learning Multimodal Embeddings for Traffic Accident Prediction and Causal Estimation](https://arxiv.org/abs/2512.02920v1)** | 2025-12-02 | <details><summary>17 pa...</summary><p>17 pages. To appear in KDD'26 Datasets</p></details> |
+| **[GraphMatch: Fusing Language and Graph Representations in a Dynamic Two-Sided Work Marketplace](https://arxiv.org/abs/2512.02849v1)** | 2025-12-02 |  |
+| **[Multi-View Graph Learning with Graph-Tuple](https://arxiv.org/abs/2510.10341v4)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted as a poster at the TAG-DS 2025 Workshop (Topology, Algebra, and Geometry in Data Science). OpenReview: https://openreview.net/forum?id=s4ezAuj5xM</p></details> |
+| **[Credal Graph Neural Networks](https://arxiv.org/abs/2512.02722v1)** | 2025-12-02 |  |
+| **[Zero-Shot Instruction Following in RL via Structured LTL Representations](https://arxiv.org/abs/2512.02633v1)** | 2025-12-02 | <details><summary>ICML ...</summary><p>ICML 2025 Workshop on Programmatic Representations for Agent Learning</p></details> |
+| **[Detection of Crowdsourcing Cryptocurrency Laundering via Multi-Task Collaboration](https://arxiv.org/abs/2512.02534v1)** | 2025-12-02 |  |
+| **[CNN-Enabled Scheduling for Probabilistic Real-Time Guarantees in Industrial URLLC](https://arxiv.org/abs/2506.14987v3)** | 2025-12-01 |  |
+| **[Implicit Hypergraph Neural Network](https://arxiv.org/abs/2508.14101v2)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted at IEEE BigData 2025</p></details> |
+| **[Cross-View Topology-Aware Graph Representation Learning](https://arxiv.org/abs/2512.02130v1)** | 2025-12-01 |  |
 | **[Domain-Decomposed Graph Neural Network Surrogate Modeling for Ice Sheets](https://arxiv.org/abs/2512.01888v1)** | 2025-12-01 |  |
 | **[Graph Distance as Surprise: Free Energy Minimization in Knowledge Graph Reasoning](https://arxiv.org/abs/2512.01878v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted to NORA Workshop at NeurIPS 2025</p></details> |
 | **[Integrating Artificial Intelligence and Mixed Integer Linear Programming: Explainable Graph-Based Instance Space Analysis in Air Transportation](https://arxiv.org/abs/2512.01698v1)** | 2025-12-01 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, presented at XXII SITRAER 2025, in processes for submission to JATM</p></details> |
-| **[Morphling: Fast, Fused, and Flexible GNN Training at Scale](https://arxiv.org/abs/2512.01678v1)** | 2025-12-01 |  |
 | **[HiFIRec Towards High-Frequency yet Low-Intention Behaviors for Multi-Behavior Recommendation](https://arxiv.org/abs/2509.25755v2)** | 2025-12-01 |  |
 | **[Adaptive Canonicalization with Application to Invariant Anisotropic Geometric Networks](https://arxiv.org/abs/2509.24886v2)** | 2025-12-01 |  |
-| **[Graph Persistence goes Spectral](https://arxiv.org/abs/2506.06571v2)** | 2025-12-01 | <details><summary>32 pa...</summary><p>32 pages, 4 figures, 7 tables. Accepted at NeurIPS 2025</p></details> |
-| **[CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball](https://arxiv.org/abs/2512.01478v1)** | 2025-12-01 |  |
-| **[TomoGraphView: 3D Medical Image Classification with Omnidirectional Slice Representations and Graph Neural Networks](https://arxiv.org/abs/2511.09605v2)** | 2025-12-01 | <details><summary>Prepr...</summary><p>Preprint submitted to Medical Image Analysis (MedIA)</p></details> |
-| **[A Self-explainable Model of Long Time Series by Extracting Informative Structured Causal Patterns](https://arxiv.org/abs/2512.01412v1)** | 2025-12-01 | <details><summary>Appro...</summary><p>Approximately 30 pages, 8 figures, and 5 tables. Preprint version. Includes theoretical analysis, model architecture, interpretability evaluation, and extensive benchmark experiments</p></details> |
-| **[WeightFlow: Learning Stochastic Dynamics via Evolving Weight of Neural Network](https://arxiv.org/abs/2508.00451v2)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted by AAAI (Oral)</p></details> |
-| **[An Interdisciplinary and Cross-Task Review on Missing Data Imputation](https://arxiv.org/abs/2511.01196v2)** | 2025-12-01 |  |
-| **[A Physical Basis for Information](https://arxiv.org/abs/2407.09567v5)** | 2025-12-01 | - |
-| **[Efficiently Learning Branching Networks for Multitask Algorithmic Reasoning](https://arxiv.org/abs/2512.01113v1)** | 2025-11-30 | <details><summary>31 pa...</summary><p>31 pages. Preprint, to appear in KDD'26</p></details> |
-| **[Multi-View Graph Learning with Graph-Tuple](https://arxiv.org/abs/2510.10341v3)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted as a poster at the TAG-DS 2025 Workshop (Topology, Algebra, and Geometry in Data Science). OpenReview: https://openreview.net/forum?id=s4ezAuj5xM</p></details> |
 

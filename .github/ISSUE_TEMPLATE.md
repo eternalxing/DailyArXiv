@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 04, 2025
+title: Latest 15 Papers - December 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OneThinker: All-in-one Reasoning Model for Image and Video](https://arxiv.org/abs/2512.03043v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page: https://github.com/tulerfeng/OneThinker</p></details> |
-| **[Training a Scientific Reasoning Model for Chemistry](https://arxiv.org/abs/2506.17238v2)** | 2025-12-02 |  |
-| **[Pre-trained Language Models Improve the Few-shot Prompt Ability of Decision Transformer](https://arxiv.org/abs/2408.01402v2)** | 2025-12-02 | <details><summary>2 fig...</summary><p>2 figures, 10 tables. Published in Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[Forecasting in Offline Reinforcement Learning for Non-stationary Environments](https://arxiv.org/abs/2512.01987v2)** | 2025-12-02 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025</p></details> |
-| **[Convergent Reinforcement Learning Algorithms for Stochastic Shortest Path Problem](https://arxiv.org/abs/2508.13963v2)** | 2025-12-02 |  |
-| **[MARSHAL: Incentivizing Multi-Agent Reasoning via Self-Play with Strategic LLMs](https://arxiv.org/abs/2510.15414v2)** | 2025-12-02 |  |
-| **[From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v3)** | 2025-12-02 |  |
-| **[MindGPT-4ov: An Enhanced MLLM via a Multi-Stage Post-Training Paradigm](https://arxiv.org/abs/2512.02895v1)** | 2025-12-02 | 33 pages, 14 figures |
-| **[GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801v2)** | 2025-12-02 |  |
-| **[Taming Camera-Controlled Video Generation with Verifiable Geometry Reward](https://arxiv.org/abs/2512.02870v1)** | 2025-12-02 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 7 tables</p></details> |
-| **[OpenREAD: Reinforced Open-Ended Reasoning for End-to-End Autonomous Driving with LLM-as-Critic](https://arxiv.org/abs/2512.01830v2)** | 2025-12-02 |  |
-| **[Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach](https://arxiv.org/abs/2407.12687v4)** | 2025-12-02 |  |
-| **[ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning](https://arxiv.org/abs/2512.02835v1)** | 2025-12-02 |  |
-| **[Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach](https://arxiv.org/abs/2512.02834v1)** | 2025-12-02 | <details><summary>The f...</summary><p>The first two authors contributed equally. Yang Zhang leads the whole project</p></details> |
-| **[Phase-Adaptive LLM Framework with Multi-Stage Validation for Construction Robot Task Allocation: A Systematic Benchmark Against Traditional Optimization Algorithms](https://arxiv.org/abs/2512.02810v1)** | 2025-12-02 |  |
+| **[PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design](https://arxiv.org/abs/2512.04082v1)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project page: https://postercopilot.github.io/</p></details> |
+| **[Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training](https://arxiv.org/abs/2503.18929v2)** | 2025-12-03 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 27 pages</p></details> |
+| **[SkillFactory: Self-Distillation For Learning Cognitive Behaviors](https://arxiv.org/abs/2512.04072v1)** | 2025-12-03 |  |
+| **[SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](https://arxiv.org/abs/2512.04069v1)** | 2025-12-03 |  |
+| **[Ergodic Risk Measures: Towards a Risk-Aware Foundation for Continual Reinforcement Learning](https://arxiv.org/abs/2510.02945v2)** | 2025-12-03 |  |
+| **[Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning](https://arxiv.org/abs/2512.03973v1)** | 2025-12-03 |  |
+| **[Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization](https://arxiv.org/abs/2512.03964v1)** | 2025-12-03 | 17 pages, 13 figures |
+| **[TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning](https://arxiv.org/abs/2512.03963v1)** | 2025-12-03 |  |
+| **[Hierarchical Vision Language Action Model Using Success and Failure Demonstrations](https://arxiv.org/abs/2512.03913v1)** | 2025-12-03 | <details><summary>https...</summary><p>https://vine-vla.github.io/</p></details> |
+| **[Autonomous Reinforcement Learning Robot Control with Intel's Loihi 2 Neuromorphic Hardware](https://arxiv.org/abs/2512.03911v1)** | 2025-12-03 | <details><summary>Submi...</summary><p>Submitted for review at NICE 2026 (Neuro-Inspired Computational Elements) conference</p></details> |
+| **[Digital Twin-based Control Co-Design of Full Vehicle Active Suspensions via Deep Reinforcement Learning](https://arxiv.org/abs/2512.03891v1)** | 2025-12-03 | 28 pages, 17 figures |
+| **[Automatic Attack Discovery for Few-Shot Class-Incremental Learning via Large Language Models](https://arxiv.org/abs/2512.03882v1)** | 2025-12-03 |  |
+| **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v4)** | 2025-12-03 |  |
+| **[Manifold Percolation: from generative model to Reinforce learning](https://arxiv.org/abs/2511.20503v2)** | 2025-12-03 | <details><summary>27 pa...</summary><p>27 pages, 13 figures. Correspondence: Rui.Tong@warwick.ac.uk</p></details> |
+| **[Stabilizing Reinforcement Learning with LLMs: Formulation and Practices](https://arxiv.org/abs/2512.01374v3)** | 2025-12-03 |  |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Statistical hypothesis testing for differences between layers in dynamic multiplex networks](https://arxiv.org/abs/2512.03983v1)** | 2025-12-03 | 11 pages, 2 figures |
+| **[Quantum Topological Graph Neural Networks for Detecting Complex Fraud Patterns](https://arxiv.org/abs/2512.03696v1)** | 2025-12-03 |  |
+| **[Covariance Scattering Transforms](https://arxiv.org/abs/2511.08878v2)** | 2025-12-03 |  |
+| **[Comparative algorithm performance evaluation and prediction for the maximum clique problem using instance space analysis](https://arxiv.org/abs/2512.03419v1)** | 2025-12-03 |  |
+| **[GAMA: A Neural Neighborhood Search Method with Graph-aware Multi-modal Attention for Vehicle Routing Problem](https://arxiv.org/abs/2511.07850v2)** | 2025-12-03 |  |
+| **[VS-Graph: Scalable and Efficient Graph Classification Using Hyperdimensional Computing](https://arxiv.org/abs/2512.03394v1)** | 2025-12-03 |  |
+| **[GRAND: Guidance, Rebalancing, and Assignment for Networked Dispatch in Multi-Agent Path Finding](https://arxiv.org/abs/2512.03194v1)** | 2025-12-02 |  |
 | **[Morphling: Fast, Fused, and Flexible GNN Training at Scale](https://arxiv.org/abs/2512.01678v2)** | 2025-12-02 |  |
 | **[Learning Multimodal Embeddings for Traffic Accident Prediction and Causal Estimation](https://arxiv.org/abs/2512.02920v1)** | 2025-12-02 | <details><summary>17 pa...</summary><p>17 pages. To appear in KDD'26 Datasets</p></details> |
 | **[GraphMatch: Fusing Language and Graph Representations in a Dynamic Two-Sided Work Marketplace](https://arxiv.org/abs/2512.02849v1)** | 2025-12-02 |  |
 | **[Multi-View Graph Learning with Graph-Tuple](https://arxiv.org/abs/2510.10341v4)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted as a poster at the TAG-DS 2025 Workshop (Topology, Algebra, and Geometry in Data Science). OpenReview: https://openreview.net/forum?id=s4ezAuj5xM</p></details> |
 | **[Credal Graph Neural Networks](https://arxiv.org/abs/2512.02722v1)** | 2025-12-02 |  |
 | **[Zero-Shot Instruction Following in RL via Structured LTL Representations](https://arxiv.org/abs/2512.02633v1)** | 2025-12-02 | <details><summary>ICML ...</summary><p>ICML 2025 Workshop on Programmatic Representations for Agent Learning</p></details> |
+| **[Temporal Graph Neural Networks for Early Anomaly Detection and Performance Prediction via PV System Monitoring Data](https://arxiv.org/abs/2512.03114v1)** | 2025-12-02 |  |
 | **[Detection of Crowdsourcing Cryptocurrency Laundering via Multi-Task Collaboration](https://arxiv.org/abs/2512.02534v1)** | 2025-12-02 |  |
-| **[CNN-Enabled Scheduling for Probabilistic Real-Time Guarantees in Industrial URLLC](https://arxiv.org/abs/2506.14987v3)** | 2025-12-01 |  |
-| **[Implicit Hypergraph Neural Network](https://arxiv.org/abs/2508.14101v2)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted at IEEE BigData 2025</p></details> |
-| **[Cross-View Topology-Aware Graph Representation Learning](https://arxiv.org/abs/2512.02130v1)** | 2025-12-01 |  |
-| **[Domain-Decomposed Graph Neural Network Surrogate Modeling for Ice Sheets](https://arxiv.org/abs/2512.01888v1)** | 2025-12-01 |  |
-| **[Graph Distance as Surprise: Free Energy Minimization in Knowledge Graph Reasoning](https://arxiv.org/abs/2512.01878v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted to NORA Workshop at NeurIPS 2025</p></details> |
-| **[Integrating Artificial Intelligence and Mixed Integer Linear Programming: Explainable Graph-Based Instance Space Analysis in Air Transportation](https://arxiv.org/abs/2512.01698v1)** | 2025-12-01 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, presented at XXII SITRAER 2025, in processes for submission to JATM</p></details> |
-| **[HiFIRec Towards High-Frequency yet Low-Intention Behaviors for Multi-Behavior Recommendation](https://arxiv.org/abs/2509.25755v2)** | 2025-12-01 |  |
-| **[Adaptive Canonicalization with Application to Invariant Anisotropic Geometric Networks](https://arxiv.org/abs/2509.24886v2)** | 2025-12-01 |  |
 

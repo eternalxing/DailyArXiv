@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 12, 2025
+title: Latest 15 Papers - December 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[STACHE: Local Black-Box Explanations for Reinforcement Learning Policies](https://arxiv.org/abs/2512.09909v1)** | 2025-12-10 |  |
-| **[FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning](https://arxiv.org/abs/2512.09872v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in IEEE HOST 2026</p></details> |
-| **[ChronusOmni: Improving Time Awareness of Omni Large Language Models](https://arxiv.org/abs/2512.09841v1)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code available at https://github.com/YJCX330/Chronus/</p></details> |
-| **[RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using Reinforcement Learning](https://arxiv.org/abs/2512.09829v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in the IEEE DATE 2026 conference</p></details> |
-| **[Enhancing Reasoning Skills in Small Persian Medical Language Models Can Outperform Large-Scale Data Training](https://arxiv.org/abs/2510.20059v4)** | 2025-12-10 | 7 pages, 5 figures |
-| **[Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simulation](https://arxiv.org/abs/2512.05812v2)** | 2025-12-10 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[MOA: Multi-Objective Alignment for Role-Playing Agents](https://arxiv.org/abs/2512.09756v1)** | 2025-12-10 |  |
-| **[Flexible Reconfigurable Intelligent Surface-Aided Covert Communications in UAV Networks](https://arxiv.org/abs/2512.09714v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Journal on Selected Areas in Communications</p></details> |
-| **[Training One Model to Master Cross-Level Agentic Actions via Reinforcement Learning](https://arxiv.org/abs/2512.09706v1)** | 2025-12-10 |  |
-| **[Dynamic one-time delivery of critical data by small and sparse UAV swarms: a model problem for MARL scaling studies](https://arxiv.org/abs/2512.09682v1)** | 2025-12-10 |  |
-| **[d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models](https://arxiv.org/abs/2512.09675v1)** | 2025-12-10 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 3tables</p></details> |
-| **[SynthPix: A lightspeed PIV images generator](https://arxiv.org/abs/2512.09664v1)** | 2025-12-10 | <details><summary>Code:...</summary><p>Code: https://github.com/antonioterpin/synthpix</p></details> |
-| **[PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration](https://arxiv.org/abs/2511.04180v2)** | 2025-12-10 |  |
-| **[Mind to Hand: Purposeful Robotic Control via Embodied Reasoning](https://arxiv.org/abs/2512.08580v2)** | 2025-12-10 | 49 pages, 25 figures |
-| **[Mastering Diverse, Unknown, and Cluttered Tracks for Robust Vision-Based Drone Racing](https://arxiv.org/abs/2512.09571v1)** | 2025-12-10 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, Robotics and Automation Letters accept</p></details> |
+| **[Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](https://arxiv.org/abs/2512.10949v1)** | 2025-12-11 | <details><summary>Code ...</summary><p>Code is released at https://github.com/Ivan-Tang-3D/3DGen-R1</p></details> |
+| **[Curriculum-Based Reinforcement Learning for Autonomous UAV Navigation in Unknown Curved Tubular Conduit](https://arxiv.org/abs/2512.10934v1)** | 2025-12-11 |  |
+| **[LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding](https://arxiv.org/abs/2512.06982v2)** | 2025-12-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning</p></details> |
+| **[Digital Twin Supervised Reinforcement Learning Framework for Autonomous Underwater Navigation](https://arxiv.org/abs/2512.10925v1)** | 2025-12-11 |  |
+| **[Iterative Compositional Data Generation for Robot Control](https://arxiv.org/abs/2512.10891v1)** | 2025-12-11 |  |
+| **[From Generated Human Videos to Physically Plausible Robot Trajectories](https://arxiv.org/abs/2512.05094v2)** | 2025-12-11 | <details><summary>For p...</summary><p>For project website, see https://genmimic.github.io</p></details> |
+| **[Learning Controllable and Diverse Player Behaviors in Multi-Agent Environments](https://arxiv.org/abs/2512.10835v1)** | 2025-12-11 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Games</p></details> |
+| **[Game-RL: Synthesizing Multimodal Verifiable Game Data to Boost VLMs' General Reasoning](https://arxiv.org/abs/2505.13886v8)** | 2025-12-11 | 69 pages, 24 figures |
+| **[OPV: Outcome-based Process Verifier for Efficient Long Chain-of-Thought Verification](https://arxiv.org/abs/2512.10756v1)** | 2025-12-11 |  |
+| **[Learning to Split: A Reinforcement-Learning-Guided Splitting Heuristic for Neural Network Verification](https://arxiv.org/abs/2512.10747v1)** | 2025-12-11 |  |
+| **[Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving](https://arxiv.org/abs/2512.10739v1)** | 2025-12-11 |  |
+| **[How to Brake? Ethical Emergency Braking with Deep Reinforcement Learning](https://arxiv.org/abs/2512.10698v1)** | 2025-12-11 |  |
+| **[Enhancing Radiology Report Generation and Visual Grounding using Reinforcement Learning](https://arxiv.org/abs/2512.10691v1)** | 2025-12-11 | <details><summary>10 pa...</summary><p>10 pages main text (3 figures, 3 tables), 31 pages in total</p></details> |
+| **[AgriGPT-Omni: A Unified Speech-Vision-Text Framework for Multilingual Agricultural Intelligence](https://arxiv.org/abs/2512.10624v1)** | 2025-12-11 |  |
+| **[Thinking with Images via Self-Calling Agent](https://arxiv.org/abs/2512.08511v2)** | 2025-12-11 | <details><summary>Code ...</summary><p>Code is available at https://github.com/YWenxi/think-with-images-through-self-calling</p></details> |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improving Graph Neural Network Training, Defense, Hypergraph Partitioning and Spectral Clustering via Adversarial Robustness Evaluation](https://arxiv.org/abs/2412.14738v8)** | 2025-12-10 |  |
-| **[M3Net: A Multi-Metric Mixture of Experts Network Digital Twin with Graph Neural Networks](https://arxiv.org/abs/2512.09797v1)** | 2025-12-10 |  |
-| **[A Network Science Approach to Granular Time Series Segmentation](https://arxiv.org/abs/2505.17640v2)** | 2025-12-10 | 20 pages, 11 figures |
-| **[Graph-Based Bayesian Optimization for Quantum Circuit Architecture Search with Uncertainty Calibrated Surrogates](https://arxiv.org/abs/2512.09586v1)** | 2025-12-10 | 17 pages, 13 figures |
-| **[Transport Novelty Distance: A Distributional Metric for Evaluating Material Generative Models](https://arxiv.org/abs/2512.09514v1)** | 2025-12-10 |  |
-| **[Advancing Text Classification with Large Language Models and Neural Attention Mechanisms](https://arxiv.org/abs/2512.09444v1)** | 2025-12-10 |  |
-| **[BugSweeper: Function-Level Detection of Smart Contract Vulnerabilities Using Graph Neural Networks](https://arxiv.org/abs/2512.09385v1)** | 2025-12-10 | <details><summary>This ...</summary><p>This paper is accepted to AAAI 2026</p></details> |
-| **[Branching Strategies Based on Subgraph GNNs: A Study on Theoretical Promise versus Practical Reality](https://arxiv.org/abs/2512.09355v1)** | 2025-12-10 |  |
-| **[Understanding the Failure Modes of Transformers through the Lens of Graph Neural Networks](https://arxiv.org/abs/2512.09182v1)** | 2025-12-09 |  |
-| **[AI-Driven Expansion and Application of the Alexandria Database](https://arxiv.org/abs/2512.09169v1)** | 2025-12-09 |  |
-| **[Graph Deep Learning for Intracranial Aneurysm Blood Flow Simulation and Risk Assessment](https://arxiv.org/abs/2512.09013v1)** | 2025-12-09 |  |
-| **[Delay-Oriented Distributed Scheduling with TransGNN](https://arxiv.org/abs/2512.08799v1)** | 2025-12-09 | 10 pages, 3 figures |
-| **[Learning and Editing Universal Graph Prompt Tuning via Reinforcement Learning](https://arxiv.org/abs/2512.08763v1)** | 2025-12-09 | Accepted by KDD 2026 |
-| **[CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball](https://arxiv.org/abs/2512.01478v2)** | 2025-12-09 |  |
-| **[A Hybrid Model for Stock Market Forecasting: Integrating News Sentiment and Time Series Data with Graph Neural Networks](https://arxiv.org/abs/2512.08567v1)** | 2025-12-09 | <details><summary>11 pa...</summary><p>11 pages, 6 figures. Published in the Proceedings of the 5th International Conference on Artificial Intelligence Research (ICAIR 2025). Published version available at: https://papers.academic-conferences.org/index.php/icair/article/view/4294</p></details> |
+| **[LGAN: An Efficient High-Order Graph Neural Network via the Line Graph Aggregation](https://arxiv.org/abs/2512.10735v1)** | 2025-12-11 |  |
+| **[Formula size game and model checking for modal substitution calculus](https://arxiv.org/abs/2505.07966v2)** | 2025-12-11 |  |
+| **[THeGAU: Type-Aware Heterogeneous Graph Autoencoder and Augmentation](https://arxiv.org/abs/2512.10589v1)** | 2025-12-11 |  |
+| **[Mr. Virgil: Learning Multi-robot Visual-range Relative Localization](https://arxiv.org/abs/2512.10540v1)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
+| **[From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection](https://arxiv.org/abs/2512.10485v1)** | 2025-12-11 |  |
+| **[DDFI: Diverse and Distribution-aware Missing Feature Imputation via Two-step Reconstruction](https://arxiv.org/abs/2512.06356v2)** | 2025-12-11 |  |
+| **[Enhanced Spatial Clustering of Single-Molecule Localizations with Graph Neural Networks](https://arxiv.org/abs/2412.00173v2)** | 2025-12-11 | <details><summary>47 pa...</summary><p>47 pages, 5 main figures, 3 table, 3 supplementary figures, 9 supplementary tables. This is the author's version of the article published in Nature Communications under CC BY 4.0. The final published version is available at https://doi.org/10.1038/s41467-025-65557-7</p></details> |
+| **[Better Prevent than Tackle: Valuing Defense in Soccer Based on Graph Neural Networks](https://arxiv.org/abs/2512.10355v1)** | 2025-12-11 |  |
+| **[A Kernel-based Resource-efficient Neural Surrogate for Multi-fidelity Prediction of Aerodynamic Field](https://arxiv.org/abs/2512.10287v1)** | 2025-12-11 | 24 pages, 15 figures |
+| **[Graph Neural Network Based Adaptive Threat Detection for Cloud Identity and Access Management Logs](https://arxiv.org/abs/2512.10280v1)** | 2025-12-11 |  |
+| **[GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation](https://arxiv.org/abs/2502.01113v3)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding (Technical Report)](https://arxiv.org/abs/2309.15641v6)** | 2025-12-11 |  |
+| **[Magnitude-Modulated Equivariant Adapter for Parameter-Efficient Fine-Tuning of Equivariant Graph Neural Networks](https://arxiv.org/abs/2511.06696v2)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 (Poster)</p></details> |
+| **[Galaxy Phase-Space and Field-Level Cosmology: The Strength of Semi-Analytic Models](https://arxiv.org/abs/2512.10222v1)** | 2025-12-11 | 23 pages, 5 figures |
+| **[Modeling Narrative Archetypes in Conspiratorial Narratives: Insights from Singapore-Based Telegram Groups](https://arxiv.org/abs/2512.10105v1)** | 2025-12-10 |  |
 

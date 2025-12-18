@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 17, 2025
+title: Latest 15 Papers - December 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,26 +7,26 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection](https://arxiv.org/abs/2512.13671v1)** | 2025-12-15 |  |
-| **[A Scientific Reasoning Model for Organic Synthesis Procedure Generation](https://arxiv.org/abs/2512.13668v1)** | 2025-12-15 |  |
-| **[Advancing Machine Learning Optimization of Chiral Photonic Metasurface: Comparative Study of Neural Network and Genetic Algorithm Approaches](https://arxiv.org/abs/2512.13656v1)** | 2025-12-15 |  |
-| **[MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning](https://arxiv.org/abs/2512.13636v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 12 figures, 6 tables; Project Page: https://xiaomi-mlab.github.io/MindDrive/</p></details> |
-| **[SCR2-ST: Combine Single Cell with Spatial Transcriptomics for Efficient Active Sampling via Reinforcement Learning](https://arxiv.org/abs/2512.13635v1)** | 2025-12-15 |  |
-| **[Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models](https://arxiv.org/abs/2512.13607v1)** | 2025-12-15 | <details><summary>We pu...</summary><p>We publicly release the Nemotron-Cascade models and the full collection of training data at: https://huggingface.co/collections/nvidia/nemotron-cascade</p></details> |
-| **[Image Diffusion Preview with Consistency Solver](https://arxiv.org/abs/2512.13592v1)** | 2025-12-15 |  |
-| **[MMhops-R1: Multimodal Multi-hop Reasoning](https://arxiv.org/abs/2512.13573v1)** | 2025-12-15 | Acceped by AAAI 2026 |
-| **[Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564v1)** | 2025-12-15 |  |
-| **[Improving Generative Ad Text on Facebook using Reinforcement Learning](https://arxiv.org/abs/2507.21983v2)** | 2025-12-15 | <details><summary>D.J. ...</summary><p>D.J. and A.N. contributed equally, 41 pages, 6 figures</p></details> |
-| **[How Low Can You Go? The Data-Light SE Challenge](https://arxiv.org/abs/2512.13524v1)** | 2025-12-15 |  |
-| **[Reinforcement Learning based 6-DoF Maneuvers for Microgravity Intravehicular Docking: A Simulation Study with Int-Ball2 in ISS-JEM](https://arxiv.org/abs/2512.13514v1)** | 2025-12-15 | <details><summary>Prese...</summary><p>Presented at AI4OPA Workshop at the International Conference on Space Robotics (iSpaRo) 2025 at Sendai, Japan</p></details> |
-| **[MedCEG: Reinforcing Verifiable Medical Reasoning with Critical Evidence Graph](https://arxiv.org/abs/2512.13510v1)** | 2025-12-15 |  |
-| **[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v1)** | 2025-12-15 | <details><summary>Seeda...</summary><p>Seedance 1.5 pro Technical Report</p></details> |
-| **[HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs](https://arxiv.org/abs/2508.10576v4)** | 2025-12-15 | Accepted by AAAI2026 |
+| **[TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2512.14698v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://timelens-arc-lab.github.io/</p></details> |
+| **[CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives](https://arxiv.org/abs/2512.14696v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://crisp-real2sim.github.io/CRISP-Real2Sim/</p></details> |
+| **[Understanding Sampler Stochasticity in Training Diffusion Models for RLHF](https://arxiv.org/abs/2510.10767v2)** | 2025-12-16 |  |
+| **[Model-Based Reinforcement Learning in Discrete-Action Non-Markovian Reward Decision Processes](https://arxiv.org/abs/2512.14617v1)** | 2025-12-16 | <details><summary>19 pa...</summary><p>19 pages, 32 figures, includes appendix</p></details> |
+| **[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v2)** | 2025-12-16 | <details><summary>Seeda...</summary><p>Seedance 1.5 pro Technical Report</p></details> |
+| **[RecGPT-V2 Technical Report](https://arxiv.org/abs/2512.14503v1)** | 2025-12-16 |  |
+| **[Hybrid Cognitive IoT with Cooperative Caching and SWIPT-EH: A Hierarchical Reinforcement Learning Framework](https://arxiv.org/abs/2512.14488v1)** | 2025-12-16 | <details><summary>Publi...</summary><p>Published in IEEE Internet of Things Journal (Early Access), 2025. This arXiv version is the authors' accepted manuscript</p></details> |
+| **[Context-Picker: Dynamic context selection using multi-stage reinforcement learning](https://arxiv.org/abs/2512.14465v1)** | 2025-12-16 |  |
+| **[ASTRO: Adaptive Stitching via Dynamics-Guided Trajectory Rollouts](https://arxiv.org/abs/2511.23442v2)** | 2025-12-16 |  |
+| **[Holistic Utility Preference Learning for Listwise Alignment](https://arxiv.org/abs/2410.18127v2)** | 2025-12-16 |  |
+| **[Kimina Lean Server: A High-Performance Lean Server for Large-Scale Verification](https://arxiv.org/abs/2504.21230v3)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted to the 5th MATH-AI Workshop at NeurIPS 2025</p></details> |
+| **[Training Multi-Image Vision Agents via End2End Reinforcement Learning](https://arxiv.org/abs/2512.08980v2)** | 2025-12-16 |  |
+| **[DART: Difficulty-Adaptive Reasoning Truncation for Efficient Large Language Models](https://arxiv.org/abs/2511.01170v2)** | 2025-12-16 |  |
+| **[A data-physics hybrid generative model for patient-specific post-stroke motor rehabilitation using wearable sensor data](https://arxiv.org/abs/2512.14329v1)** | 2025-12-16 | 26 pages, 6 figures |
+| **[Multi-Agent Medical Decision Consensus Matrix System: An Intelligent Collaborative Framework for Oncology MDT Consultations](https://arxiv.org/abs/2512.14321v1)** | 2025-12-16 | 14 pages, 6 figures |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CFLight: Enhancing Safety with Traffic Signal Control through Counterfactual Learning](https://arxiv.org/abs/2512.09368v1)** | 2025-12-10 |  |
+| **[CFLight: Enhancing Safety with Traffic Signal Control through Counterfactual Learning](https://arxiv.org/abs/2512.09368v2)** | 2025-12-16 |  |
 | **[MAESTRO: Multi-Agent Environment Shaping through Task and Reward Optimization](https://arxiv.org/abs/2511.19253v2)** | 2025-12-10 | <details><summary>Prepr...</summary><p>Preprint. 16 pages, 6 figures. Preliminary version; extended experiments and analysis forthcoming</p></details> |
 | **[Adaptive Tuning of Parameterized Traffic Controllers via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2512.07417v1)** | 2025-12-08 |  |
 | **[Analyzing Collision Rates in Large-Scale Mixed Traffic Control via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2512.06645v1)** | 2025-12-07 |  |
@@ -45,19 +45,19 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TomoGraphView: 3D Medical Image Classification with Omnidirectional Slice Representations and Graph Neural Networks](https://arxiv.org/abs/2511.09605v3)** | 2025-12-16 | <details><summary>Prepr...</summary><p>Preprint submitted to Medical Image Analysis (MedIA)</p></details> |
+| **[Property-Isometric Variational Autoencoders for Sequence Modeling and Design](https://arxiv.org/abs/2509.14287v2)** | 2025-12-16 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, preprint</p></details> |
+| **[A Graph-Based Forensic Framework for Inferring Hardware Noise of Cloud Quantum Backend](https://arxiv.org/abs/2512.14541v1)** | 2025-12-16 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference</p></details> |
+| **[Online Multi-modal Root Cause Identification in Microservice Systems](https://arxiv.org/abs/2410.10021v2)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by BigData 2025</p></details> |
+| **[Dual-Axis RCCL: Representation-Complete Convergent Learning for Organic Chemical Space](https://arxiv.org/abs/2512.14418v1)** | 2025-12-16 | 33 pages, 10 figures |
+| **[HeSRN: Representation Learning On Heterogeneous Graphs via Slot-Aware Retentive Network](https://arxiv.org/abs/2510.09767v2)** | 2025-12-16 |  |
+| **[GALAX: Graph-Augmented Language Model for Explainable Reinforcement-Guided Subgraph Reasoning in Precision Medicine](https://arxiv.org/abs/2509.20935v2)** | 2025-12-16 |  |
+| **[ProtoFlow: Interpretable and Robust Surgical Workflow Modeling with Learned Dynamic Scene Graph Prototypes](https://arxiv.org/abs/2512.14092v1)** | 2025-12-16 |  |
+| **[Multivariate Time Series Forecasting with Hybrid Euclidean-SPD Manifold Graph Neural Networks](https://arxiv.org/abs/2512.14023v1)** | 2025-12-16 |  |
+| **[A Complete Guide to Spherical Equivariant Graph Transformers](https://arxiv.org/abs/2512.13927v1)** | 2025-12-15 | <details><summary>This ...</summary><p>This paper is a technical version of the article originally published in Alchemy Bio (99 pages, 46 figures)</p></details> |
+| **[Topologically-Stabilized Graph Neural Networks: Empirical Robustness Across Domains](https://arxiv.org/abs/2512.13852v1)** | 2025-12-15 |  |
 | **[LightTopoGAT: Enhancing Graph Attention Networks with Topological Features for Efficient Graph Classification](https://arxiv.org/abs/2512.13617v1)** | 2025-12-15 | 9 pages |
 | **[The prediction of the quality of results in Logic Synthesis using Transformer and Graph Neural Networks](https://arxiv.org/abs/2207.11437v3)** | 2025-12-15 |  |
 | **[Meta Pruning via Graph Metanetworks : A Universal Meta Learning Framework for Network Pruning](https://arxiv.org/abs/2506.12041v3)** | 2025-12-15 |  |
-| **[OPAL: Operator-Programmed Algorithms for Landscape-Aware Black-Box Optimization](https://arxiv.org/abs/2512.12809v1)** | 2025-12-14 | <details><summary>Sourc...</summary><p>Source code, experiment scripts, and results are publicly available at https://github.com/junbolian/OPAL. The real-world application part hasn't been done yet</p></details> |
-| **[Modeling Authorial Style in Urdu Novels Using Character Interaction Graphs and Graph Neural Networks](https://arxiv.org/abs/2512.12654v1)** | 2025-12-14 | 6 pages |
-| **[Shoot from the HIP: Hessian Interatomic Potentials without derivatives](https://arxiv.org/abs/2509.21624v2)** | 2025-12-14 | <details><summary>https...</summary><p>https://github.com/BurgerAndreas/hip</p></details> |
-| **[Torch Geometric Pool: the Pytorch library for pooling in Graph Neural Networks](https://arxiv.org/abs/2512.12642v1)** | 2025-12-14 |  |
-| **[DGTEN: A Robust Deep Gaussian based Graph Neural Network for Dynamic Trust Evaluation with Uncertainty-Quantification Support](https://arxiv.org/abs/2510.07620v2)** | 2025-12-14 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 5 tables</p></details> |
-| **[Empirical Mode Decomposition and Graph Transformation of the MSCI World Index: A Multiscale Topological Analysis for Graph Neural Network Modeling](https://arxiv.org/abs/2512.12526v1)** | 2025-12-14 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 6 tables</p></details> |
-| **[GoMS: Graph of Molecule Substructure Network for Molecule Property Prediction](https://arxiv.org/abs/2512.12489v1)** | 2025-12-13 |  |
-| **[Stealthy Yet Effective: Distribution-Preserving Backdoor Attacks on Graph Classification](https://arxiv.org/abs/2509.26032v2)** | 2025-12-13 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[High-Dimensional Tensor Discriminant Analysis: Low-Rank Discriminant Structure, Representation Synergy, and Theoretical Guarantees](https://arxiv.org/abs/2512.12122v1)** | 2025-12-13 |  |
-| **[Dynamic Fraud Detection: Integrating Reinforcement Learning into Graph Neural Networks](https://arxiv.org/abs/2409.09892v2)** | 2025-12-12 | <details><summary>I req...</summary><p>I request the withdrawal of this paper because serious concerns have been identified regarding the originality of the manuscript, and the authors suspect that the fifth author may have engaged in plagiarism, including the possible use of unpublished results from a manuscript affiliated with Donghua University</p></details> |
-| **[Generative Graph Pattern Machine](https://arxiv.org/abs/2505.16130v3)** | 2025-12-12 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Context-Aware Agentic Power Resources Optimisation in EV using Smart2ChargeApp](https://arxiv.org/abs/2512.12048v1)** | 2025-12-12 |  |
+| **[Network-Wide Traffic Volume Estimation from Speed Profiles using a Spatio-Temporal Graph Neural Network with Directed Spatial Attention](https://arxiv.org/abs/2512.13758v1)** | 2025-12-15 |  |
 

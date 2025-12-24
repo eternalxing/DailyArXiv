@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 23, 2025
+title: Latest 15 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Distributionally Robust Imitation Learning: Layered Control Architecture for Certifiable Autonomy](https://arxiv.org/abs/2512.17899v1)** | 2025-12-19 | 18 pages, 5 figures |
-| **[Deep Gaussian Process Proximal Policy Optimization](https://arxiv.org/abs/2511.18214v2)** | 2025-12-19 | <details><summary>Withd...</summary><p>Withdrawn by the authors as the manuscript is not yet complete; no updated version is available at this time</p></details> |
-| **[AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853v1)** | 2025-12-19 | <details><summary>28 pa...</summary><p>28 pages, 25 figures. The first four authors contributed equally</p></details> |
-| **[Planning as Descent: Goal-Conditioned Latent Trajectory Synthesis in Learned Energy Landscapes](https://arxiv.org/abs/2512.17846v1)** | 2025-12-19 |  |
-| **[NeuRehab: A Reinforcement Learning and Spiking Neural Network-Based Rehab Automation Framework](https://arxiv.org/abs/2512.17841v1)** | 2025-12-19 | <details><summary>18 pa...</summary><p>18 pages, 22 figures, 3 tables, for submission to IOP Neuromorphic Computing and Engineering</p></details> |
-| **[RL from Teacher-Model Refinement: Gradual Imitation Learning for Machine Translation](https://arxiv.org/abs/2507.22219v3)** | 2025-12-19 |  |
-| **[Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning](https://arxiv.org/abs/2510.20150v4)** | 2025-12-19 |  |
-| **[PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning](https://arxiv.org/abs/2508.10501v4)** | 2025-12-19 |  |
-| **[Fun-ASR Technical Report](https://arxiv.org/abs/2509.12508v4)** | 2025-12-19 | <details><summary>Autho...</summary><p>Authors are listed in alphabetical order. Work in progress</p></details> |
-| **[Enhancing Blind Face Restoration through Online Reinforcement Learning](https://arxiv.org/abs/2509.23339v2)** | 2025-12-19 | 8 figures, 4 tables |
-| **[Preconditioned Inexact Stochastic ADMM for Deep Model](https://arxiv.org/abs/2502.10784v5)** | 2025-12-19 |  |
-| **[About Time: Model-free Reinforcement Learning with Timed Reward Machines](https://arxiv.org/abs/2512.17637v1)** | 2025-12-19 |  |
-| **[Trust-Region Adaptive Policy Optimization](https://arxiv.org/abs/2512.17636v1)** | 2025-12-19 |  |
-| **[SCOPE: Sequential Causal Optimization of Process Interventions](https://arxiv.org/abs/2512.17629v1)** | 2025-12-19 |  |
-| **[Learning Safe Autonomous Driving Policies Using Predictive Safety Representations](https://arxiv.org/abs/2512.17586v1)** | 2025-12-19 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Submitted to ICRA 2026</p></details> |
+| **[Scalably Enhancing the Clinical Validity of a Task Benchmark with Physician Oversight](https://arxiv.org/abs/2512.19691v1)** | 2025-12-22 |  |
+| **[Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies](https://arxiv.org/abs/2512.19673v1)** | 2025-12-22 | <details><summary>Prepr...</summary><p>Preprint. Our code is available at https://github.com/Trae1ounG/BuPO</p></details> |
+| **[Shape it Up! Restoring LLM Safety during Finetuning](https://arxiv.org/abs/2505.17196v3)** | 2025-12-22 | NeurIPS'25 |
+| **[Enhancing Multi-Agent Collaboration with Attention-Based Actor-Critic Policies](https://arxiv.org/abs/2507.22782v3)** | 2025-12-22 | 11 pages |
+| **[Learning Generalizable Hand-Object Tracking from Synthetic Demonstrations](https://arxiv.org/abs/2512.19583v1)** | 2025-12-22 |  |
+| **[LeLaR: The First In-Orbit Demonstration of an AI-Based Satellite Attitude Controller](https://arxiv.org/abs/2512.19576v1)** | 2025-12-22 | <details><summary>55 pa...</summary><p>55 pages, 27 figures, 29 tables. The maneuver telemetry datasets generated and analyzed during this work are available in the GitHub repository https://github.com/kdjebko/lelar-in-orbit-data</p></details> |
+| **[CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal](https://arxiv.org/abs/2512.19554v1)** | 2025-12-22 |  |
+| **[LacaDM: A Latent Causal Diffusion Model for Multiobjective Reinforcement Learning](https://arxiv.org/abs/2512.19516v1)** | 2025-12-22 |  |
+| **[SPELL: Self-Play Reinforcement Learning for evolving Long-Context Language Models](https://arxiv.org/abs/2509.23863v2)** | 2025-12-22 | <details><summary>Prepr...</summary><p>Preprint under review</p></details> |
+| **[Towards Senior-Robot Interaction: Reactive Robot Dog Gestures](https://arxiv.org/abs/2512.17136v2)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at the Australasian Conference on Robotics and Automation (ACRA) 2025</p></details> |
+| **[SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning](https://arxiv.org/abs/2510.16416v2)** | 2025-12-22 |  |
+| **[ESSA: Evolutionary Strategies for Scalable Alignment](https://arxiv.org/abs/2507.04453v3)** | 2025-12-22 |  |
+| **[AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting](https://arxiv.org/abs/2505.18822v2)** | 2025-12-22 |  |
+| **[CodeSimpleQA: Scaling Factuality in Code Large Language Models](https://arxiv.org/abs/2512.19424v1)** | 2025-12-22 |  |
+| **[Deep Reinforcement Learning Optimization for Uncertain Nonlinear Systems via Event-Triggered Robust Adaptive Dynamic Programming](https://arxiv.org/abs/2512.15735v2)** | 2025-12-22 | <details><summary>we ha...</summary><p>we have identified some technical issues, including the mathematical derivation. After discussion, all authors have agreed that the analysis requires a thorough re-derivation to ensure correctness and rigor</p></details> |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Can You Hear Me Now? A Benchmark for Long-Range Graph Propagation](https://arxiv.org/abs/2512.17762v1)** | 2025-12-19 |  |
-| **[STAGNet: A Spatio-Temporal Graph and LSTM Framework for Accident Anticipation](https://arxiv.org/abs/2508.15216v3)** | 2025-12-19 | <details><summary>Publi...</summary><p>Published in IEEE Access</p></details> |
-| **[Spatially-informed transformers: Injecting geostatistical covariance biases into self-attention for spatio-temporal forecasting](https://arxiv.org/abs/2512.17696v1)** | 2025-12-19 |  |
-| **[Logical Characterizations of GNNs with Mean Aggregation](https://arxiv.org/abs/2507.18145v2)** | 2025-12-19 | <details><summary>26 pa...</summary><p>26 pages, extended version of paper to appear in AAAI 2026</p></details> |
-| **[A lightweight Spatial-Temporal Graph Neural Network for Long-term Time Series Forecasting](https://arxiv.org/abs/2512.17453v1)** | 2025-12-19 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 2 tables. Accepted for presentation at the 18th International Conference on Agents and Artificial Intelligence (ICAART 2026), Marbella, Spain</p></details> |
-| **[Adaptive Graph Pruning with Sudden-Events Evaluation for Traffic Prediction using Online Semi-Decentralized ST-GNNs](https://arxiv.org/abs/2512.17352v1)** | 2025-12-19 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 5 tables, journal</p></details> |
-| **[From Priors to Predictions: Explaining and Visualizing Human Reasoning in a Graph Neural Network Framework](https://arxiv.org/abs/2512.17255v1)** | 2025-12-19 | <details><summary>44 pa...</summary><p>44 pages, 7 figures, 3 suppl figures</p></details> |
-| **[Beyond Force Metrics: Pre-Training MLFFs for Stable MD Simulations](https://arxiv.org/abs/2506.14850v3)** | 2025-12-19 |  |
-| **[DiffeoMorph: Learning to Morph 3D Shapes Using Differentiable Agent-Based Simulations](https://arxiv.org/abs/2512.17129v1)** | 2025-12-18 |  |
-| **[Dirichlet Meets Horvitz and Thompson: Estimating Homophily in Large Networks via Sampling](https://arxiv.org/abs/2512.17084v1)** | 2025-12-18 |  |
-| **[Microsoft Academic Graph Information Retrieval for Research Recommendation and Assistance](https://arxiv.org/abs/2512.16661v1)** | 2025-12-18 | 5 pages, 3 figures |
-| **[Riemannian Stochastic Interpolants for Amorphous Particle Systems](https://arxiv.org/abs/2512.16607v1)** | 2025-12-18 |  |
-| **[GFLAN: Generative Functional Layouts](https://arxiv.org/abs/2512.16275v1)** | 2025-12-18 | 21 pages, 15 figures |
-| **[Sharpness-aware Federated Graph Learning](https://arxiv.org/abs/2512.16247v1)** | 2025-12-18 | Accepted by WSDM'26 |
-| **[Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models](https://arxiv.org/abs/2512.16244v1)** | 2025-12-18 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[GraphGeo: Multi-Agent Debate Framework for Visual Geo-localization with Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2511.00908v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
+| **[Learning Continuous Solvent Effects from Transient Flow Data: A Graph Neural Network Benchmark on Catechol Rearrangement](https://arxiv.org/abs/2512.19530v1)** | 2025-12-22 | 13 pages, 6 figures |
+| **[Kolmogorov-Arnold Graph Neural Networks Applied to Inorganic Nanomaterials Dataset](https://arxiv.org/abs/2512.19494v1)** | 2025-12-22 |  |
+| **[Learning General Policies with Policy Gradient Methods](https://arxiv.org/abs/2512.19366v1)** | 2025-12-22 | <details><summary>In Pr...</summary><p>In Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning (KR 2023)</p></details> |
+| **[A Logical View of GNN-Style Computation and the Role of Activation Functions](https://arxiv.org/abs/2512.19332v1)** | 2025-12-22 |  |
+| **[Certified Defense on the Fairness of Graph Neural Networks](https://arxiv.org/abs/2311.02757v3)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at SIGKDD'26 for publication</p></details> |
+| **[LogicXGNN: Grounded Logical Rules for Explaining Graph Neural Networks](https://arxiv.org/abs/2503.19476v3)** | 2025-12-21 | 31 pages, 14 figures |
+| **[Microsoft Academic Graph Information Retrieval for Research Recommendation and Assistance](https://arxiv.org/abs/2512.16661v2)** | 2025-12-21 | 5 pages, 3 figures |
+| **[Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models](https://arxiv.org/abs/2512.16244v2)** | 2025-12-21 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[Scaling up Stability: Reinforcement Learning for Distributed Control of Networked Systems in the Space of Stabilizing Policies](https://arxiv.org/abs/2512.18540v1)** | 2025-12-20 |  |
+| **[Feature-Enhanced Graph Neural Networks for Classification of Synthetic Graph Generative Models: A Benchmarking Study](https://arxiv.org/abs/2512.18524v1)** | 2025-12-20 | <details><summary>This ...</summary><p>This is a preprint version of a manuscript currently under review at The Journal of Supercomputing (Springer)</p></details> |
+| **[Self-Supervised Learning of Graph Representations for Network Intrusion Detection](https://arxiv.org/abs/2509.16625v5)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[APC-GNN++: An Adaptive Patient-Centric GNN with Context-Aware Attention and Mini-Graph Explainability for Diabetes Classification](https://arxiv.org/abs/2512.18473v1)** | 2025-12-20 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, 5 tables</p></details> |
+| **[A Distributed Hierarchical Spatio-Temporal Edge-Enhanced Graph Neural Network for City-Scale Dynamic Logistics Routing](https://arxiv.org/abs/2512.18441v1)** | 2025-12-20 |  |
+| **[Through the PRISm: Importance-Aware Scene Graphs for Image Retrieval](https://arxiv.org/abs/2512.18407v1)** | 2025-12-20 | 10 pages, 5 figures |
 

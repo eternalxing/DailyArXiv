@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 29, 2025
+title: Latest 15 Papers - December 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Intrinsic Benefits of Categorical Distributional Loss: Uncertainty-aware Regularized Exploration in Reinforcement Learning](https://arxiv.org/abs/2110.03155v8)** | 2025-12-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025; Previous Version in ICML Workshop: Exploration in AI Today (EXAIT) 2025</p></details> |
-| **[MiST: Understanding the Role of Mid-Stage Scientific Training in Developing Chemical Reasoning Models](https://arxiv.org/abs/2512.21231v1)** | 2025-12-24 |  |
-| **[SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning](https://arxiv.org/abs/2510.16416v3)** | 2025-12-24 |  |
-| **[Data-regularized Reinforcement Learning for Diffusion Models at Scale](https://arxiv.org/abs/2512.04332v3)** | 2025-12-24 |  |
-| **[AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models](https://arxiv.org/abs/2511.20325v2)** | 2025-12-24 |  |
-| **[Sequence to Sequence Reward Modeling: Improving RLHF by Language Feedback](https://arxiv.org/abs/2409.00162v2)** | 2025-12-24 | 7 pages |
-| **[Global End-Effector Pose Control of an Underactuated Aerial Manipulator via Reinforcement Learning](https://arxiv.org/abs/2512.21085v1)** | 2025-12-24 | 8 pages, 6 figures |
-| **[Dyna-Style Reinforcement Learning Modeling and Control of Non-linear Dynamics](https://arxiv.org/abs/2512.21081v1)** | 2025-12-24 |  |
-| **[Ensuring Safety in an Uncertain Environment: Constrained MDPs via Stochastic Thresholds](https://arxiv.org/abs/2504.04973v3)** | 2025-12-24 |  |
-| **[Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning](https://arxiv.org/abs/2512.20605v2)** | 2025-12-24 |  |
-| **[Reinforcement Learning with Verifiable yet Noisy Rewards under Imperfect Verifiers](https://arxiv.org/abs/2510.00915v3)** | 2025-12-24 |  |
-| **[Thinking-Free Policy Initialization Makes Distilled Reasoning Models More Effective and Efficient Reasoners](https://arxiv.org/abs/2509.26226v2)** | 2025-12-24 |  |
-| **[Policy-Conditioned Policies for Multi-Agent Task Solving](https://arxiv.org/abs/2512.21024v1)** | 2025-12-24 |  |
-| **[DAPPER: Discriminability-Aware Policy-to-Policy Preference-Based Reinforcement Learning for Query-Efficient Robot Skill Acquisition](https://arxiv.org/abs/2505.06357v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted for IEEE Robotics & Automation Magazine (RAM)</p></details> |
-| **[LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT](https://arxiv.org/abs/2512.20997v1)** | 2025-12-24 | 8 pages, 5 figures |
+| **[Accelerating Diffusion Planners in Offline RL via Reward-Aware Consistency Trajectory Distillation](https://arxiv.org/abs/2506.07822v2)** | 2025-12-26 |  |
+| **[Periodic Asynchrony: An Effective Method for Accelerating Reinforcement Learning for Large Language Models](https://arxiv.org/abs/2511.18871v3)** | 2025-12-26 |  |
+| **[Meta-Learning-Based Handover Management in NextG O-RAN](https://arxiv.org/abs/2512.22022v1)** | 2025-12-26 |  |
+| **[ToTRL: Unlock LLM Tree-of-Thoughts Reasoning Potential through Puzzles Solving](https://arxiv.org/abs/2505.12717v2)** | 2025-12-26 |  |
+| **[Latency-Optimal Cache-aided Multicast Streaming via Forward-Backward Reinforcement Learning](https://arxiv.org/abs/2512.21954v1)** | 2025-12-26 |  |
+| **[SWE-RM: Execution-free Feedback For Software Engineering Agents](https://arxiv.org/abs/2512.21919v1)** | 2025-12-26 | 21 pages |
+| **[Efficient Neural Combinatorial Optimization Solver for the Min-max Heterogeneous Capacitated Vehicle Routing Problem](https://arxiv.org/abs/2507.21386v2)** | 2025-12-26 |  |
+| **[Think, Act, Learn: A Framework for Autonomous Robotic Agents using Closed-Loop Large Language Models](https://arxiv.org/abs/2507.19854v2)** | 2025-12-26 | 13 pages, 7 figures |
+| **[A Comedy of Estimators: On KL Regularization in RL Training of LLMs](https://arxiv.org/abs/2512.21852v1)** | 2025-12-26 |  |
+| **[Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning](https://arxiv.org/abs/2512.16917v2)** | 2025-12-26 | <details><summary>V2: A...</summary><p>V2: Added links to the code-generation results and additional details in the appendix</p></details> |
+| **[Q-A3C2: Quantum Reinforcement Learning with Time-Series Dynamic Clustering for Adaptive ETF Stock Selection](https://arxiv.org/abs/2512.21819v1)** | 2025-12-26 |  |
+| **[ForestProtector: An IoT Architecture Integrating Machine Vision and Deep Reinforcement Learning for Efficient Wildfire Monitoring](https://arxiv.org/abs/2501.09926v2)** | 2025-12-25 | <details><summary>Accep...</summary><p>Accepted for publication in the proceedings of the 11th International Conference on Automation, Robotics, and Applications (ICARA 2025)</p></details> |
+| **[Vox Deorum: A Hybrid LLM Architecture for 4X / Grand Strategy Game AI -- Lessons from Civilization V](https://arxiv.org/abs/2512.18564v2)** | 2025-12-25 | Under review |
+| **[Multi-Agent Collaborative Reward Design for Enhancing Reasoning in Reinforcement Learning](https://arxiv.org/abs/2511.16202v3)** | 2025-12-25 |  |
+| **[ZIA: A Theoretical Framework for Zero-Input AI](https://arxiv.org/abs/2502.16124v2)** | 2025-12-25 |  |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,13 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Curvature-aware Graph Network](https://arxiv.org/abs/2511.01443v2)** | 2025-12-26 |  |
+| **[HWL-HIN: A Hypergraph-Level Hypergraph Isomorphism Network as Powerful as the Hypergraph Weisfeiler-Lehman Test with Application to Higher-Order Network Robustness](https://arxiv.org/abs/2512.22014v1)** | 2025-12-26 |  |
+| **[Knowledge Reasoning of Large Language Models Integrating Graph-Structured Information for Pest and Disease Control in Tobacco](https://arxiv.org/abs/2512.21837v1)** | 2025-12-26 |  |
+| **[Fairness-Aware Graph Representation Learning with Limited Demographic Information](https://arxiv.org/abs/2511.13540v3)** | 2025-12-26 |  |
+| **[MoEGCL: Mixture of Ego-Graphs Contrastive Representation Learning for Multi-View Clustering](https://arxiv.org/abs/2511.05876v4)** | 2025-12-25 |  |
+| **[ALETHEIA: Combating Social Media Influence Campaigns with Graph Neural Networks](https://arxiv.org/abs/2512.21391v1)** | 2025-12-24 |  |
+| **[SENTINEL: A Multi-Modal Early Detection Framework for Emerging Cyber Threats using Telegram](https://arxiv.org/abs/2512.21380v1)** | 2025-12-24 |  |
 | **[A Community-Enhanced Graph Representation Model for Link Prediction](https://arxiv.org/abs/2512.21166v1)** | 2025-12-24 |  |
 | **[Semantic Refinement with LLMs for Graph Representations](https://arxiv.org/abs/2512.21106v1)** | 2025-12-24 |  |
 | **[A Multi-fidelity Double-Delta Wing Dataset and Empirical Scaling Laws for GNN-based Aerodynamic Field Surrogate](https://arxiv.org/abs/2512.20941v1)** | 2025-12-24 |  |
@@ -53,11 +60,4 @@ labels: documentation
 | **[GraphFire-X: Physics-Informed Graph Attention Networks and Structural Gradient Boosting for Building-Scale Wildfire Preparedness at the Wildland-Urban Interface](https://arxiv.org/abs/2512.20813v1)** | 2025-12-23 |  |
 | **[Symbolic regression for defect interactions in 2D materials](https://arxiv.org/abs/2512.20785v1)** | 2025-12-23 |  |
 | **[SirenPose: Dynamic Scene Reconstruction via Geometric Supervision](https://arxiv.org/abs/2512.20531v1)** | 2025-12-23 | Under submission |
-| **[Enhancing Topological Dependencies in Spatio-Temporal Graphs with Cycle Message Passing Blocks](https://arxiv.org/abs/2401.15894v3)** | 2025-12-23 | <details><summary>Proce...</summary><p>Proceedings of the Third Learning on Graphs Conference (LoG 2024)</p></details> |
-| **[A Novel Graph-Sequence Learning Model for Inductive Text Classification](https://arxiv.org/abs/2512.20097v1)** | 2025-12-23 |  |
-| **[Jensen-Shannon Divergence Message-Passing for Rich-Text Graph Representation Learning](https://arxiv.org/abs/2512.20094v1)** | 2025-12-23 |  |
-| **[Spatio-Temporal Graphs Beyond Grids: Benchmark for Maritime Anomaly Detection](https://arxiv.org/abs/2512.20086v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Workshop in AI for Science: The Reach and Limits of AI for Scientific Discovery</p></details> |
-| **[QE-Catalytic: A Graph-Language Multimodal Base Model for Relaxed-Energy Prediction in Catalytic Adsorption](https://arxiv.org/abs/2512.20084v1)** | 2025-12-23 | 25 pages |
-| **[MAPI-GNN: Multi-Activation Plane Interaction Graph Neural Network for Multimodal Medical Diagnosis](https://arxiv.org/abs/2512.20026v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted by Proceedings of the AAAI Conference on Artificial Intelligence 40 (AAAI-26)</p></details> |
-| **[A hybrid global local computational framework for ship hull structural analysis using homogenized model and graph neural network](https://arxiv.org/abs/2512.20020v1)** | 2025-12-23 |  |
 

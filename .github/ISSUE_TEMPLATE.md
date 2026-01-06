@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 05, 2026
+title: Latest 15 Papers - January 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070v1)** | 2025-12-31 | 45 pages |
-| **[Many Minds from One Model: Bayesian Transformers for Population Intelligence](https://arxiv.org/abs/2512.25063v1)** | 2025-12-31 |  |
-| **[ResponseRank: Data-Efficient Reward Modeling through Preference Strength Learning](https://arxiv.org/abs/2512.25023v1)** | 2025-12-31 | NeurIPS 2025 |
-| **[CLF-RL: Control Lyapunov Function Guided Reinforcement Learning](https://arxiv.org/abs/2508.09354v2)** | 2025-12-31 | 8 pages; 7 figures |
-| **[MSACL: Multi-Step Actor-Critic Learning with Lyapunov Certificates for Exponentially Stabilizing Control](https://arxiv.org/abs/2512.24955v1)** | 2025-12-31 |  |
-| **[Iterative Deployment Improves Planning Skills in LLMs](https://arxiv.org/abs/2512.24940v1)** | 2025-12-31 |  |
-| **[Pre-DPO: Improving Data Utilization in Direct Preference Optimization Using a Guiding Reference Model](https://arxiv.org/abs/2504.15843v3)** | 2025-12-31 |  |
-| **[Throughput Optimization in UAV-Mounted RIS under Jittering and Imperfect CSI via DRL](https://arxiv.org/abs/2512.24773v1)** | 2025-12-31 |  |
-| **[Sparse Offline Reinforcement Learning with Corruption Robustness](https://arxiv.org/abs/2512.24768v1)** | 2025-12-31 |  |
-| **[Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow](https://arxiv.org/abs/2512.24766v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project website: https://dream2flow.github.io/</p></details> |
-| **[AINav: Large Language Model-Based Adaptive Interactive Navigation](https://arxiv.org/abs/2503.22942v2)** | 2025-12-31 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, accepted to IEEE Robotics & Automation Magazine</p></details> |
-| **[Control of Microrobots with Reinforcement Learning under On-Device Compute Constraints](https://arxiv.org/abs/2512.24740v1)** | 2025-12-31 | 9 pages, 10 figures |
-| **[Evolving, Not Training: Zero-Shot Reasoning Segmentation via Evolutionary Prompting](https://arxiv.org/abs/2512.24702v1)** | 2025-12-31 |  |
-| **[Dynamic Policy Learning for Legged Robot with Simplified Model Pretraining and Model Homotopy Transfer](https://arxiv.org/abs/2512.24698v1)** | 2025-12-31 | <details><summary>8 pag...</summary><p>8 pages. Submitted to the IEEE for possible publication</p></details> |
-| **[Hierarchical Online Optimization Approach for IRS-enabled Low-altitude MEC in Vehicular Networks](https://arxiv.org/abs/2512.24659v1)** | 2025-12-31 | 18 pages, 7 figures, |
+| **[Benchmark Success, Clinical Failure: When Reinforcement Learning Optimizes for Benchmarks, Not Patients](https://arxiv.org/abs/2512.23090v2)** | 2026-01-02 |  |
+| **[Adaptive Learning Guided by Bias-Noise-Alignment Diagnostics](https://arxiv.org/abs/2512.24445v2)** | 2026-01-02 | <details><summary>This ...</summary><p>This preprint focuses on the theoretical framework and diagnostic behavior. Comprehensive experimental validation in application-specific settings is deferred to a companion experimental study</p></details> |
+| **[Stochastic Actor-Critic: Mitigating Overestimation via Temporal Aleatoric Uncertainty](https://arxiv.org/abs/2601.00737v1)** | 2026-01-02 | 19 pages |
+| **[Precision Autotuning for Linear Solvers via Contextual Bandit-Based RL](https://arxiv.org/abs/2601.00728v1)** | 2026-01-02 |  |
+| **[ARISE: Adaptive Reinforcement Integrated with Swarm Exploration](https://arxiv.org/abs/2601.00693v1)** | 2026-01-02 | <details><summary>12 pa...</summary><p>12 pages. Accepted for presentation at WCSC 2026</p></details> |
+| **[IRPO: Scaling the Bradley-Terry Model via Reinforcement Learning](https://arxiv.org/abs/2601.00677v1)** | 2026-01-02 | 14 pages, 4 figures |
+| **[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675v1)** | 2026-01-02 |  |
+| **[Flattening Hierarchies with Policy Bootstrapping](https://arxiv.org/abs/2505.14975v3)** | 2026-01-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight, top 3.2%)</p></details> |
+| **[Episodic Contextual Bandits with Knapsacks under Conversion Models](https://arxiv.org/abs/2507.06859v2)** | 2026-01-02 |  |
+| **[Integrating Multi-Armed Bandit, Active Learning, and Distributed Computing for Scalable Optimization](https://arxiv.org/abs/2601.00615v1)** | 2026-01-02 | <details><summary>36 pa...</summary><p>36 pages. Submitted to a conference</p></details> |
+| **[Vision-based Goal-Reaching Control for Mobile Robots Using a Hierarchical Learning Framework](https://arxiv.org/abs/2601.00610v1)** | 2026-01-02 |  |
+| **[Traffic-Aware Optimal Taxi Placement Using Graph Neural Network-Based Reinforcement Learning](https://arxiv.org/abs/2601.00607v1)** | 2026-01-02 |  |
+| **[Learning the Boundary of Solvability: Aligning LLMs to Detect Unsolvable Problems](https://arxiv.org/abs/2512.01661v2)** | 2026-01-02 | preprint |
+| **[Parametrized Sharing for Multi-Agent Hybrid DRL for Multiple Multi-Functional RISs-Aided Downlink NOMA Networks](https://arxiv.org/abs/2601.00538v1)** | 2026-01-02 |  |
+| **[Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501v4)** | 2026-01-02 | <details><summary>193 p...</summary><p>193 pages. Web-native version at https://rlhfbook.com/ Continually improving, latest version at website</p></details> |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,8 +45,11 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Frequent subgraph-based persistent homology for graph classification](https://arxiv.org/abs/2512.24917v2)** | 2026-01-02 | <details><summary>v2: A...</summary><p>v2: Author list updated to include previously omitted co-authors</p></details> |
+| **[Traffic-Aware Optimal Taxi Placement Using Graph Neural Network-Based Reinforcement Learning](https://arxiv.org/abs/2601.00607v1)** | 2026-01-02 |  |
+| **[Neural Minimum Weight Perfect Matching for Quantum Error Codes](https://arxiv.org/abs/2601.00242v1)** | 2026-01-01 |  |
+| **[IMBWatch -- a Spatio-Temporal Graph Neural Network approach to detect Illicit Massage Business](https://arxiv.org/abs/2601.00075v1)** | 2025-12-31 | <details><summary>Submi...</summary><p>Submitted to AAAI AISI 2026</p></details> |
 | **[Interpretable Perturbation Modeling Through Biomedical Knowledge Graphs](https://arxiv.org/abs/2512.22251v2)** | 2025-12-31 |  |
-| **[Frequent subgraph-based persistent homology for graph classification](https://arxiv.org/abs/2512.24917v1)** | 2025-12-31 | <details><summary>Prepr...</summary><p>Preprint. 18 pages, 10 figures</p></details> |
 | **[Spectral Graph Neural Networks for Cognitive Task Classification in fMRI Connectomes](https://arxiv.org/abs/2512.24901v1)** | 2025-12-31 |  |
 | **[Knowledge-Driven Federated Graph Learning on Model Heterogeneity](https://arxiv.org/abs/2501.12624v4)** | 2025-12-31 |  |
 | **[HeteroHBA: A Generative Structure-Manipulating Backdoor Attack on Heterogeneous Graphs](https://arxiv.org/abs/2512.24665v1)** | 2025-12-31 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[RAST: A Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction](https://arxiv.org/abs/2508.16623v2)** | 2025-12-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (AI for Social Impact)</p></details> |
 | **[Physics-informed Graph Neural Networks for Operational Flood Modeling](https://arxiv.org/abs/2512.23964v1)** | 2025-12-30 | <details><summary>To be...</summary><p>To be submitted to IJCAI</p></details> |
 | **[Learning Network Dismantling Without Handcrafted Inputs](https://arxiv.org/abs/2508.00706v2)** | 2025-12-30 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at the 40th AAAI Conference on Artificial Intelligence (AAAI-26), Main Technical Track</p></details> |
-| **[Quantum Error Mitigation with Attention Graph Transformers for Burgers Equation Solvers on NISQ Hardware](https://arxiv.org/abs/2512.23817v1)** | 2025-12-29 |  |
-| **[Information is localized in growing network models](https://arxiv.org/abs/2512.23622v1)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 1 table</p></details> |
-| **[When Deepfake Detection Meets Graph Neural Network:a Unified and Lightweight Learning Framework](https://arxiv.org/abs/2508.05526v2)** | 2025-12-29 | Accepted to KDD 2026 |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 06, 2026
+title: Latest 15 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Benchmark Success, Clinical Failure: When Reinforcement Learning Optimizes for Benchmarks, Not Patients](https://arxiv.org/abs/2512.23090v2)** | 2026-01-02 |  |
-| **[Adaptive Learning Guided by Bias-Noise-Alignment Diagnostics](https://arxiv.org/abs/2512.24445v2)** | 2026-01-02 | <details><summary>This ...</summary><p>This preprint focuses on the theoretical framework and diagnostic behavior. Comprehensive experimental validation in application-specific settings is deferred to a companion experimental study</p></details> |
-| **[Stochastic Actor-Critic: Mitigating Overestimation via Temporal Aleatoric Uncertainty](https://arxiv.org/abs/2601.00737v1)** | 2026-01-02 | 19 pages |
-| **[Precision Autotuning for Linear Solvers via Contextual Bandit-Based RL](https://arxiv.org/abs/2601.00728v1)** | 2026-01-02 |  |
-| **[ARISE: Adaptive Reinforcement Integrated with Swarm Exploration](https://arxiv.org/abs/2601.00693v1)** | 2026-01-02 | <details><summary>12 pa...</summary><p>12 pages. Accepted for presentation at WCSC 2026</p></details> |
-| **[IRPO: Scaling the Bradley-Terry Model via Reinforcement Learning](https://arxiv.org/abs/2601.00677v1)** | 2026-01-02 | 14 pages, 4 figures |
-| **[RoboReward: General-Purpose Vision-Language Reward Models for Robotics](https://arxiv.org/abs/2601.00675v1)** | 2026-01-02 |  |
-| **[Flattening Hierarchies with Policy Bootstrapping](https://arxiv.org/abs/2505.14975v3)** | 2026-01-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight, top 3.2%)</p></details> |
-| **[Episodic Contextual Bandits with Knapsacks under Conversion Models](https://arxiv.org/abs/2507.06859v2)** | 2026-01-02 |  |
-| **[Integrating Multi-Armed Bandit, Active Learning, and Distributed Computing for Scalable Optimization](https://arxiv.org/abs/2601.00615v1)** | 2026-01-02 | <details><summary>36 pa...</summary><p>36 pages. Submitted to a conference</p></details> |
-| **[Vision-based Goal-Reaching Control for Mobile Robots Using a Hierarchical Learning Framework](https://arxiv.org/abs/2601.00610v1)** | 2026-01-02 |  |
-| **[Traffic-Aware Optimal Taxi Placement Using Graph Neural Network-Based Reinforcement Learning](https://arxiv.org/abs/2601.00607v1)** | 2026-01-02 |  |
-| **[Learning the Boundary of Solvability: Aligning LLMs to Detect Unsolvable Problems](https://arxiv.org/abs/2512.01661v2)** | 2026-01-02 | preprint |
-| **[Parametrized Sharing for Multi-Agent Hybrid DRL for Multiple Multi-Functional RISs-Aided Downlink NOMA Networks](https://arxiv.org/abs/2601.00538v1)** | 2026-01-02 |  |
-| **[Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501v4)** | 2026-01-02 | <details><summary>193 p...</summary><p>193 pages. Web-native version at https://rlhfbook.com/ Continually improving, latest version at website</p></details> |
+| **[Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](https://arxiv.org/abs/2601.02356v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sparkstj.github.io/talk2move</p></details> |
+| **[Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070v2)** | 2026-01-05 | 45 pages |
+| **[Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach](https://arxiv.org/abs/2601.00388v2)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Project Page: https://github.com/aialt/geo-r</p></details> |
+| **[VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation](https://arxiv.org/abs/2601.02256v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://github.com/ByteVisionLab/NextFlow</p></details> |
+| **[Enabling Deep Reinforcement Learning Research for Energy Saving in Open RAN](https://arxiv.org/abs/2601.02240v1)** | 2026-01-05 |  |
+| **[FaithLens: Detecting and Explaining Faithfulness Hallucination](https://arxiv.org/abs/2512.20182v2)** | 2026-01-05 |  |
+| **[NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://arxiv.org/abs/2601.02204v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://github.com/ByteVisionLab/NextFlow</p></details> |
+| **[UCO: A Multi-Turn Interactive Reinforcement Learning Method for Adaptive Teaching with Large Language Models](https://arxiv.org/abs/2511.08873v2)** | 2026-01-05 |  |
+| **[CORE: Code-based Inverse Self-Training Framework with Graph Expansion for Virtual Agents](https://arxiv.org/abs/2601.02201v1)** | 2026-01-05 | 19 pages, 12 figures |
+| **[ACDZero: Graph-Embedding-Based Tree Search for Mastering Automated Cyber Defense](https://arxiv.org/abs/2601.02196v1)** | 2026-01-05 |  |
+| **[Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting](https://arxiv.org/abs/2601.02151v1)** | 2026-01-05 |  |
+| **[Interpretable Safety Alignment via SAE-Constructed Low-Rank Subspace Adaptation](https://arxiv.org/abs/2512.23260v2)** | 2026-01-05 |  |
+| **[One Tool Is Enough: Reinforcement Learning for Repository-Level LLM Agents](https://arxiv.org/abs/2512.20957v3)** | 2026-01-05 |  |
+| **[MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics](https://arxiv.org/abs/2601.02075v1)** | 2026-01-05 | 24 pages,4 figures |
+| **[Do Not Step Into the Same River Twice: Learning to Reason from Trial and Error](https://arxiv.org/abs/2510.26109v2)** | 2026-01-05 | Preprint |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantized SO(3)-Equivariant Graph Neural Networks for Efficient Molecular Property Prediction](https://arxiv.org/abs/2601.02213v1)** | 2026-01-05 |  |
+| **[ACDZero: Graph-Embedding-Based Tree Search for Mastering Automated Cyber Defense](https://arxiv.org/abs/2601.02196v1)** | 2026-01-05 |  |
+| **[Multi-fidelity graph-based neural networks architectures to learn Navier-Stokes solutions on non-parametrized 2D domains](https://arxiv.org/abs/2601.02157v1)** | 2026-01-05 |  |
+| **[GNN-XAR: A Graph Neural Network for Explainable Activity Recognition in Smart Homes](https://arxiv.org/abs/2502.17999v2)** | 2026-01-05 |  |
+| **[Improving Graph Neural Network Training, Defense and Hypergraph Clustering via Adversarial Robustness Evaluation](https://arxiv.org/abs/2412.14738v11)** | 2026-01-05 |  |
+| **[Learning Resilient Elections with Adversarial GNNs](https://arxiv.org/abs/2601.01653v1)** | 2026-01-04 |  |
+| **[Spatio-Temporal Graph Deep Learning with Stochastic Differential Equations for Uncovering Alzheimer's Disease Progression](https://arxiv.org/abs/2509.21735v3)** | 2026-01-04 |  |
+| **[Accelerating Storage-Based Training for Graph Neural Networks](https://arxiv.org/abs/2601.01473v1)** | 2026-01-04 | <details><summary>10 pa...</summary><p>10 pages, 12 figures, 2 tables, ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) 2026</p></details> |
+| **[Learning Repetition-Invariant Representations for Polymer Informatics](https://arxiv.org/abs/2505.10726v3)** | 2026-01-03 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[Sparse Bayesian Message Passing under Structural Uncertainty](https://arxiv.org/abs/2601.01207v1)** | 2026-01-03 |  |
+| **[The Gaining Paths to Investment Success: Information-Driven LLM Graph Reasoning for Venture Capital Prediction](https://arxiv.org/abs/2512.23489v2)** | 2026-01-03 |  |
+| **[Learning from Historical Activations in Graph Neural Networks](https://arxiv.org/abs/2601.01123v1)** | 2026-01-03 |  |
+| **[Dynamic Graph Neural Networks for Physiological Based Pharmacokinetic Modeling: A Novel Data Driven Approach to Drug Concentration Prediction](https://arxiv.org/abs/2510.22096v2)** | 2026-01-03 |  |
 | **[Frequent subgraph-based persistent homology for graph classification](https://arxiv.org/abs/2512.24917v2)** | 2026-01-02 | <details><summary>v2: A...</summary><p>v2: Author list updated to include previously omitted co-authors</p></details> |
 | **[Traffic-Aware Optimal Taxi Placement Using Graph Neural Network-Based Reinforcement Learning](https://arxiv.org/abs/2601.00607v1)** | 2026-01-02 |  |
-| **[Neural Minimum Weight Perfect Matching for Quantum Error Codes](https://arxiv.org/abs/2601.00242v1)** | 2026-01-01 |  |
-| **[IMBWatch -- a Spatio-Temporal Graph Neural Network approach to detect Illicit Massage Business](https://arxiv.org/abs/2601.00075v1)** | 2025-12-31 | <details><summary>Submi...</summary><p>Submitted to AAAI AISI 2026</p></details> |
-| **[Interpretable Perturbation Modeling Through Biomedical Knowledge Graphs](https://arxiv.org/abs/2512.22251v2)** | 2025-12-31 |  |
-| **[Spectral Graph Neural Networks for Cognitive Task Classification in fMRI Connectomes](https://arxiv.org/abs/2512.24901v1)** | 2025-12-31 |  |
-| **[Knowledge-Driven Federated Graph Learning on Model Heterogeneity](https://arxiv.org/abs/2501.12624v4)** | 2025-12-31 |  |
-| **[HeteroHBA: A Generative Structure-Manipulating Backdoor Attack on Heterogeneous Graphs](https://arxiv.org/abs/2512.24665v1)** | 2025-12-31 |  |
-| **[A Scalable Framework for logP Prediction: From Terabyte-Scale Data Integration to Interpretable Ensemble Modeling](https://arxiv.org/abs/2512.24643v1)** | 2025-12-31 | <details><summary>18 pa...</summary><p>18 pages, 15 figures, 4 equations, 2 algorithms, 6 tables, to be published in KST 2026, unabridged version</p></details> |
-| **[A Graph Neural Network with Auxiliary Task Learning for Missing PMU Data Reconstruction](https://arxiv.org/abs/2512.24542v1)** | 2025-12-31 |  |
-| **[Networked Markets, Fragmented Data: Adaptive Graph Learning for Customer Risk Analytics and Policy Design](https://arxiv.org/abs/2512.24487v1)** | 2025-12-30 |  |
-| **[Rapid prediction of cardiac activation in the left ventricle with geometric deep learning: a step towards cardiac resynchronization therapy planning](https://arxiv.org/abs/2506.08987v3)** | 2025-12-30 |  |
-| **[RAST: A Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction](https://arxiv.org/abs/2508.16623v2)** | 2025-12-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (AI for Social Impact)</p></details> |
-| **[Physics-informed Graph Neural Networks for Operational Flood Modeling](https://arxiv.org/abs/2512.23964v1)** | 2025-12-30 | <details><summary>To be...</summary><p>To be submitted to IJCAI</p></details> |
-| **[Learning Network Dismantling Without Handcrafted Inputs](https://arxiv.org/abs/2508.00706v2)** | 2025-12-30 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at the 40th AAAI Conference on Artificial Intelligence (AAAI-26), Main Technical Track</p></details> |
 

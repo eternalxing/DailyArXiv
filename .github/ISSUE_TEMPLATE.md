@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 15, 2026
+title: Latest 15 Papers - January 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge](https://arxiv.org/abs/2601.08808v1)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages. Code available at https://github.com/GMLR-Penn/Multiplex-Thinking</p></details> |
-| **[Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs](https://arxiv.org/abs/2601.08763v1)** | 2026-01-13 | Work in Progress |
-| **[Hybrid Reward-Driven Reinforcement Learning for Efficient Quantum Circuit Synthesis](https://arxiv.org/abs/2507.16641v2)** | 2026-01-13 | <details><summary>35 pa...</summary><p>35 pages, 7 figures, color figures</p></details> |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Model-Agnostic Solutions for Deep Reinforcement Learning in Non-Ergodic Contexts](https://arxiv.org/abs/2601.08726v1)** | 2026-01-13 |  |
-| **[Precision over Diversity: High-Precision Reward Generalizes to Robust Instruction Following](https://arxiv.org/abs/2601.04954v2)** | 2026-01-13 | <details><summary>Under...</summary><p>Under review, 13 pages, 8 figures</p></details> |
-| **[QuantEval: A Benchmark for Financial Quantitative Tasks in Large Language Models](https://arxiv.org/abs/2601.08689v1)** | 2026-01-13 |  |
-| **[PersonaDual: Balancing Personalization and Objectivity via Adaptive Reasoning](https://arxiv.org/abs/2601.08679v1)** | 2026-01-13 |  |
-| **[VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory](https://arxiv.org/abs/2601.08665v1)** | 2026-01-13 | <details><summary>Proje...</summary><p>Project page: https://wsakobe.github.io/VLingNav-web/</p></details> |
-| **[From Classical to Quantum Reinforcement Learning and Its Applications in Quantum Control: A Beginner's Tutorial](https://arxiv.org/abs/2601.08662v1)** | 2026-01-13 |  |
-| **[Alleviating Attention Hacking in Discriminative Reward Modeling through Interaction Distillation](https://arxiv.org/abs/2508.02618v3)** | 2026-01-13 |  |
-| **[Provably Safe Reinforcement Learning using Entropy Regularizer](https://arxiv.org/abs/2601.08646v1)** | 2026-01-13 |  |
-| **[TROJail: Trajectory-Level Optimization for Multi-Turn Large Language Model Jailbreaks with Process Rewards](https://arxiv.org/abs/2512.07761v2)** | 2026-01-13 | 21 pages, 15 figures |
-| **[A Differential Perspective on Distributional Reinforcement Learning](https://arxiv.org/abs/2506.03333v2)** | 2026-01-13 | <details><summary>In AA...</summary><p>In AAAI Conference on Artificial Intelligence 2026</p></details> |
-| **[VGC-Bench: Towards Mastering Diverse Team Strategies in Competitive Pokémon](https://arxiv.org/abs/2506.10326v3)** | 2026-01-13 | AAMAS 2026 |
+| **[STEP3-VL-10B Technical Report](https://arxiv.org/abs/2601.09668v1)** | 2026-01-14 | 50 pages |
+| **[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://arxiv.org/abs/2601.09667v1)** | 2026-01-14 | Work in Progress |
+| **[Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization](https://arxiv.org/abs/2508.20294v2)** | 2026-01-14 | <details><summary>31 pa...</summary><p>31 pages, 4 figures, accepted to NeurIPS 2025</p></details> |
+| **[Environment as Policy: Learning to Race in Unseen Tracks](https://arxiv.org/abs/2410.22308v3)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted at IEEE International Conference on Robotics and Automation (ICRA), 2025</p></details> |
+| **[DPWriter: Reinforcement Learning with Diverse Planning Branching for Creative Writing](https://arxiv.org/abs/2601.09609v1)** | 2026-01-14 |  |
+| **[HapticLLaMA: A Multimodal Sensory Language Model for Haptic Captioning](https://arxiv.org/abs/2508.06475v2)** | 2026-01-14 |  |
+| **[FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures](https://arxiv.org/abs/2601.08026v2)** | 2026-01-14 |  |
+| **[Dialogue Telemetry: Turn-Level Instrumentation for Autonomous Information Gathering](https://arxiv.org/abs/2601.09570v1)** | 2026-01-14 | <details><summary>16 pa...</summary><p>16 pages, 9 Figures, Version submitted to IEEE for publication</p></details> |
+| **[Content Accuracy and Quality Aware Resource Allocation Based on LP-Guided DRL for ISAC-Driven AIGC Networks](https://arxiv.org/abs/2508.12079v2)** | 2026-01-14 | Accepted by IEEE TMC |
+| **[What Can RL Bring to VLA Generalization? An Empirical Study](https://arxiv.org/abs/2505.19789v4)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/abs/2508.19828v5)** | 2026-01-14 |  |
+| **[A Curriculum Learning Approach to Reinforcement Learning: Leveraging RAG for Multimodal Question Answering](https://arxiv.org/abs/2508.10337v2)** | 2026-01-14 |  |
+| **[SCALER:Synthetic Scalable Adaptive Learning Environment for Reasoning](https://arxiv.org/abs/2601.04809v2)** | 2026-01-14 | 19 pages,5 figures |
+| **[Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling for Strategic Multiagent Settings](https://arxiv.org/abs/2511.10501v3)** | 2026-01-14 | 27 pages |
+| **[Draw it like Euclid: Teaching transformer models to generate CAD profiles using ruler and compass construction steps](https://arxiv.org/abs/2601.09428v1)** | 2026-01-14 |  |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,11 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Neural Network Surrogates to leverage Mechanistic Expert Knowledge towards Reliable and Immediate Pandemic Response](https://arxiv.org/abs/2411.06500v4)** | 2026-01-14 | 20 pages, 9 figures |
+| **[Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling for Strategic Multiagent Settings](https://arxiv.org/abs/2511.10501v3)** | 2026-01-14 | 27 pages |
+| **[SGAC: A Graph Neural Network Framework for Imbalanced and Structure-Aware AMP Classification](https://arxiv.org/abs/2412.16276v2)** | 2026-01-14 |  |
+| **[SPOT-Face: Forensic Face Identification using Attention Guided Optimal Transport](https://arxiv.org/abs/2601.09229v1)** | 2026-01-14 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 3 tables (ICPR_2026)</p></details> |
+| **[Benchmarking Positional Encodings for GNNs and Graph Transformers](https://arxiv.org/abs/2411.12732v2)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at KDD 2026 Datasets & Benchmarks Track</p></details> |
 | **[A Mesh-Adaptive Hypergraph Neural Network for Unsteady Flow Around Oscillating and Rotating Structures](https://arxiv.org/abs/2503.22252v2)** | 2026-01-13 |  |
 | **[Using Subgraph GNNs for Node Classification:an Overlooked Potential Approach](https://arxiv.org/abs/2503.06614v2)** | 2026-01-13 | 16 pages |
 | **[Directed Homophily-Aware Graph Neural Network](https://arxiv.org/abs/2505.22362v3)** | 2026-01-13 |  |
@@ -55,9 +60,4 @@ labels: documentation
 | **[Rep3Net: An Approach Exploiting Multimodal Representation for Molecular Bioactivity Prediction](https://arxiv.org/abs/2512.00521v2)** | 2026-01-12 |  |
 | **[Symbolic regression for defect interactions in 2D materials](https://arxiv.org/abs/2512.20785v2)** | 2026-01-12 |  |
 | **[Position: Don't be Afraid of Over-Smoothing And Over-Squashing](https://arxiv.org/abs/2601.07419v1)** | 2026-01-12 | <details><summary>Prepr...</summary><p>Preprint. Copyright 2026 by the authors</p></details> |
-| **[PLANET v2.0: A comprehensive Protein-Ligand Affinity Prediction Model Based on Mixture Density Network](https://arxiv.org/abs/2601.07415v1)** | 2026-01-12 |  |
-| **[Graph Attention Specialized Expert Fusion Model for Node Classification: Based on Cora and Pubmed Datasets](https://arxiv.org/abs/2507.15784v2)** | 2026-01-12 | <details><summary>It's ...</summary><p>It's written so poorly, my bad</p></details> |
-| **[Learning to Trust the Crowd: A Multi-Model Consensus Reasoning Engine for Large Language Models](https://arxiv.org/abs/2601.07245v1)** | 2026-01-12 |  |
-| **[Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](https://arxiv.org/abs/2512.10105v3)** | 2026-01-12 |  |
-| **[SIGNL: A Label-Efficient Audio Deepfake Detection System via Spectral-Temporal Graph Non-Contrastive Learning](https://arxiv.org/abs/2501.04942v2)** | 2026-01-12 |  |
 

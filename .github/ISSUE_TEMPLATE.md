@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 19, 2026
+title: Latest 15 Papers - January 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching](https://arxiv.org/abs/2601.10712v1)** | 2026-01-15 |  |
-| **[Dual-Uncertainty Guided Policy Learning for Multimodal Reasoning](https://arxiv.org/abs/2510.01444v2)** | 2026-01-15 |  |
-| **[Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs](https://arxiv.org/abs/2601.08763v2)** | 2026-01-15 | Work in Progress |
-| **[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://arxiv.org/abs/2601.09667v2)** | 2026-01-15 | Work in Progress |
-| **[Institutional AI: A Governance Framework for Distributional AGI Safety](https://arxiv.org/abs/2601.10599v1)** | 2026-01-15 |  |
-| **[STEP3-VL-10B Technical Report](https://arxiv.org/abs/2601.09668v2)** | 2026-01-15 | 50 pages |
-| **[Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay](https://arxiv.org/abs/2601.10589v1)** | 2026-01-15 |  |
-| **[Combinatorial Optimization Augmented Machine Learning](https://arxiv.org/abs/2601.10583v1)** | 2026-01-15 |  |
-| **[PERM: Psychology-grounded Empathetic Reward Modeling for Large Language Models](https://arxiv.org/abs/2601.10532v1)** | 2026-01-15 |  |
-| **[Projected Microbatch Accumulation yields reference-free proximal policy updates for reinforcement learning](https://arxiv.org/abs/2601.10498v1)** | 2026-01-15 |  |
-| **[Urban Socio-Semantic Segmentation with Vision-Language Reasoning](https://arxiv.org/abs/2601.10477v1)** | 2026-01-15 |  |
-| **[Zoom-IQA: Image Quality Assessment with Reliable Region-Aware Reasoning](https://arxiv.org/abs/2601.02918v2)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project Page: https://ethanliang99.github.io/ZOOMIQA-Projectpage</p></details> |
-| **[Reinforcement Learning with Multi-Step Lookahead Information Via Adaptive Batching](https://arxiv.org/abs/2601.10418v1)** | 2026-01-15 |  |
-| **[CS-GBA: A Critical Sample-based Gradient-guided Backdoor Attack for Offline Reinforcement Learning](https://arxiv.org/abs/2601.10407v1)** | 2026-01-15 |  |
-| **[Bootstrap Off-policy with World Model](https://arxiv.org/abs/2511.00423v3)** | 2026-01-15 | NeurIPS 2025 |
+| **[Do explanations generalize across large reasoning models?](https://arxiv.org/abs/2601.11517v1)** | 2026-01-16 |  |
+| **[Beneficial Reasoning Behaviors in Agentic Search and Effective Post-training to Obtain Them](https://arxiv.org/abs/2510.06534v3)** | 2026-01-16 |  |
+| **[UCB-type Algorithm for Budget-Constrained Expert Learning](https://arxiv.org/abs/2510.22654v2)** | 2026-01-16 |  |
+| **[Generative Scenario Rollouts for End-to-End Autonomous Driving](https://arxiv.org/abs/2601.11475v1)** | 2026-01-16 |  |
+| **[Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2601.11401v1)** | 2026-01-16 |  |
+| **[The Mini Wheelbot Dataset: High-Fidelity Data for Robot Learning](https://arxiv.org/abs/2601.11394v1)** | 2026-01-16 |  |
+| **[Theorem Prover as a Judge for Synthetic Data Generation](https://arxiv.org/abs/2502.13137v2)** | 2026-01-16 |  |
+| **[PERM: Psychology-grounded Empathetic Reward Modeling for Large Language Models](https://arxiv.org/abs/2601.10532v2)** | 2026-01-16 |  |
+| **[Offline Reinforcement-Learning-Based Power Control for Application-Agnostic Energy Efficiency](https://arxiv.org/abs/2601.11352v1)** | 2026-01-16 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 3 tables and unpublished</p></details> |
+| **[Periodic Asynchrony: An On-Policy Approach for Accelerating LLM Reinforcement Learning](https://arxiv.org/abs/2511.18871v4)** | 2026-01-16 |  |
+| **[Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation](https://arxiv.org/abs/2601.11258v1)** | 2026-01-16 |  |
+| **[Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics](https://arxiv.org/abs/2506.00070v3)** | 2026-01-16 | NeurIPS 2025 |
+| **[A Simple Unified Uncertainty-Guided Framework for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2306.07541v3)** | 2026-01-16 | <details><summary>The f...</summary><p>The final published version is available at IEEE Xplore: https://ieeexplore.ieee.org/abstract/document/11267513/. We correct the GitHub repo url in this version</p></details> |
+| **[Discovery and Reinforcement of Tool-Integrated Reasoning Chains via Rollout Trees](https://arxiv.org/abs/2601.08274v2)** | 2026-01-16 |  |
+| **[Model-free policy gradient for discrete-time mean-field control](https://arxiv.org/abs/2601.11217v1)** | 2026-01-16 | 42 pages, 5 figures |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Predictive Modeling of Power Outages during Extreme Events: Integrating Weather and Socio-Economic Factors](https://arxiv.org/abs/2512.22699v2)** | 2026-01-16 | <details><summary>This ...</summary><p>This is a preprint of a manuscript currently under review at Electric Power Systems Research. The content may be subject to change following peer review</p></details> |
+| **[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2601.11440v1)** | 2026-01-16 |  |
+| **[New Adaptive Mechanism for Large Neighborhood Search using Dual Actor-Critic](https://arxiv.org/abs/2601.11414v1)** | 2026-01-16 |  |
+| **[Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2601.11401v1)** | 2026-01-16 |  |
+| **[Latent Dynamics Graph Convolutional Networks for model order reduction of parameterized time-dependent PDEs](https://arxiv.org/abs/2601.11259v1)** | 2026-01-16 |  |
+| **[Theoretically and Practically Efficient Resistance Distance Computation on Large Graphs](https://arxiv.org/abs/2601.11159v1)** | 2026-01-16 |  |
+| **[MiCA: A Mobility-Informed Causal Adapter for Lightweight Epidemic Forecasting](https://arxiv.org/abs/2601.11089v1)** | 2026-01-16 |  |
+| **[Bridging Cognitive Neuroscience and Graph Intelligence: Hippocampus-Inspired Multi-View Hypergraph Learning for Web Finance Fraud](https://arxiv.org/abs/2601.11073v1)** | 2026-01-16 |  |
+| **[KOCOBrain: Kuramoto-Guided Graph Network for Uncovering Structure-Function Coupling in Adolescent Prenatal Drug Exposure](https://arxiv.org/abs/2601.11018v1)** | 2026-01-16 | <details><summary>Prepr...</summary><p>Preprint version of the paper accepted to the IEEE International Symposium on Biomedical Imaging (ISBI 2026). This is the author's accepted manuscript. The final published version will appear in IEEE Xplore</p></details> |
+| **[A Low-Complexity Architecture for Multi-access Coded Caching Systems with Arbitrary User-cache Access Topology](https://arxiv.org/abs/2601.10175v2)** | 2026-01-16 |  |
+| **[U-PINet: Physics-Informed Hierarchical Learning for Radar Cross Section Prediction via 3D Electromagnetic Scattering Reconstruction](https://arxiv.org/abs/2508.03774v3)** | 2026-01-16 | <details><summary>Submi...</summary><p>Submitted to an IEEE Transactions Journal</p></details> |
+| **[Aggregating Direct and Indirect Neighbors through Graph Linear Transformations](https://arxiv.org/abs/2511.16871v2)** | 2026-01-15 | 14 pages, 7 Figures |
+| **[Superposition in Graph Neural Networks](https://arxiv.org/abs/2509.00928v2)** | 2026-01-15 |  |
 | **[Knowledge Homophily in Large Language Models](https://arxiv.org/abs/2509.23773v2)** | 2026-01-15 |  |
 | **[PLGC: Pseudo-Labeled Graph Condensation](https://arxiv.org/abs/2601.10358v1)** | 2026-01-15 |  |
-| **[A Low-Complexity Architecture for Multi-access Coded Caching Systems with Arbitrary User-cache Access Topology](https://arxiv.org/abs/2601.10175v1)** | 2026-01-15 |  |
-| **[MMPG: MoE-based Adaptive Multi-Perspective Graph Fusion for Protein Representation Learning](https://arxiv.org/abs/2601.10157v1)** | 2026-01-15 |  |
-| **[Attn-JGNN: Attention Enhanced Join-Graph Neural Networks](https://arxiv.org/abs/2510.15583v2)** | 2026-01-14 |  |
-| **[An intelligent agent-based simulation of human mobility in extreme urban morphologies](https://arxiv.org/abs/2507.15143v2)** | 2026-01-14 |  |
-| **[Graph Neural Network Surrogates to leverage Mechanistic Expert Knowledge towards Reliable and Immediate Pandemic Response](https://arxiv.org/abs/2411.06500v4)** | 2026-01-14 | 20 pages, 9 figures |
-| **[Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling for Strategic Multiagent Settings](https://arxiv.org/abs/2511.10501v3)** | 2026-01-14 | 27 pages |
-| **[SGAC: A Graph Neural Network Framework for Imbalanced and Structure-Aware AMP Classification](https://arxiv.org/abs/2412.16276v2)** | 2026-01-14 |  |
-| **[SPOT-Face: Forensic Face Identification using Attention Guided Optimal Transport](https://arxiv.org/abs/2601.09229v1)** | 2026-01-14 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 3 tables (ICPR_2026)</p></details> |
-| **[Benchmarking Positional Encodings for GNNs and Graph Transformers](https://arxiv.org/abs/2411.12732v2)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at KDD 2026 Datasets & Benchmarks Track</p></details> |
-| **[A Mesh-Adaptive Hypergraph Neural Network for Unsteady Flow Around Oscillating and Rotating Structures](https://arxiv.org/abs/2503.22252v2)** | 2026-01-13 |  |
-| **[Using Subgraph GNNs for Node Classification:an Overlooked Potential Approach](https://arxiv.org/abs/2503.06614v2)** | 2026-01-13 | 16 pages |
-| **[Directed Homophily-Aware Graph Neural Network](https://arxiv.org/abs/2505.22362v3)** | 2026-01-13 |  |
-| **[Temporal-Enhanced Interpretable Multi-Modal Prognosis and Risk Stratification Framework for Diabetic Retinopathy (TIMM-ProRS)](https://arxiv.org/abs/2601.08240v1)** | 2026-01-13 |  |
 

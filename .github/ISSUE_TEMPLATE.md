@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2026
+title: Latest 15 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Reasoning for PDE Foundation Models: A Reward-Model-Driven Inference-Time-Scaling Algorithm](https://arxiv.org/abs/2509.02846v3)** | 2026-01-23 |  |
-| **[LLM Reasoning for Cold-Start Item Recommendation](https://arxiv.org/abs/2511.18261v3)** | 2026-01-23 | <details><summary>Publi...</summary><p>Published on Proceedings of the ACM on Web Conference 2026 (WWW 2026)</p></details> |
-| **[Q-learning with Adjoint Matching](https://arxiv.org/abs/2601.14234v2)** | 2026-01-23 | <details><summary>32 pa...</summary><p>32 pages, 8 figures, 7 tables</p></details> |
-| **[Where to Touch, How to Contact: Hierarchical RL-MPC Framework for Geometry-Aware Long-Horizon Dexterous Manipulation](https://arxiv.org/abs/2601.10930v2)** | 2026-01-23 |  |
-| **[HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments](https://arxiv.org/abs/2411.12150v4)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions of Automation Science and Engineering (T-ASE)</p></details> |
-| **[The Trajectory Alignment Coefficient in Two Acts: From Reward Tuning to Reward Learning](https://arxiv.org/abs/2601.16906v1)** | 2026-01-23 |  |
-| **[Gradient-Based Neuroplastic Adaptation for Concurrent Optimization of Neuro-Fuzzy Networks](https://arxiv.org/abs/2506.21771v2)** | 2026-01-23 | 52 pages |
-| **[MACTAS: Self-Attention-Based Inter-Agent Communication in Multi-Agent Reinforcement Learning with Action-Value Function Decomposition](https://arxiv.org/abs/2508.13661v3)** | 2026-01-23 | <details><summary>Submi...</summary><p>Submitted for IJCAI 2026</p></details> |
-| **[Boosting Deep Reinforcement Learning with Semantic Knowledge for Robotic Manipulators](https://arxiv.org/abs/2601.16866v1)** | 2026-01-23 |  |
-| **[Reasoning Promotes Robustness in Theory of Mind Tasks](https://arxiv.org/abs/2601.16853v1)** | 2026-01-23 | 14 pages, 2 figures |
-| **[IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation](https://arxiv.org/abs/2601.03054v2)** | 2026-01-23 |  |
-| **[Task Aware Dreamer for Task Generalization in Reinforcement Learning](https://arxiv.org/abs/2303.05092v5)** | 2026-01-23 |  |
-| **[CARE: Cognitive-reasoning Augmented Reinforcement for Emotional Support Conversation](https://arxiv.org/abs/2510.05122v2)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
-| **[LongCat-Flash-Thinking-2601 Technical Report](https://arxiv.org/abs/2601.16725v1)** | 2026-01-23 |  |
-| **[Adaptive Reinforcement and Model Predictive Control Switching for Safe Human-Robot Cooperative Navigation](https://arxiv.org/abs/2601.16686v1)** | 2026-01-23 |  |
+| **[Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes](https://arxiv.org/abs/2601.18795v1)** | 2026-01-26 |  |
+| **[Multi-Objective Reinforcement Learning for Efficient Tactical Decision Making for Trucks in Highway Traffic](https://arxiv.org/abs/2601.18783v1)** | 2026-01-26 |  |
+| **[POPE: Learning to Reason on Hard Problems via Privileged On-Policy Exploration](https://arxiv.org/abs/2601.18779v1)** | 2026-01-26 |  |
+| **[Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](https://arxiv.org/abs/2601.18778v1)** | 2026-01-26 |  |
+| **[Dep-Search: Learning Dependency-Aware Reasoning Traces with Persistent Memory](https://arxiv.org/abs/2601.18771v1)** | 2026-01-26 | <details><summary>Dep-S...</summary><p>Dep-Search 1st version</p></details> |
+| **[Trust, Don't Trust, or Flip: Robust Preference-Based Reinforcement Learning with Multi-Expert Feedback](https://arxiv.org/abs/2601.18751v1)** | 2026-01-26 | <details><summary>Equal...</summary><p>Equal contribution: Seyed Amir Hosseini and Maryam Abdolali. Corresponding author: Maryam Abdolali (maryam.abdolali@kntu.ac.ir)</p></details> |
+| **[Goal-oriented Semantic Communication for Robot Arm Reconstruction in Digital Twin: Feature and Temporal Selections](https://arxiv.org/abs/2411.08835v2)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by IEEE Journal on Selected Areas in Communications</p></details> |
+| **[Actor-Critic Cooperative Compensation to Model Predictive Control for Off-Road Autonomous Vehicles Under Unknown Dynamics](https://arxiv.org/abs/2503.00577v2)** | 2026-01-26 | <details><summary>7 pag...</summary><p>7 pages, Accepted at 2025 IEEE ICRA</p></details> |
+| **[Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/abs/2601.18734v1)** | 2026-01-26 | 13 pages |
+| **[Reflect: Transparent Principle-Guided Reasoning for Constitutional Alignment at Scale](https://arxiv.org/abs/2601.18730v1)** | 2026-01-26 |  |
+| **[Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs](https://arxiv.org/abs/2601.18706v1)** | 2026-01-26 |  |
+| **[MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning](https://arxiv.org/abs/2506.00555v3)** | 2026-01-26 | ICLR 2026 |
+| **[Exploration vs Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward](https://arxiv.org/abs/2512.16912v3)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding](https://arxiv.org/abs/2510.07915v2)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[ART for Diffusion Sampling: A Reinforcement Learning Approach to Timestep Schedule](https://arxiv.org/abs/2601.18681v1)** | 2026-01-26 | 17 pages, 7 figures |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VissimRL: A Multi-Agent Reinforcement Learning Framework for Traffic Signal Control Based on Vissim](https://arxiv.org/abs/2601.18284v1)** | 2026-01-26 |  |
 | **[Virtual Traffic Police: Large Language Model-Augmented Traffic Signal Control for Unforeseen Incidents](https://arxiv.org/abs/2601.15816v1)** | 2026-01-22 |  |
 | **[Large-scale Regional Traffic Signal Control Based on Single-Agent Reinforcement Learning](https://arxiv.org/abs/2503.09252v2)** | 2026-01-12 | <details><summary>A cri...</summary><p>A critical error in the methodology. The reported congestion control effects were not caused by the proposed signal timing optimization, but by an incorrect traffic volume scaling factor during evaluation. The traffic demand was not properly amplified, resulting in misleading performance gains. Due to the substantial nature of the error, completion of revisions is not feasible in the short term</p></details> |
 | **[Robust Single-Agent Reinforcement Learning for Regional Traffic Signal Control Under Demand Fluctuations](https://arxiv.org/abs/2511.00549v2)** | 2026-01-12 | <details><summary>A cri...</summary><p>A critical error in the methodology. The reported congestion control effects were not caused by the proposed signal timing optimization, but by an incorrect traffic volume scaling factor during evaluation. The traffic demand was not properly amplified, resulting in misleading performance gains. Due to the substantial nature of the error, completion of revisions is not feasible in the short term</p></details> |
@@ -40,24 +41,23 @@ labels: documentation
 | **[Evolutionary Discovery of Heuristic Policies for Traffic Signal Control](https://arxiv.org/abs/2511.23122v1)** | 2025-11-28 |  |
 | **[A Simple Framework Towards Vision-based Traffic Signal Control with Microscopic Simulation](https://arxiv.org/abs/2403.06884v2)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted for presentation at the Transportation Research Board (TRB) 105th Annual Meeting</p></details> |
 | **[Quantifying Distribution Shift in Traffic Signal Control with Histogram-Based GEH Distance](https://arxiv.org/abs/2511.13785v1)** | 2025-11-16 |  |
-| **[Convergence of Multiagent Learning Systems for Traffic control](https://arxiv.org/abs/2511.11654v1)** | 2025-11-10 | 14 pages 2 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Logical Expressiveness of Graph Neural Networks with Hierarchical Node Individualization](https://arxiv.org/abs/2506.13911v2)** | 2026-01-23 | <details><summary>Submi...</summary><p>Submitted to NeurIPS 2025, 28 pages, 5 figures</p></details> |
-| **[E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory](https://arxiv.org/abs/2601.16622v1)** | 2026-01-23 |  |
-| **[BoostFGL: Boosting Fairness in Federated Graph Learning](https://arxiv.org/abs/2601.16496v1)** | 2026-01-23 |  |
-| **[Coarse-to-Fine Non-rigid Multi-modal Image Registration for Historical Panel Paintings based on Crack Structures](https://arxiv.org/abs/2601.16348v1)** | 2026-01-22 | <details><summary>Prepr...</summary><p>Preprint, submitted for review</p></details> |
-| **[Predicting Healthcare System Visitation Flow by Integrating Hospital Attributes and Population Socioeconomics with Human Mobility Data](https://arxiv.org/abs/2601.15977v1)** | 2026-01-22 |  |
-| **[Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling for Strategic Multiagent Settings](https://arxiv.org/abs/2511.10501v4)** | 2026-01-22 | 28 pages |
-| **[Communication-efficient Federated Graph Classification via Generative Diffusion Modeling](https://arxiv.org/abs/2601.15722v1)** | 2026-01-22 |  |
-| **[Efficient Code Analysis via Graph-Guided Large Language Models](https://arxiv.org/abs/2601.12890v2)** | 2026-01-22 |  |
-| **[Report for NSF Workshop on AI for Electronic Design Automation](https://arxiv.org/abs/2601.14541v2)** | 2026-01-22 |  |
-| **[Multi-Targeted Graph Backdoor Attack](https://arxiv.org/abs/2601.15474v1)** | 2026-01-21 |  |
-| **[One Router to Route Them All: Homogeneous Expert Routing for Heterogeneous Graph Transformers](https://arxiv.org/abs/2511.07603v2)** | 2026-01-21 | <details><summary>This ...</summary><p>This preprint has been withdrawn by the authors due to significant revisions in preparation for conference submission. A substantially updated version will be submitted separately</p></details> |
-| **[Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network](https://arxiv.org/abs/2601.15110v1)** | 2026-01-21 | <details><summary>Camer...</summary><p>Camera-ready version accepted at AAAI 2026</p></details> |
-| **[LoRAP: Low-Rank Aggregation Prompting for Quantized Graph Neural Networks Training](https://arxiv.org/abs/2601.15079v1)** | 2026-01-21 |  |
-| **[Federated Transformer-GNN for Privacy-Preserving Brain Tumor Localization with Modality-Level Explainability](https://arxiv.org/abs/2601.15042v1)** | 2026-01-21 |  |
-| **[ExPrIS: Knowledge-Level Expectations as Priors for Object Interpretation from Sensor Data](https://arxiv.org/abs/2601.15025v1)** | 2026-01-21 | <details><summary>This ...</summary><p>This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this article is published in KI - Künstliche Intelligenz, and is available online at https://doi.org/10.1007/s13218-026-00901-7</p></details> |
+| **[TopKGAT: A Top-K Objective-Driven Architecture for Recommendation](https://arxiv.org/abs/2601.18432v1)** | 2026-01-26 | Accepted by WWW2026 |
+| **[Multi-Scale Negative Coupled Information Systems (MNCIS): A Unified Spectral Topology Framework for Stability in Turbulence, AI, and Biology](https://arxiv.org/abs/2601.11594v2)** | 2026-01-26 | <details><summary>Inclu...</summary><p>Includes supplementary materials and code. Foundation and mathematical proofs can be found in the companion paper arXiv:2601.00638. V2: Significant theoretical expansion. Extended experimental validation to N=256^3 turbulence simulations</p></details> |
+| **[SliceGX: Layer-wise GNN Explanation with Model-slicing](https://arxiv.org/abs/2506.17977v2)** | 2026-01-26 |  |
+| **[Scalable Quantum Message Passing Graph Neural Networks for Next-Generation Wireless Communications: Architectures, Use Cases, and Future Directions](https://arxiv.org/abs/2601.18198v1)** | 2026-01-26 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, and 3 tables. Submitted for publication</p></details> |
+| **[GLEN-Bench: A Graph-Language based Benchmark for Nutritional Health](https://arxiv.org/abs/2601.18106v1)** | 2026-01-26 |  |
+| **[Decentralized Learning Strategies for Estimation Error Minimization with Graph Neural Networks](https://arxiv.org/abs/2601.12662v2)** | 2026-01-25 |  |
+| **[FedGraph-VASP: Privacy-Preserving Federated Graph Learning with Post-Quantum Security for Cross-Institutional Anti-Money Laundering](https://arxiv.org/abs/2601.17935v1)** | 2026-01-25 |  |
+| **[Convexified Message-Passing Graph Neural Networks](https://arxiv.org/abs/2505.18289v2)** | 2026-01-25 | <details><summary>To Ap...</summary><p>To Appear in 29th Annual Conference on Artificial Intelligence and Statistics (AISTATS), 2026</p></details> |
+| **[Kolmogorov-Arnold graph neural networks for chemically informed prediction tasks on inorganic nanomaterials](https://arxiv.org/abs/2512.19494v2)** | 2026-01-25 |  |
+| **[CondenseGraph: Communication-Efficient Distributed GNN Training via On-the-Fly Graph Condensation](https://arxiv.org/abs/2601.17774v1)** | 2026-01-25 |  |
+| **[ATLAS: Adaptive Topology-based Learning at Scale for Homophilic and Heterophilic Graphs](https://arxiv.org/abs/2512.14908v3)** | 2026-01-25 | Preprint |
+| **[Physics-Guided Multi-View Graph Neural Network for Schizophrenia Classification via Structural-Functional Coupling](https://arxiv.org/abs/2505.15135v2)** | 2026-01-25 | <details><summary>Publi...</summary><p>Published in: Predictive Intelligence in Medicine (PRIME 2024), Lecture Notes in Computer Science, vol. 15155. Springer, Cham. DOI: 10.1007/978-3-031-74561-4_6</p></details> |
+| **[NeuroKoop: Neural Koopman Fusion of Structural-Functional Connectomes for Identifying Prenatal Drug Exposure in Adolescents](https://arxiv.org/abs/2508.16414v2)** | 2026-01-25 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI). IEEE Xplore. DOI: 10.1109/BHI67747.2025.11269557</p></details> |
+| **[Unified Cross-Modal Attention-Mixer Based Structural-Functional Connectomics Fusion for Neuropsychiatric Disorder Diagnosis](https://arxiv.org/abs/2505.15139v2)** | 2026-01-25 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2025). IEEE Xplore. DOI: 10.1109/EMBC58623.2025.11254194</p></details> |
+| **[Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction](https://arxiv.org/abs/2601.17469v1)** | 2026-01-24 |  |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 30, 2026
+title: Latest 15 Papers - January 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs](https://arxiv.org/abs/2411.08862v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025</p></details> |
-| **[End-to-end example-based sim-to-real RL policy transfer based on neural stylisation with application to robotic cutting](https://arxiv.org/abs/2601.20846v1)** | 2026-01-28 | <details><summary>14 pa...</summary><p>14 pages, 9 figures. Submitted to Nature Scientific Reports</p></details> |
-| **[Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning](https://arxiv.org/abs/2601.20829v1)** | 2026-01-28 | 16 pages |
-| **[Reinforcement Learning via Self-Distillation](https://arxiv.org/abs/2601.20802v1)** | 2026-01-28 |  |
-| **[SERA: Soft-Verified Efficient Repository Agents](https://arxiv.org/abs/2601.20789v1)** | 2026-01-28 | <details><summary>21 ma...</summary><p>21 main pages, 7 pages appendix</p></details> |
-| **[TIPO: Text to Image with Text Presampling for Prompt Optimization](https://arxiv.org/abs/2411.08127v4)** | 2026-01-28 | 50 pages, 28 figures |
-| **[Less is More: Clustered Cross-Covariance Control for Offline RL](https://arxiv.org/abs/2601.20765v1)** | 2026-01-28 |  |
-| **[Analysis of approximate linear programming solution to Markov decision problem with log barrier function](https://arxiv.org/abs/2509.19800v2)** | 2026-01-28 |  |
-| **[GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning](https://arxiv.org/abs/2601.20753v1)** | 2026-01-28 |  |
-| **[GRACE: A Language Model Framework for Explainable Inverse Reinforcement Learning](https://arxiv.org/abs/2510.02180v2)** | 2026-01-28 |  |
-| **[Adapting the Behavior of Reinforcement Learning Agents to Changing Action Spaces and Reward Functions](https://arxiv.org/abs/2601.20714v1)** | 2026-01-28 |  |
-| **[One Step Is Enough: Dispersive MeanFlow Policy Optimization](https://arxiv.org/abs/2601.20701v1)** | 2026-01-28 | <details><summary>Code ...</summary><p>Code and project page: https://guowei-zou.github.io/dmpo-page/</p></details> |
-| **[Positive-Unlabeled Reinforcement Learning Distillation for On-Premise Small Models](https://arxiv.org/abs/2601.20687v1)** | 2026-01-28 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 7 tables</p></details> |
-| **[GPO: Growing Policy Optimization for Legged Robot Locomotion and Whole-Body Control](https://arxiv.org/abs/2601.20668v1)** | 2026-01-28 |  |
-| **[P2S: Probabilistic Process Supervision for General-Domain Reasoning Question Answering](https://arxiv.org/abs/2601.20649v1)** | 2026-01-28 |  |
+| **[Exploring Reasoning Reward Model for Agents](https://arxiv.org/abs/2601.22154v1)** | 2026-01-29 | <details><summary>Proje...</summary><p>Project page: https://github.com/kxfan2002/Reagent</p></details> |
+| **[DynaWeb: Model-Based Reinforcement Learning of Web Agents](https://arxiv.org/abs/2601.22149v1)** | 2026-01-29 |  |
+| **[Think Twice: Branch-and-Rethink Reasoning Reward Model](https://arxiv.org/abs/2510.23596v3)** | 2026-01-29 | <details><summary>Sourc...</summary><p>Source Code: https://github.com/yzjiao/BR-RM. Model Checkpoints: https://huggingface.co/nvidia/Qwen3-Nemotron-14B-BRRM and https://huggingface.co/nvidia/Qwen3-Nemotron-8B-BRRM</p></details> |
+| **[SIA: Symbolic Interpretability for Anticipatory Deep Reinforcement Learning in Network Control](https://arxiv.org/abs/2601.22044v1)** | 2026-01-29 | <details><summary>10 pa...</summary><p>10 pages, 12 figures, accepted at IEEE INFOCOM 2026</p></details> |
+| **[Reward-Preserving Attacks For Robust Reinforcement Learning](https://arxiv.org/abs/2601.07118v2)** | 2026-01-29 | <details><summary>27 pa...</summary><p>27 pages, 28 figures, 4 algorithms, 3 tables, preprint</p></details> |
+| **[SymbXRL: Symbolic Explainable Deep Reinforcement Learning for Mobile Networks](https://arxiv.org/abs/2601.22024v1)** | 2026-01-29 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, published in IEEE INFOCOM 2025</p></details> |
+| **[Adaptive Swarm Mesh Refinement using Deep Reinforcement Learning with Local Rewards](https://arxiv.org/abs/2406.08440v2)** | 2026-01-29 | <details><summary>Submi...</summary><p>Submitted to Journal of Machine Learning Research (JMLR)</p></details> |
+| **[Geometry of Drifting MDPs with Path-Integral Stability Certificates](https://arxiv.org/abs/2601.21991v1)** | 2026-01-29 |  |
+| **[Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields](https://arxiv.org/abs/2601.21985v1)** | 2026-01-29 |  |
+| **[Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](https://arxiv.org/abs/2601.21972v1)** | 2026-01-29 |  |
+| **[Token-Guard: Towards Token-Level Hallucination Control via Self-Checking Decoding](https://arxiv.org/abs/2601.21969v1)** | 2026-01-29 | <details><summary>26 pa...</summary><p>26 pages and 11 figures,this work has been accepted for presentation at ICLR 2026</p></details> |
+| **[OVD: On-policy Verbal Distillation](https://arxiv.org/abs/2601.21968v1)** | 2026-01-29 | Technical Report |
+| **[One Model, Any Conjunctive Query: Graph Neural Networks for Answering Queries over Incomplete Knowledge Graphs](https://arxiv.org/abs/2409.13959v3)** | 2026-01-29 | <details><summary>Proce...</summary><p>Proceedings of the Fourth Learning on Graphs Conference (LoG 2025)</p></details> |
+| **[SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling](https://arxiv.org/abs/2410.12481v3)** | 2026-01-29 | <details><summary>This ...</summary><p>This work has been presented at the IMOL workshop at NeurIPS 2025 (https://neurips.cc/virtual/2024/101058)</p></details> |
+| **[WorldLLM: Improving LLMs' world modeling using curiosity-driven theory-making](https://arxiv.org/abs/2506.06725v3)** | 2026-01-29 | <details><summary>This ...</summary><p>This project's code can be found at https://github.com/flowersteam/WorldLLM. This project was presented at RLDM 2025 (https://rldm.org/)</p></details> |
 
 ## Traffic Signal Control
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GNN Explanations that do not Explain and How to find Them](https://arxiv.org/abs/2601.20815v1)** | 2026-01-28 |  |
-| **[GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning](https://arxiv.org/abs/2601.20753v1)** | 2026-01-28 |  |
-| **[Structurally Human, Semantically Biased: Detecting LLM-Generated References with Embeddings and GNNs](https://arxiv.org/abs/2601.20704v1)** | 2026-01-28 | <details><summary>34 pa...</summary><p>34 pages, 20 figures. Accepted at ICLR 2026</p></details> |
-| **[TGSBM: Transformer-Guided Stochastic Block Model for Link Prediction](https://arxiv.org/abs/2601.20646v1)** | 2026-01-28 | 12 pages, 4 figures |
-| **[Taxonomy of reduction matrices for Graph Coarsening](https://arxiv.org/abs/2506.11743v2)** | 2026-01-28 |  |
-| **[CCMamba: Selective State-Space Models for Higher-Order Graph Learning on Combinatorial Complexes](https://arxiv.org/abs/2601.20518v1)** | 2026-01-28 |  |
-| **[GCL-OT: Graph Contrastive Learning with Optimal Transport for Heterophilic Text-Attributed Graphs](https://arxiv.org/abs/2511.16778v2)** | 2026-01-28 | AAAI 2026 |
-| **[PULSE: Socially-Aware User Representation Modeling Toward Parameter-Efficient Graph Collaborative Filtering](https://arxiv.org/abs/2601.14720v2)** | 2026-01-28 | <details><summary>12 pa...</summary><p>12 pages. This paper is accepted at 2026 ACM Web Conference (WWW)</p></details> |
-| **[Proactive SFC Provisioning with Forecast-Driven DRL in Data Centers](https://arxiv.org/abs/2601.20229v1)** | 2026-01-28 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, Accepted to IEEE International Conference on Communications (ICC) 2026</p></details> |
-| **[NeuraLSP: An Efficient and Rigorous Neural Left Singular Subspace Preconditioner for Conjugate Gradient Methods](https://arxiv.org/abs/2601.20174v1)** | 2026-01-28 |  |
-| **[The Effect of Architecture During Continual Learning](https://arxiv.org/abs/2601.19766v1)** | 2026-01-27 |  |
-| **[Leveraging Convolutional and Graph Networks for an Unsupervised Remote Sensing Labelling Tool](https://arxiv.org/abs/2508.00506v2)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted for Taylor and Francis, Annals of GIS * Video supplement demonstrating feature-space exploration and interactive labelling is available at: https://youtu.be/GZl1ebZJgEA and is archived at https://doi.org/10.5281/zenodo.16676591</p></details> |
-| **[PowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization with Large Language Models](https://arxiv.org/abs/2501.07639v3)** | 2026-01-27 | <details><summary>Publi...</summary><p>Published at IEEE Transactions on Power Systems</p></details> |
-| **[Fixed Aggregation Features Can Rival GNNs](https://arxiv.org/abs/2601.19449v1)** | 2026-01-27 |  |
-| **[GraphSB: Boosting Imbalanced Node Classification on Graphs through Structural Balance](https://arxiv.org/abs/2601.19352v1)** | 2026-01-27 |  |
+| **[Do graph neural network states contain graph properties?](https://arxiv.org/abs/2411.02168v3)** | 2026-01-29 | <details><summary>10 pa...</summary><p>10 pages, 22 figures, conference</p></details> |
+| **[MEIDNet: Multimodal generative AI framework for inverse materials design](https://arxiv.org/abs/2601.22009v1)** | 2026-01-29 |  |
+| **[Bridging Graph Structure and Knowledge-Guided Editing for Interpretable Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2601.21978v1)** | 2026-01-29 |  |
+| **[One Model, Any Conjunctive Query: Graph Neural Networks for Answering Queries over Incomplete Knowledge Graphs](https://arxiv.org/abs/2409.13959v3)** | 2026-01-29 | <details><summary>Proce...</summary><p>Proceedings of the Fourth Learning on Graphs Conference (LoG 2025)</p></details> |
+| **[How Expressive Are Graph Neural Networks in the Presence of Node Identifiers?](https://arxiv.org/abs/2601.21882v1)** | 2026-01-29 | 35 pages |
+| **[Graph Homomorphism Distortion: A Metric to Distinguish Them All and in the Latent Space Bind Them](https://arxiv.org/abs/2511.03068v2)** | 2026-01-29 |  |
+| **[Embodied Task Planning via Graph-Informed Action Generation with Large Lanaguage Model](https://arxiv.org/abs/2601.21841v1)** | 2026-01-29 |  |
+| **[WL Tests Are Far from All We Need: Revisiting WL-Test Hardness and GNN Expressive Power from a Distributed Computation Perspective](https://arxiv.org/abs/2410.01308v5)** | 2026-01-29 |  |
+| **[Beyond Parameter Finetuning: Test-Time Representation Refinement for Node Classification](https://arxiv.org/abs/2601.21615v1)** | 2026-01-29 |  |
+| **[Heterogeneity-Aware Knowledge Sharing for Graph Federated Learning](https://arxiv.org/abs/2601.21589v1)** | 2026-01-29 | 33 pages |
+| **[Mean-Field Control on Sparse Graphs: From Local Limits to GNNs via Neighborhood Distributions](https://arxiv.org/abs/2601.21477v1)** | 2026-01-29 | 19 pages |
+| **[Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach](https://arxiv.org/abs/2601.21369v1)** | 2026-01-29 | <details><summary>Under...</summary><p>Under Review. E-mail: zhuylin27@mail2.sysu.edu.cn</p></details> |
+| **[HetGCoT: Heterogeneous Graph-Enhanced Chain-of-Thought LLM Reasoning for Academic Question Answering](https://arxiv.org/abs/2501.01203v3)** | 2026-01-29 | <details><summary>Findi...</summary><p>Findings of the Association for Computational Linguistics: EMNLP 2025</p></details> |
+| **[EGAM: Extended Graph Attention Model for Solving Routing Problems](https://arxiv.org/abs/2601.21281v1)** | 2026-01-29 |  |
+| **[Fair Graph Machine Learning under Adversarial Missingness Processes](https://arxiv.org/abs/2311.01591v5)** | 2026-01-29 |  |
 

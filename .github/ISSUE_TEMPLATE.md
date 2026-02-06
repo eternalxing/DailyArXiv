@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 05, 2026
+title: Latest 15 Papers - February 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes](https://arxiv.org/abs/2601.18795v2)** | 2026-02-03 |  |
-| **[Understanding and Exploiting Weight Update Sparsity for Communication-Efficient Distributed RL](https://arxiv.org/abs/2602.03839v1)** | 2026-02-03 | 32 pages, 14 figures |
-| **[ME-IGM: Individual-Global-Max in Maximum Entropy Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2406.13930v4)** | 2026-02-03 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
-| **[SymPlex: A Structure-Aware Transformer for Symbolic PDE Solving](https://arxiv.org/abs/2602.03816v1)** | 2026-02-03 | 27 pages |
-| **[OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward Modeling and LLM Alignment](https://arxiv.org/abs/2510.07743v3)** | 2026-02-03 | <details><summary>The f...</summary><p>The first two authors contributed equally. Updated OpenRubrics dataset, RMs, and results</p></details> |
-| **[Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation](https://arxiv.org/abs/2602.03806v1)** | 2026-02-03 |  |
-| **[Efficient Estimation of Kernel Surrogate Models for Task Attribution](https://arxiv.org/abs/2602.03783v1)** | 2026-02-03 | <details><summary>27 pa...</summary><p>27 pages. To appear in ICLR 2026</p></details> |
-| **[Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL](https://arxiv.org/abs/2602.03773v1)** | 2026-02-03 | preprint |
-| **[Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains](https://arxiv.org/abs/2505.16552v6)** | 2026-02-03 | 15 pages, 8 figures |
-| **[RegionReasoner: Region-Grounded Multi-Round Visual Reasoning](https://arxiv.org/abs/2602.03733v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Training Multi-Turn Search Agent via Contrastive Dynamic Branch Sampling](https://arxiv.org/abs/2602.03719v1)** | 2026-02-03 | 24 pages, 5 figures |
-| **[A Two-Timescale Primal-Dual Framework for Reinforcement Learning via Online Dual Variable Guidance](https://arxiv.org/abs/2505.04494v2)** | 2026-02-03 | <details><summary>54 pa...</summary><p>54 pages, 1 figure; Revised version with additional finite-time convergence results</p></details> |
-| **[Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.20272v3)** | 2026-02-03 |  |
-| **[LAGEA: Language Guided Embodied Agents for Robotic Manipulation](https://arxiv.org/abs/2509.23155v2)** | 2026-02-03 |  |
-| **[Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2602.03689v1)** | 2026-02-03 | <details><summary>19 pa...</summary><p>19 pages, 8 tables, 5 figures</p></details> |
+| **[Reinforced Attention Learning](https://arxiv.org/abs/2602.04884v1)** | 2026-02-04 |  |
+| **[Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2602.04879v1)** | 2026-02-04 |  |
+| **[CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation](https://arxiv.org/abs/2602.04868v1)** | 2026-02-04 |  |
+| **[Safe Urban Traffic Control via Uncertainty-Aware Conformal Prediction and World-Model Reinforcement Learning](https://arxiv.org/abs/2602.04821v1)** | 2026-02-04 |  |
+| **[Beyond Rewards in Reinforcement Learning for Cyber Defence](https://arxiv.org/abs/2602.04809v1)** | 2026-02-04 |  |
+| **[Joint Sleep Mode Activation and Load Balancing with Dynamic Cell Load: A Combinatorial Bandit Approach](https://arxiv.org/abs/2602.04808v1)** | 2026-02-04 |  |
+| **[Evolving Afferent Architectures: Biologically-inspired Models for Damage-Avoidance Learning](https://arxiv.org/abs/2602.04807v1)** | 2026-02-04 | 16 pages, 6 figures |
+| **[Skin Tokens: A Learned Compact Representation for Unified Autoregressive Rigging](https://arxiv.org/abs/2602.04805v1)** | 2026-02-04 | 14 pages, 10 figures |
+| **[Self-Improving Pretraining: using post-trained models to pretrain better models](https://arxiv.org/abs/2601.21343v2)** | 2026-02-04 |  |
+| **[When Silence Is Golden: Can LLMs Learn to Abstain in Temporal QA and Beyond?](https://arxiv.org/abs/2602.04755v1)** | 2026-02-04 | Accepted to ICLR2026 |
+| **[Rationality Measurement and Theory for Reinforcement Learning Agents](https://arxiv.org/abs/2602.04737v1)** | 2026-02-04 |  |
+| **[ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705v1)** | 2026-02-04 |  |
+| **[When Do Credal Sets Stabilize? Fixed-Point Theorems for Credal Set Updates](https://arxiv.org/abs/2510.04769v2)** | 2026-02-04 |  |
+| **[Information Templates: A New Paradigm for Intelligent Active Feature Acquisition](https://arxiv.org/abs/2508.18380v2)** | 2026-02-04 |  |
+| **[Multi-Source Retrieval and Reasoning for Legal Sentencing Prediction](https://arxiv.org/abs/2602.04690v1)** | 2026-02-04 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Non-Intrusive Graph-Based Bot Detection for E-Commerce Using Inductive Graph Neural Networks](https://arxiv.org/abs/2601.22579v3)** | 2026-02-04 |  |
+| **[Graph Persistence goes Spectral](https://arxiv.org/abs/2506.06571v3)** | 2026-02-04 | <details><summary>32 pa...</summary><p>32 pages, 4 figures, 7 tables. Accepted at NeurIPS 2025. Final version, clarified minor bug</p></details> |
+| **[DMFlow: Disordered Materials Generation by Flow Matching](https://arxiv.org/abs/2602.04734v1)** | 2026-02-04 |  |
+| **[Discrete Diffusion-Based Model-Level Explanation of Heterogeneous GNNs with Node Features](https://arxiv.org/abs/2508.08458v2)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at WWW 2026. Camera-ready version</p></details> |
+| **[Bridging Cognitive Neuroscience and Graph Intelligence: Hippocampus-Inspired Multi-View Hypergraph Learning for Web Finance Fraud](https://arxiv.org/abs/2601.11073v2)** | 2026-02-04 |  |
+| **[Training A Foundation Model to Represent Graphs as Vectors](https://arxiv.org/abs/2602.04244v1)** | 2026-02-04 |  |
+| **[Incorporating graph neural network into route choice model](https://arxiv.org/abs/2503.02315v2)** | 2026-02-04 |  |
+| **[Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371v4)** | 2026-02-04 |  |
+| **[Resilient Routing: Risk-Aware Dynamic Routing in Smart Logistics via Spatiotemporal Graph Learning](https://arxiv.org/abs/2601.13632v2)** | 2026-02-03 |  |
+| **[Early-Exit Graph Neural Networks](https://arxiv.org/abs/2505.18088v2)** | 2026-02-03 | <details><summary>49 pa...</summary><p>49 pages, 26 figures. Under review</p></details> |
+| **[P-Tensors: a General Formalism for Constructing Higher Order Message Passing Networks](https://arxiv.org/abs/2306.10767v2)** | 2026-02-03 |  |
+| **[DeXposure-FM: A Time-series, Graph Foundation Model for Credit Exposures and Stability on Decentralized Financial Networks](https://arxiv.org/abs/2602.03981v1)** | 2026-02-03 |  |
 | **[Enhancing Imbalanced Node Classification via Curriculum-Guided Feature Learning and Three-Stage Attention Network](https://arxiv.org/abs/2602.03808v1)** | 2026-02-03 |  |
 | **[Data-Driven Graph Filters via Adaptive Spectral Shaping](https://arxiv.org/abs/2602.03698v1)** | 2026-02-03 |  |
 | **[Acceleration of Atomistic NEGF: Algorithms, Parallelization, and Machine Learning](https://arxiv.org/abs/2602.03438v1)** | 2026-02-03 |  |
-| **[SPGCL: Simple yet Powerful Graph Contrastive Learning via SVD-Guided Structural Perturbation](https://arxiv.org/abs/2602.00064v2)** | 2026-02-03 |  |
-| **[Exploring the Global-to-Local Attention Scheme in Graph Transformers: An Empirical Study](https://arxiv.org/abs/2509.14863v2)** | 2026-02-03 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-026-51718-4}</p></details> |
-| **[GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning](https://arxiv.org/abs/2601.20753v3)** | 2026-02-03 |  |
-| **[Non-Intrusive Graph-Based Bot Detection for E-Commerce Using Inductive Graph Neural Networks](https://arxiv.org/abs/2601.22579v2)** | 2026-02-03 |  |
-| **[MGKAN: Predicting Asymmetric Drug-Drug Interactions via a Multimodal Graph Kolmogorov-Arnold Network](https://arxiv.org/abs/2602.01751v2)** | 2026-02-03 | <details><summary>This ...</summary><p>This paper has been accepted by ICASSP 2026</p></details> |
-| **[Fast Task Planning with Neuro-Symbolic Relaxation](https://arxiv.org/abs/2507.15975v2)** | 2026-02-03 | 8 pages, 6 figures |
-| **[Multi-view Graph Condensation via Tensor Decomposition](https://arxiv.org/abs/2508.14330v2)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted at WSDM 2026</p></details> |
-| **[Eidolon: A Practical Post-Quantum Signature Scheme Based on k-Colorability in the Age of Graph Neural Networks](https://arxiv.org/abs/2602.02689v1)** | 2026-02-02 | 23 pages, 5 figures |
-| **[Graph-Augmented Reasoning with Large Language Models for Tobacco Pest and Disease Management](https://arxiv.org/abs/2602.02635v1)** | 2026-02-02 |  |
-| **[DFKI-Speech System for WildSpoof Challenge: A robust framework for SASV In-the-Wild](https://arxiv.org/abs/2602.02286v1)** | 2026-02-02 |  |
-| **[Graph Learning via Logic-Based Weisfeiler-Leman Variants and Tabularization](https://arxiv.org/abs/2508.10651v2)** | 2026-02-02 | <details><summary>New v...</summary><p>New version of the manuscript with the following fixes: 1. Clarified proof of the main theorem. 2. Revised the experimental section</p></details> |
-| **[Graph Homomorphism Distortion: A Metric to Distinguish Them All and in the Latent Space Bind Them](https://arxiv.org/abs/2511.03068v3)** | 2026-02-02 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |

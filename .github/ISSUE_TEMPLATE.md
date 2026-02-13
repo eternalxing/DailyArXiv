@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 12, 2026
+title: Latest 15 Papers - February 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.10090v1)** | 2026-02-10 | 41 pages |
-| **[CODE-SHARP: Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs](https://arxiv.org/abs/2602.10085v1)** | 2026-02-10 | Preprint |
-| **[Anagent For Enhancing Scientific Table & Figure Analysis](https://arxiv.org/abs/2602.10081v1)** | 2026-02-10 |  |
-| **[Features as Rewards: Scalable Supervision for Open-Ended Tasks via Interpretability](https://arxiv.org/abs/2602.10067v1)** | 2026-02-10 |  |
-| **[Long Chain-of-Thought Compression via Fine-Grained Group Policy Optimization](https://arxiv.org/abs/2602.10048v1)** | 2026-02-10 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026</p></details> |
-| **[Optimistic World Models: Efficient Exploration in Model-Based Deep Reinforcement Learning](https://arxiv.org/abs/2602.10044v1)** | 2026-02-10 |  |
-| **[Fake-HR1: Rethinking reasoning of vision language model for synthetic image detection](https://arxiv.org/abs/2602.10042v1)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
-| **[Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure](https://arxiv.org/abs/2602.10029v1)** | 2026-02-10 | <details><summary>25 pa...</summary><p>25 pages, 5 figures. Full research paper providing a resilience-aware RL framework for UAV networks under node failure. A preliminary version has been submitted to ACM Transactions on Internet Technology (TOIT) for possible publication</p></details> |
-| **[ADORA: Training Reasoning Models with Dynamic Advantage Estimation on Reinforcement Learning](https://arxiv.org/abs/2602.10019v1)** | 2026-02-10 |  |
-| **[A Collaborative Safety Shield for Safe and Efficient CAV Lane Changes in Congested On-Ramp Merging](https://arxiv.org/abs/2602.10007v1)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted in IEEE IV 2026</p></details> |
-| **[Answer First, Reason Later: Aligning Search Relevance via Mode-Balanced Reinforcement Learning](https://arxiv.org/abs/2602.10006v1)** | 2026-02-10 |  |
-| **[ESTAR: Early-Stopping Token-Aware Reasoning For Efficient Inference](https://arxiv.org/abs/2602.10004v1)** | 2026-02-10 |  |
-| **[ORCHID: Fairness-Aware Orchestration in Mission-Critical Air-Ground Integrated Networks](https://arxiv.org/abs/2602.09994v1)** | 2026-02-10 | <details><summary>15 pa...</summary><p>15 pages, 7 figures. Full research paper providing a resilient two-stage orchestration framework to optimize collaborative UAV-GBS deployment in mission-critical air-ground integrated networks (AGINs). Under review at an IEEE Journal</p></details> |
-| **[SCOPE: A Training-Free Online 3D Deployment for UAV-BSs with Theoretical Analysis and Comparative Study](https://arxiv.org/abs/2602.09971v1)** | 2026-02-10 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Full research paper providing a training-free determinisitc 3D UAV deployment algorithm, SCOPE. Submitted to IEEE Journal for possible publication</p></details> |
-| **[ATTNPO: Attention-Guided Process Supervision for Efficient Reasoning](https://arxiv.org/abs/2602.09953v1)** | 2026-02-10 | Work in process |
+| **[APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots](https://arxiv.org/abs/2602.11143v1)** | 2026-02-11 | <details><summary>Proje...</summary><p>Project Website: https://apex-humanoid.github.io/</p></details> |
+| **[Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows](https://arxiv.org/abs/2602.11142v1)** | 2026-02-11 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, IEEE International Conference on Robotics and Automation 2026</p></details> |
+| **[Expanding the Capabilities of Reinforcement Learning via Text Feedback](https://arxiv.org/abs/2602.02482v2)** | 2026-02-11 | 43 pages, 6 figures |
+| **[Asymmetric Prompt Weighting for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2602.11128v1)** | 2026-02-11 |  |
+| **[Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.10090v2)** | 2026-02-11 | 41 pages |
+| **[Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away](https://arxiv.org/abs/2602.11096v1)** | 2026-02-11 |  |
+| **[DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning](https://arxiv.org/abs/2602.11089v1)** | 2026-02-11 |  |
+| **[Interpretable Attention-Based Multi-Agent PPO for Latency Spike Resolution in 6G RAN Slicing](https://arxiv.org/abs/2602.11076v1)** | 2026-02-11 | <details><summary>This ...</summary><p>This work has been accepted to appear in the IEEE International Conference on Communications (ICC)</p></details> |
+| **[RISE: Self-Improving Robot Policy with Compositional World Model](https://arxiv.org/abs/2602.11075v1)** | 2026-02-11 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/kai0-rl/</p></details> |
+| **[Chatting with Images for Introspective Visual Thinking](https://arxiv.org/abs/2602.11073v1)** | 2026-02-11 |  |
+| **[Simultaneous Speech-to-Speech Translation Without Aligned Data](https://arxiv.org/abs/2602.11072v1)** | 2026-02-11 | <details><summary>See i...</summary><p>See inference code at: https://github.com/kyutai-labs/hibiki-zero</p></details> |
+| **[CamReasoner: Reinforcing Camera Movement Understanding via Structured Spatial Reasoning](https://arxiv.org/abs/2602.00181v2)** | 2026-02-11 |  |
+| **[Divide, Harmonize, Then Conquer It: Shooting Multi-Commodity Flow Problems with Multimodal Language Models](https://arxiv.org/abs/2602.11057v1)** | 2026-02-11 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[Goal-Conditioned Reinforcement Learning from Sub-Optimal Data on Metric Spaces](https://arxiv.org/abs/2402.10820v3)** | 2026-02-11 |  |
+| **[Learning to Explore with Parameter-Space Noise: A Deep Dive into Parameter-Space Noise for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2602.02555v2)** | 2026-02-11 | 17 pages, 10 Figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
+| **[Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models](https://arxiv.org/abs/2408.06717v3)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted at WSDM 2026. Title changed from "Computation-friendly graph neural network design by accumulating knowledge on large language models" to "Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models"</p></details> |
+| **[MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation](https://arxiv.org/abs/2602.11062v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Track)</p></details> |
+| **[RiemannGL: Riemannian Geometry Changes Graph Deep Learning](https://arxiv.org/abs/2602.10982v1)** | 2026-02-11 | <details><summary>34 pa...</summary><p>34 pages, 11 figures, position paper</p></details> |
+| **[Efficient Learning on Large Graphs using a Densifying Regularity Lemma](https://arxiv.org/abs/2504.18273v3)** | 2026-02-11 |  |
+| **[Exponential time differencing for matrix-valued dynamical systems](https://arxiv.org/abs/2406.13761v2)** | 2026-02-11 |  |
+| **[Exploring the impact of adaptive rewiring in Graph Neural Networks](https://arxiv.org/abs/2602.10754v1)** | 2026-02-11 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[On Transferring Transferability: Towards a Theory for Size Generalization](https://arxiv.org/abs/2505.23599v3)** | 2026-02-11 | <details><summary>75 pa...</summary><p>75 pages, 10 figures, closest to version to be published in NeurIPS</p></details> |
+| **[Boundary-Aware Multi-Behavior Dynamic Graph Transformer for Sequential Recommendation](https://arxiv.org/abs/2602.10493v1)** | 2026-02-11 |  |
+| **[Dense Neural Networks are not Universal Approximators](https://arxiv.org/abs/2602.07618v2)** | 2026-02-10 |  |
 | **[Position: Message-passing and spectral GNNs are two sides of the same coin](https://arxiv.org/abs/2602.10031v1)** | 2026-02-10 |  |
 | **[Predictive Modeling of Power Outages during Extreme Events: Integrating Weather and Socio-Economic Factors](https://arxiv.org/abs/2512.22699v3)** | 2026-02-10 |  |
 | **[Non-Intrusive Graph-Based Bot Detection for E-Commerce Using Inductive Graph Neural Networks](https://arxiv.org/abs/2601.22579v5)** | 2026-02-10 |  |
 | **[Differentiable Tripartite Modularity for Clustering Heterogeneous Graphs](https://arxiv.org/abs/2602.09864v1)** | 2026-02-10 | 12 pages, 3 figures |
 | **[An Iterative Question-Guided Framework for Knowledge Base Question Answering](https://arxiv.org/abs/2506.01784v5)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Track</p></details> |
-| **[BRAVA-GNN: Betweenness Ranking Approximation Via Degree MAss Inspired Graph Neural Network](https://arxiv.org/abs/2602.09716v1)** | 2026-02-10 | Submitted to KDD |
-| **[Scalable and Reliable State-Aware Inference of High-Impact N-k Contingencies](https://arxiv.org/abs/2602.09461v1)** | 2026-02-10 |  |
-| **[Multimodal Graph Neural Networks for Prognostic Modeling of Brain Network Reorganization](https://arxiv.org/abs/2512.06303v2)** | 2026-02-10 | <details><summary>Funda...</summary><p>Fundamental methodological error invalidating results</p></details> |
-| **[Exact Subgraph Isomorphism Network with Mixed $L_{0,2}$ Norm Constraint for Predictive Graph Mining](https://arxiv.org/abs/2509.21699v2)** | 2026-02-10 |  |
-| **[Pave Your Own Path: Graph Gradual Domain Adaptation on Fused Gromov-Wasserstein Geodesics](https://arxiv.org/abs/2505.12709v2)** | 2026-02-10 | 35 pages, 10 figures |
-| **[Generalizing GNNs with Tokenized Mixture of Experts](https://arxiv.org/abs/2602.09258v1)** | 2026-02-09 | <details><summary>Graph...</summary><p>Graph Neural Networks, Generalization, Mixture of Experts</p></details> |
-| **[ATLAS: Adaptive Topology-based Learning at Scale for Homophilic and Heterophilic Graphs](https://arxiv.org/abs/2512.14908v4)** | 2026-02-09 | Preprint |
-| **[Rethinking Graph Generalization through the Lens of Sharpness-Aware Minimization](https://arxiv.org/abs/2602.08855v1)** | 2026-02-09 |  |
-| **[A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](https://arxiv.org/abs/2602.08785v1)** | 2026-02-09 |  |
-| **[HoGS: Homophily-Oriented Graph Synthesis for Local Differentially Private GNN Training](https://arxiv.org/abs/2602.08762v1)** | 2026-02-09 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |

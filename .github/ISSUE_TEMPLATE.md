@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 25, 2026
+title: Latest 15 Papers - February 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TROLL: Trust Regions improve Reinforcement Learning for Large Language Models](https://arxiv.org/abs/2510.03817v3)** | 2026-02-23 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
-| **[Find the Fruit: Zero-Shot Sim2Real RL for Occlusion-Aware Plant Manipulation](https://arxiv.org/abs/2505.16547v3)** | 2026-02-23 |  |
-| **[LAD: Learning Advantage Distribution for Reasoning](https://arxiv.org/abs/2602.20132v1)** | 2026-02-23 |  |
-| **[ReSyn: Autonomously Scaling Synthetic Environments for Reasoning Models](https://arxiv.org/abs/2602.20117v1)** | 2026-02-23 |  |
-| **[AbstRaL: Augmenting LLMs' Reasoning by Reinforcing Abstract Thinking](https://arxiv.org/abs/2506.07751v4)** | 2026-02-23 | ICLR 2026 |
-| **[EBPO: Empirical Bayes Shrinkage for Stabilizing Group-Relative Policy Optimization](https://arxiv.org/abs/2602.05165v3)** | 2026-02-23 |  |
-| **[Adaptive Underwater Acoustic Communications with Limited Feedback: An AoI-Aware Hierarchical Bandit Approach](https://arxiv.org/abs/2602.20105v1)** | 2026-02-23 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, Accepted for IEEE Globecom 2025</p></details> |
-| **[Shop-R1: Rewarding LLMs to Simulate Human Behavior in Online Shopping via Reinforcement Learning](https://arxiv.org/abs/2507.17842v2)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The project page is available at https://damon-demon.github.io/shop-r1.html</p></details> |
-| **[Descent-Guided Policy Gradient for Scalable Cooperative Multi-Agent Learning](https://arxiv.org/abs/2602.20078v1)** | 2026-02-23 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 5 tables; plus 16 pages of appendices</p></details> |
-| **[KINESIS: Motion Imitation for Human Musculoskeletal Locomotion](https://arxiv.org/abs/2503.14637v2)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted to ICRA. Here we include an appendix</p></details> |
-| **[MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding](https://arxiv.org/abs/2510.23479v3)** | 2026-02-23 | <details><summary>ICLR ...</summary><p>ICLR 2026, Web link: https://jinxins.github.io/MergeMix_Web/</p></details> |
-| **[noDice: Inference for Discrete Probabilistic Programs with Nondeterminism and Conditioning](https://arxiv.org/abs/2602.20049v1)** | 2026-02-23 | <details><summary>46 pa...</summary><p>46 pages, 7 figures, accepted to OOPSLA 2026 R1</p></details> |
-| **[Analysis of approximate linear programming solution to Markov decision problem with log barrier function](https://arxiv.org/abs/2509.19800v3)** | 2026-02-23 |  |
-| **[A Secure and Private Distributed Bayesian Federated Learning Design](https://arxiv.org/abs/2602.20003v1)** | 2026-02-23 | 14 pages, 9 figures |
-| **[Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://arxiv.org/abs/2602.10604v2)** | 2026-02-23 | <details><summary>Techn...</summary><p>Technical report for Step 3.5 Flash</p></details> |
+| **[Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models](https://arxiv.org/abs/2509.26626v2)** | 2026-02-24 | <details><summary>23 pa...</summary><p>23 pages, 10 figures. Project page: https://rsa-llm.github.io/</p></details> |
+| **[Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics](https://arxiv.org/abs/2602.21203v1)** | 2026-02-24 | <details><summary>For w...</summary><p>For website and code, see https://aalmuzairee.github.io/squint</p></details> |
+| **[SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards](https://arxiv.org/abs/2602.21158v1)** | 2026-02-24 |  |
+| **[Cooperative-Competitive Team Play of Real-World Craft Robots](https://arxiv.org/abs/2602.21119v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by 2026 IEEE International Conference on Robotics and Automation (ICRA 2026), Vienna, Austria</p></details> |
+| **[AceGRPO: Adaptive Curriculum Enhanced Group Relative Policy Optimization for Autonomous Machine Learning Engineering](https://arxiv.org/abs/2602.07906v2)** | 2026-02-24 | 17 pages, 5 figures |
+| **[SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation](https://arxiv.org/abs/2602.16863v2)** | 2026-02-24 |  |
+| **[Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning](https://arxiv.org/abs/2602.21072v1)** | 2026-02-24 | <details><summary>33 pa...</summary><p>33 pages, 9 figures, 11 tables</p></details> |
+| **[Safe Reinforcement Learning for Real-World Engine Control](https://arxiv.org/abs/2501.16613v2)** | 2026-02-24 |  |
+| **[Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs](https://arxiv.org/abs/2602.07729v2)** | 2026-02-24 |  |
+| **[Hierarchical Decision Mamba Meets Agentic AI: A Novel Approach for RAN Slicing in 6G](https://arxiv.org/abs/2512.23502v2)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Networking Letters (Author's copy). Copyright belongs to IEEE</p></details> |
+| **[A Survey on the Optimization of Large Language Model-based Agents](https://arxiv.org/abs/2503.12434v2)** | 2026-02-24 | <details><summary>Publi...</summary><p>Published in ACM Computing Surveys, Vol. 58, No. 9, Article 223, July 2026</p></details> |
+| **[UI-Venus-1.5 Technical Report](https://arxiv.org/abs/2602.09082v2)** | 2026-02-24 |  |
+| **[Cell-Free Massive MIMO-Assisted SWIPT Using Stacked Intelligent Metasurfaces](https://arxiv.org/abs/2602.20983v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted in IEEE TWC, Feb. 2026</p></details> |
+| **[Wasserstein Barycenter Soft Actor-Critic](https://arxiv.org/abs/2506.10167v4)** | 2026-02-24 |  |
+| **[PMG: Parameterized Motion Generator for Human-like Locomotion Control](https://arxiv.org/abs/2602.12656v2)** | 2026-02-24 | <details><summary>Websi...</summary><p>Website: https://pmg-icra26.github.io/</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Probing Graph Neural Network Activation Patterns Through Graph Topology](https://arxiv.org/abs/2602.21092v1)** | 2026-02-24 |  |
+| **[A Spectral Framework for Graph Neural Operators: Convergence Guarantees and Tradeoffs](https://arxiv.org/abs/2510.20954v2)** | 2026-02-23 |  |
+| **[CITED: A Decision Boundary-Aware Signature for GNNs Towards Model Extraction Defense](https://arxiv.org/abs/2602.20418v1)** | 2026-02-23 |  |
+| **[Beyond Message Passing: A Symbolic Alternative for Expressive and Interpretable Graph Learning](https://arxiv.org/abs/2602.16947v2)** | 2026-02-23 | 23 pages, 9 pages |
 | **[Can You Hear Me Now? A Benchmark for Long-Range Graph Propagation](https://arxiv.org/abs/2512.17762v2)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026 ( https://openreview.net/forum?id=DgkWFPZMPp )</p></details> |
 | **[A Secure and Private Distributed Bayesian Federated Learning Design](https://arxiv.org/abs/2602.20003v1)** | 2026-02-23 | 14 pages, 9 figures |
 | **[Detecting High-Potential SMEs with Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2602.19591v1)** | 2026-02-23 |  |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Revisiting Node Affinity Prediction in Temporal Graphs](https://arxiv.org/abs/2510.06940v3)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[Covariance Density Neural Networks](https://arxiv.org/abs/2505.11139v2)** | 2026-02-22 |  |
 | **[GEDAN: Learning the Edit Costs for Graph Edit Distance](https://arxiv.org/abs/2508.03111v3)** | 2026-02-22 |  |
-| **[Revisiting Graph Neural Networks for Graph-level Tasks: Taxonomy, Empirical Study, and Future Directions](https://arxiv.org/abs/2501.00773v2)** | 2026-02-22 |  |
-| **[E2E-GRec: An End-to-End Joint Training Framework for Graph Neural Networks and Recommender Systems](https://arxiv.org/abs/2511.20564v2)** | 2026-02-22 |  |
-| **[Graph Neural Networks Powered by Encoder Embedding for Improved Node Learning](https://arxiv.org/abs/2507.11732v2)** | 2026-02-21 |  |
-| **[HEHRGNN: A Unified Embedding Model for Knowledge Graphs with Hyperedges and Hyper-Relational Edges](https://arxiv.org/abs/2602.18897v1)** | 2026-02-21 | <details><summary>38 Pa...</summary><p>38 Pages paper and 1 highlights page, 9 figures, 10 tables, Submitted to Elsevier Knowledge-Based Systems journal</p></details> |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |

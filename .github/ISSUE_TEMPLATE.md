@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 05, 2026
+title: Latest 15 Papers - March 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,31 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation](https://arxiv.org/abs/2603.03279v1)** | 2026-03-03 | <details><summary>Proje...</summary><p>Project Page: https://ultra-humanoid.github.io/</p></details> |
-| **[Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://arxiv.org/abs/2603.03205v1)** | 2026-03-03 | 24 pages, 5 figures |
-| **[Specificity-aware reinforcement learning for fine-grained open-world classification](https://arxiv.org/abs/2603.03197v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing](https://arxiv.org/abs/2603.03143v1)** | 2026-03-03 | 18 pages, 8 figures |
-| **[RL-Based Coverage Path Planning for Deformable Objects on 3D Surfaces](https://arxiv.org/abs/2603.03137v1)** | 2026-03-03 | <details><summary>8 pag...</summary><p>8 pages, 8 figures. Accepted to the 2026 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
-| **[Proactive Guiding Strategy for Item-side Fairness in Interactive Recommendation](https://arxiv.org/abs/2603.03094v1)** | 2026-03-03 |  |
-| **[RAPO: Expanding Exploration for LLM Agents via Retrieval-Augmented Policy Optimization](https://arxiv.org/abs/2603.03078v1)** | 2026-03-03 | Submit to KDD 2026 |
-| **[TikZilla: Scaling Text-to-TikZ with High-Quality Data and Reinforcement Learning](https://arxiv.org/abs/2603.03072v1)** | 2026-03-03 |  |
-| **[Reinforcement Learning with Symbolic Reward Machines](https://arxiv.org/abs/2603.03068v1)** | 2026-03-03 |  |
-| **[CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots](https://arxiv.org/abs/2603.03067v1)** | 2026-03-03 |  |
-| **[PrivMedChat: End-to-End Differentially Private RLHF for Medical Dialogue Systems](https://arxiv.org/abs/2603.03054v1)** | 2026-03-03 |  |
-| **[QFlowNet: Fast, Diverse, and Efficient Unitary Synthesis with Generative Flow Networks](https://arxiv.org/abs/2603.03045v1)** | 2026-03-03 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC 2026)</p></details> |
-| **[SceneStreamer: Continuous Scenario Generation as Next Token Group Prediction](https://arxiv.org/abs/2506.23316v2)** | 2026-03-03 |  |
-| **[Learning Acrobatic Flight from Preferences](https://arxiv.org/abs/2508.18817v2)** | 2026-03-03 | 8 pages, 6 figures |
-| **[Why Does RLAIF Work At All?](https://arxiv.org/abs/2603.03000v1)** | 2026-03-03 |  |
+| **[Composition-Grounded Data Synthesis for Visual Reasoning](https://arxiv.org/abs/2510.15040v2)** | 2026-03-04 | <details><summary>ICLR2...</summary><p>ICLR2026 camera-ready version. Project page: https://cogsynthesis.github.io</p></details> |
+| **[TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning](https://arxiv.org/abs/2603.04380v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at WACV 2026</p></details> |
+| **[Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks](https://arxiv.org/abs/2603.04364v1)** | 2026-03-04 |  |
+| **[A Constrained RL Approach for Cost-Efficient Delivery of Latency-Sensitive Applications](https://arxiv.org/abs/2603.04353v1)** | 2026-03-04 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, accepted for publication in 2025 59th Asilomar Conference on Signals, Systems, and Computers</p></details> |
+| **[Tendon Force Modeling for Sim2Real Transfer of Reinforcement Learning Policies for Tendon-Driven Robots](https://arxiv.org/abs/2603.04351v1)** | 2026-03-04 | preprint |
+| **[LadderSym: A Multimodal Interleaved Transformer for Music Practice Error Detection](https://arxiv.org/abs/2510.08580v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[What Does Flow Matching Bring To TD Learning?](https://arxiv.org/abs/2603.04333v1)** | 2026-03-04 |  |
+| **[Unraveling the Complexity of Memory in RL Agents: an Approach for Classification and Evaluation](https://arxiv.org/abs/2412.06531v2)** | 2026-03-04 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 9 tables</p></details> |
+| **[Greedy-based Value Representation for Optimal Coordination in Multi-agent Reinforcement Learning](https://arxiv.org/abs/2112.04454v3)** | 2026-03-04 | <details><summary>Dupli...</summary><p>Duplicate submission of arXiv:2211.12075</p></details> |
+| **[Low-Rank Contextual Reinforcement Learning from Heterogeneous Human Feedback](https://arxiv.org/abs/2412.19436v2)** | 2026-03-04 |  |
+| **[Memory, Benchmark & Robots: A Benchmark for Solving Complex Tasks with Reinforcement Learning](https://arxiv.org/abs/2502.10550v3)** | 2026-03-04 | <details><summary>57 pa...</summary><p>57 pages, 29 figures, 11 tables</p></details> |
+| **[IPD: Boosting Sequential Policy with Imaginary Planning Distillation in Offline Reinforcement Learning](https://arxiv.org/abs/2603.04289v1)** | 2026-03-04 |  |
+| **[Recurrent Action Transformer with Memory](https://arxiv.org/abs/2306.09459v6)** | 2026-03-04 | <details><summary>29 pa...</summary><p>29 pages, 22 figures, 13 tables</p></details> |
+| **[Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory](https://arxiv.org/abs/2603.04257v1)** | 2026-03-04 |  |
+| **[Generalization of RLVR Using Causal Reasoning as a Testbed](https://arxiv.org/abs/2512.20760v2)** | 2026-03-04 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks](https://arxiv.org/abs/2603.04209v1)** | 2026-03-04 |  |
+| **[A Geometric Perspective on the Difficulties of Learning GNN-based SAT Solvers](https://arxiv.org/abs/2508.21513v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted in the Proceedings track of the GRaM Workshop @ ICLR 2026</p></details> |
+| **[Graph Negative Feedback Bias Correction Framework for Adaptive Heterophily Modeling](https://arxiv.org/abs/2603.03662v1)** | 2026-03-04 |  |
+| **[Bridging Computational Social Science and Deep Learning: Cultural Dissemination-Inspired Graph Neural Networks](https://arxiv.org/abs/2509.19084v2)** | 2026-03-04 |  |
+| **[Graph Neural Networks in EEG-based Emotion Recognition: A Survey](https://arxiv.org/abs/2402.01138v6)** | 2026-03-03 | <details><summary>The 3...</summary><p>The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2026)</p></details> |
+| **[CNFP: Optimizing Cloud-Native Network Function Placement with Diffusion Models on the Cloud Continuum](https://arxiv.org/abs/2511.01343v2)** | 2026-03-03 | <details><summary>14 pa...</summary><p>14 pages, 11 figures, 4 tables, Submitted to Computer Networks</p></details> |
 | **[Privacy Risk Predictions Based on Fundamental Understanding of Personal Data and an Evolving Threat Landscape](https://arxiv.org/abs/2508.04542v2)** | 2026-03-03 | <details><summary>13 pa...</summary><p>13 pages, 10 figures, 1 table</p></details> |
 | **[EP-GAT: Energy-based Parallel Graph Attention Neural Network for Stock Trend Classification](https://arxiv.org/abs/2507.08184v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by IJCNN 2025, oral presentation</p></details> |
 | **[Multi-Scale Adaptive Neighborhood Awareness Transformer For Graph Fraud Detection](https://arxiv.org/abs/2603.03106v1)** | 2026-03-03 |  |
@@ -34,13 +40,7 @@ labels: documentation
 | **[Learning Memory-Enhanced Improvement Heuristics for Flexible Job Shop Scheduling](https://arxiv.org/abs/2603.02846v1)** | 2026-03-03 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[ChemFlow:A Hierarchical Neural Network for Multiscale Representation Learning in Chemical Mixtures](https://arxiv.org/abs/2603.02810v1)** | 2026-03-03 |  |
 | **[Quantized SO(3)-Equivariant Graph Neural Networks for Efficient Molecular Property Prediction](https://arxiv.org/abs/2601.02213v2)** | 2026-03-03 |  |
-| **[MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation](https://arxiv.org/abs/2602.11062v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Track)</p></details> |
-| **[AlphaFree: Recommendation Free from Users, IDs, and GNNs](https://arxiv.org/abs/2603.02653v1)** | 2026-03-03 | <details><summary>13 pa...</summary><p>13 pages, The Web Conference (WWW) 2026</p></details> |
-| **[MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks](https://arxiv.org/abs/2603.02630v1)** | 2026-03-03 | Preprint |
-| **[Tensegrity Robot Endcap-Ground Contact Estimation with Symmetry-aware Heterogeneous Graph Neural Network](https://arxiv.org/abs/2603.02596v1)** | 2026-03-03 | <details><summary>Prepr...</summary><p>Preprint; 7 pages, 5 figures, 3 tables</p></details> |
-| **[Network Topology Optimization via Deep Reinforcement Learning](https://arxiv.org/abs/2204.14133v2)** | 2026-03-03 |  |
-| **[Conflict Detection in AI-RAN: Efficient Interaction Learning and Autonomous Graph Reconstruction](https://arxiv.org/abs/2601.13213v2)** | 2026-03-03 |  |
-| **[Graph neural network force fields for adiabatic dynamics of lattice Hamiltonians](https://arxiv.org/abs/2603.02039v1)** | 2026-03-02 | 17 pages, 7 figures |
+| **[Towards Improved Sentence Representations using Token Graphs](https://arxiv.org/abs/2603.03389v1)** | 2026-03-03 | <details><summary>ICLR ...</summary><p>ICLR 2026, 29 Pages, 17 Tables, 5 Figures</p></details> |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |

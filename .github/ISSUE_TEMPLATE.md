@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 09, 2026
+title: Latest 15 Papers - March 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,26 +7,27 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Boosting deep Reinforcement Learning using pretraining with Logical Options](https://arxiv.org/abs/2603.06565v1)** | 2026-03-06 |  |
+| **[EgoReasoner: Learning Egocentric 4D Reasoning via Task-Adaptive Structured Thinking](https://arxiv.org/abs/2603.06561v1)** | 2026-03-06 | preprint |
+| **[TIC-GRPO: Provable and Efficient Optimization for Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2508.02833v4)** | 2026-03-06 | 44 pages |
+| **[Contact-Safe Reinforcement Learning with ProMP Reparameterization and Energy Awareness](https://arxiv.org/abs/2511.13459v2)** | 2026-03-06 | 8 pages |
 | **[A Reference Architecture of Reinforcement Learning Frameworks](https://arxiv.org/abs/2603.06413v1)** | 2026-03-06 |  |
 | **[Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion](https://arxiv.org/abs/2603.06397v1)** | 2026-03-06 |  |
+| **[MARLIN: Multi-Agent Reinforcement Learning with Murmuration Intelligence and LLM Guidance for Reservoir Management](https://arxiv.org/abs/2509.25034v4)** | 2026-03-06 | AAMAS'26 |
 | **[OralGPT-Plus: Learning to Use Visual Tools via Reinforcement Learning for Panoramic X-ray Analysis](https://arxiv.org/abs/2603.06366v1)** | 2026-03-06 | <details><summary>34 pa...</summary><p>34 pages, 24 figures, conference</p></details> |
+| **[Whatever Remains Must Be True: Filtering Drives Reasoning in LLMs, Shaping Diversity](https://arxiv.org/abs/2512.05962v2)** | 2026-03-06 | <details><summary>Publi...</summary><p>Published as an ICLR 2026 conference paper</p></details> |
 | **[From Entropy to Calibrated Uncertainty: Training Language Models to Reason About Uncertainty](https://arxiv.org/abs/2603.06317v1)** | 2026-03-06 | <details><summary>4 pag...</summary><p>4 pages, submitted to AISTATS Workshop</p></details> |
+| **[Understanding and Improving Hyperbolic Deep Reinforcement Learning](https://arxiv.org/abs/2512.14202v2)** | 2026-03-06 | <details><summary>ICLR ...</summary><p>ICLR 2026 Camera-ready</p></details> |
+| **[Knowledge Graphs are Implicit Reward Models: Path-Derived Signals Enable Compositional Reasoning](https://arxiv.org/abs/2601.15160v3)** | 2026-03-06 |  |
 | **[Artificial Intelligence for Climate Adaptation: Reinforcement Learning for Climate Change-Resilient Transport](https://arxiv.org/abs/2603.06278v1)** | 2026-03-06 |  |
 | **[Synthetic Monitoring Environments for Reinforcement Learning](https://arxiv.org/abs/2603.06252v1)** | 2026-03-06 |  |
-| **[MAPO: Mixed Advantage Policy Optimization for Long-Horizon Multi-Turn Dialogue](https://arxiv.org/abs/2603.06194v1)** | 2026-03-06 |  |
-| **[Optimizing 3D Diffusion Models for Medical Imaging via Multi-Scale Reward Learning](https://arxiv.org/abs/2603.06173v1)** | 2026-03-06 | Preprint |
-| **[Dual-Agent Multiple-Model Reinforcement Learning for Event-Triggered Human-Robot Co-Adaptation in Decoupled Task Spaces](https://arxiv.org/abs/2603.06163v1)** | 2026-03-06 |  |
-| **[Partial Policy Gradients for RL in LLMs](https://arxiv.org/abs/2603.06138v1)** | 2026-03-06 |  |
-| **[ChatShopBuddy: Towards Reliable Conversational Shopping Agents via Reinforcement Learning](https://arxiv.org/abs/2603.06065v1)** | 2026-03-06 |  |
-| **[Devil is in Narrow Policy: Unleashing Exploration in Driving VLA Models](https://arxiv.org/abs/2603.06049v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted by CVPR2026 findings</p></details> |
-| **[Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models](https://arxiv.org/abs/2603.06043v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[ViewFusion: Structured Spatial Thinking Chains for Multi-View Reasoning](https://arxiv.org/abs/2603.06024v1)** | 2026-03-06 |  |
-| **[TADPO: Reinforcement Learning Goes Off-road](https://arxiv.org/abs/2603.05995v1)** | 2026-03-06 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables. Accepted at ICRA 2026</p></details> |
+| **[SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning](https://arxiv.org/abs/2602.07458v3)** | 2026-03-06 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Polarized Direct Cross-Attention Message Passing in GNNs for Machinery Fault Diagnosis](https://arxiv.org/abs/2603.06303v1)** | 2026-03-06 |  |
+| **[A Geometric Perspective on the Difficulties of Learning GNN-based SAT Solvers](https://arxiv.org/abs/2508.21513v3)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted in the Proceedings track of the GRaM Workshop @ ICLR 2026</p></details> |
 | **[Few-Shot Neural Differentiable Simulator: Real-to-Sim Rigid-Contact Modeling](https://arxiv.org/abs/2603.06218v1)** | 2026-03-06 |  |
 | **[Ensemble Graph Neural Networks for Probabilistic Sea Surface Temperature Forecasting via Input Perturbations](https://arxiv.org/abs/2603.06153v1)** | 2026-03-06 | <details><summary>20 pa...</summary><p>20 pages, 14 figures, 6 tables</p></details> |
 | **[Stochastic Event Prediction via Temporal Motif Transitions](https://arxiv.org/abs/2603.05874v1)** | 2026-03-06 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[GRAND: Guidance, Rebalancing, and Assignment for Networked Dispatch in Multi-Agent Path Finding](https://arxiv.org/abs/2512.03194v3)** | 2026-03-04 |  |
 | **[SGR3 Model: Scene Graph Retrieval-Reasoning Model in 3D](https://arxiv.org/abs/2603.04614v1)** | 2026-03-04 |  |
 | **[An LLM-Guided Query-Aware Inference System for GNN Models on Large Knowledge Graphs](https://arxiv.org/abs/2603.04545v1)** | 2026-03-04 | 14 pages, 11 figures |
-| **[Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks](https://arxiv.org/abs/2603.04209v1)** | 2026-03-04 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |

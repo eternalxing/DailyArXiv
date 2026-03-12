@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 11, 2026
+title: Latest 15 Papers - March 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Critical Training](https://arxiv.org/abs/2603.08706v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project page: https://attention-is-all-i-need.github.io/ACT/</p></details> |
-| **[DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy](https://arxiv.org/abs/2506.20668v2)** | 2026-03-09 | <details><summary>11 pa...</summary><p>11 pages. Published at ICRA 2026</p></details> |
-| **[Tree-based Dialogue Reinforced Policy Optimization for Red-Teaming Attacks](https://arxiv.org/abs/2510.02286v2)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[How Far Can Unsupervised RLVR Scale LLM Training?](https://arxiv.org/abs/2603.08660v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted to the ICLR 2026</p></details> |
-| **[Embedding Classical Balance Control Principles in Reinforcement Learning for Humanoid Recovery](https://arxiv.org/abs/2603.08619v1)** | 2026-03-09 |  |
-| **[Diff-Muscle: Efficient Learning for Musculoskeletal Robotic Table Tennis](https://arxiv.org/abs/2603.08617v1)** | 2026-03-09 | 8 pages, 7 figures |
-| **[Towards Batch-to-Streaming Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/2603.08588v1)** | 2026-03-09 |  |
-| **[MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation](https://arxiv.org/abs/2603.08572v1)** | 2026-03-09 | <details><summary>8 fig...</summary><p>8 figures, https://syt2004.github.io/metaworldX/</p></details> |
-| **[RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback](https://arxiv.org/abs/2603.08561v1)** | 2026-03-09 | 45 pages |
-| **[Impact of Connectivity on Laplacian Representations in Reinforcement Learning](https://arxiv.org/abs/2603.08558v1)** | 2026-03-09 |  |
-| **[Breaking the Bias Barrier in Concave Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2603.08518v1)** | 2026-03-09 |  |
-| **[$π$-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs](https://arxiv.org/abs/2603.02083v2)** | 2026-03-09 |  |
-| **[Oracle-Guided Soft Shielding for Safe Move Prediction in Chess](https://arxiv.org/abs/2603.08506v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted for publication at the 24th International Conference on Machine Learning and Applications (ICMLA), 2025. Preprint version in Arxiv</p></details> |
-| **[Integrating Lagrangian Neural Networks into the Dyna Framework for Reinforcement Learning](https://arxiv.org/abs/2603.08468v1)** | 2026-03-09 | 5 pages, 3 figures |
-| **[Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck](https://arxiv.org/abs/2603.08462v1)** | 2026-03-09 |  |
+| **[ARLBench: Flexible and Efficient Benchmarking for Hyperparameter Optimization in Reinforcement Learning](https://arxiv.org/abs/2409.18827v2)** | 2026-03-10 |  |
+| **[NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning](https://arxiv.org/abs/2510.11542v2)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to the International Conference on Robotics and Automation (2026). 8 pages, 9 figures</p></details> |
+| **[When Learning Rates Go Wrong: Early Structural Signals in PPO Actor-Critic](https://arxiv.org/abs/2603.09950v1)** | 2026-03-10 |  |
+| **[Adversarial Latent-State Training for Robust Policies in Partially Observable Domains](https://arxiv.org/abs/2603.07313v2)** | 2026-03-10 | 25 pages, 3 figures |
+| **[MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers](https://arxiv.org/abs/2504.08999v3)** | 2026-03-10 | 42 pages, 28 figures |
+| **[A Distributional Treatment of Real2Sim2Real for Object-Centric Agent Adaptation in Vision-Driven Deformable Linear Object Manipulation](https://arxiv.org/abs/2502.18615v4)** | 2026-03-10 |  |
+| **[Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts](https://arxiv.org/abs/2603.09890v1)** | 2026-03-10 |  |
+| **[Emerging Extrinsic Dexterity in Cluttered Scenes via Dynamics-aware Policy Learning](https://arxiv.org/abs/2603.09882v1)** | 2026-03-10 | <details><summary>Proje...</summary><p>Project Page: https://pku-epic.github.io/DAPL/</p></details> |
+| **[Improved Robustness of Deep Reinforcement Learning for Control of Time-Varying Systems by Bounded Extremum Seeking](https://arxiv.org/abs/2510.02490v2)** | 2026-03-10 |  |
+| **[RecThinker: An Agentic Framework for Tool-Augmented Reasoning in Recommendation](https://arxiv.org/abs/2603.09843v1)** | 2026-03-10 |  |
+| **[Breaking the Factorization Barrier in Diffusion Language Models](https://arxiv.org/abs/2603.00045v2)** | 2026-03-10 |  |
+| **[Good Reasoning Makes Good Demonstrations: Implicit Reasoning Quality Supervision via In-Context Reinforcement Learning](https://arxiv.org/abs/2603.09803v1)** | 2026-03-10 |  |
+| **[Stepwise Guided Policy Optimization: Coloring your Incorrect Reasoning in GRPO](https://arxiv.org/abs/2505.11595v5)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted by TMLR; 47 pages</p></details> |
+| **[UniBYD: A Unified Framework for Learning Robotic Manipulation Across Embodiments Beyond Imitation of Human Demonstrations](https://arxiv.org/abs/2512.11609v2)** | 2026-03-10 |  |
+| **[Dynamic Vehicle Routing Problem with Prompt Confirmation of Advance Requests](https://arxiv.org/abs/2603.07422v2)** | 2026-03-10 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GNNs for Time Series Anomaly Detection: An Open-Source Framework and a Critical Evaluation](https://arxiv.org/abs/2603.09675v1)** | 2026-03-10 |  |
+| **[Provable Filter for Real-world Graph Clustering](https://arxiv.org/abs/2403.03666v2)** | 2026-03-10 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, accepted by IEEE Cybernetics</p></details> |
+| **[Molecular Fingerprints Are Strong Models for Peptide Function Prediction](https://arxiv.org/abs/2501.17901v3)** | 2026-03-10 |  |
+| **[Automatic Paper Reviewing with Heterogeneous Graph Reasoning over LLM-Simulated Reviewer-Author Debates](https://arxiv.org/abs/2511.08317v2)** | 2026-03-10 |  |
+| **[CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://arxiv.org/abs/2603.09418v1)** | 2026-03-10 | <details><summary>The p...</summary><p>The paper is accepted by CVPR 2026</p></details> |
+| **[Morphological-Symmetry-Equivariant Heterogeneous Graph Neural Network for Robotic Dynamics Learning](https://arxiv.org/abs/2412.01297v3)** | 2026-03-10 |  |
+| **[Multimodal Graph Representation Learning with Dynamic Information Pathways](https://arxiv.org/abs/2603.09258v1)** | 2026-03-10 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 6 tables</p></details> |
+| **[Enhancing Heterogeneous Multi-Agent Cooperation in Decentralized MARL via GNN-driven Intrinsic Rewards](https://arxiv.org/abs/2408.06503v3)** | 2026-03-10 | <details><summary>Full ...</summary><p>Full paper version for AAMAS 2025, 9 pages, 5 figures</p></details> |
+| **[RF-Informed Graph Neural Networks for Accurate and Data-Efficient Circuit Performance Prediction](https://arxiv.org/abs/2508.16403v2)** | 2026-03-10 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[$P^2$GNN: Two Prototype Sets to boost GNN Performance](https://arxiv.org/abs/2603.09195v1)** | 2026-03-10 |  |
+| **[MolCrystalFlow: Molecular Crystal Structure Prediction via Flow Matching](https://arxiv.org/abs/2602.16020v3)** | 2026-03-09 | <details><summary>20 pa...</summary><p>20 pages, 4 figures. 14 pages in SI. Code: https://github.com/Liu-Group-UF/MolCrystalFlow</p></details> |
+| **[Scalable Message Passing Neural Networks: No Need for Attention in Large Graph Representation Learning](https://arxiv.org/abs/2411.00835v2)** | 2026-03-09 |  |
 | **[Characterization and upgrade of a quantum graph neural network for charged particle tracking](https://arxiv.org/abs/2603.08667v1)** | 2026-03-09 | <details><summary>16 to...</summary><p>16 total pages, 15 figures</p></details> |
 | **[The Role of Feature Interactions in Graph-based Tabular Deep Learning](https://arxiv.org/abs/2510.04543v2)** | 2026-03-09 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, accepted at TMLR 2026</p></details> |
 | **[mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud](https://arxiv.org/abs/2603.08551v1)** | 2026-03-09 | <details><summary>copyr...</summary><p>copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[PCFEx: Point Cloud Feature Extraction for Graph Neural Networks](https://arxiv.org/abs/2603.08540v1)** | 2026-03-09 | <details><summary>©2026...</summary><p>©2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[AULLM++: Structural Reasoning with Large Language Models for Micro-Expression Recognition](https://arxiv.org/abs/2603.08387v1)** | 2026-03-09 |  |
-| **[SCL-GNN: Towards Generalizable Graph Neural Networks via Spurious Correlation Learning](https://arxiv.org/abs/2603.08270v1)** | 2026-03-09 |  |
-| **[ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion](https://arxiv.org/abs/2504.15920v6)** | 2026-03-09 |  |
-| **[Graph Neural Model Predictive Control for High-Dimensional Systems](https://arxiv.org/abs/2602.17601v2)** | 2026-03-09 |  |
-| **[Rel-MOSS: Towards Imbalanced Relational Deep Learning on Relational Databases](https://arxiv.org/abs/2603.07916v1)** | 2026-03-09 |  |
-| **[Robustness Verification of Graph Neural Networks Via Lightweight Satisfiability Testing](https://arxiv.org/abs/2510.18591v2)** | 2026-03-08 |  |
-| **[PhysDrape: Learning Explicit Forces and Collision Constraints for Physically Realistic Garment Draping](https://arxiv.org/abs/2602.08020v2)** | 2026-03-08 |  |
-| **[Learning the APT Kill Chain: Temporal Reasoning over Provenance Data for Attack Stage Estimation](https://arxiv.org/abs/2603.07560v1)** | 2026-03-08 |  |
-| **[Compose by Focus: Scene Graph-based Atomic Skills](https://arxiv.org/abs/2509.16053v2)** | 2026-03-08 | <details><summary>Accep...</summary><p>Acceptance to ICRA 2026. Website: https://computationalrobotics.seas.harvard.edu/SkillComposition/</p></details> |
-| **[Learning to Rank the Initial Branching Order of SAT Solvers](https://arxiv.org/abs/2603.07176v1)** | 2026-03-07 | <details><summary>Publi...</summary><p>Published at VerifAI-2: The Second Workshop on AI Verification in the Wild</p></details> |
-| **[Not All Neighbors Matter: Understanding the Impact of Graph Sparsification on GNN Pipelines](https://arxiv.org/abs/2603.06952v1)** | 2026-03-07 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |

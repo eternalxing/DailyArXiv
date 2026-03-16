@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 15, 2026
+title: Latest 15 Papers - March 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning](https://arxiv.org/abs/2603.12257v1)** | 2026-03-12 | <details><summary>Proje...</summary><p>Project Page: https://dreamvideo-omni.github.io</p></details> |
-| **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
-| **[Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation](https://arxiv.org/abs/2603.12247v1)** | 2026-03-12 |  |
-| **[Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training](https://arxiv.org/abs/2603.12246v1)** | 2026-03-12 |  |
-| **[Separable neural architectures as a primitive for unified predictive and generative intelligence](https://arxiv.org/abs/2603.12244v1)** | 2026-03-12 |  |
-| **[HandelBot: Real-World Piano Playing via Fast Adaptation of Dexterous Robot Policies](https://arxiv.org/abs/2603.12243v1)** | 2026-03-12 | <details><summary>Websi...</summary><p>Website: https://amberxie88.github.io/handelbot</p></details> |
-| **[LatentGeo: Learnable Auxiliary Constructions in Latent Space for Multimodal Geometric Reasoning](https://arxiv.org/abs/2603.12166v1)** | 2026-03-12 |  |
-| **[IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL](https://arxiv.org/abs/2603.12151v1)** | 2026-03-12 | <details><summary>29 pa...</summary><p>29 pages, 27 figures. Under review</p></details> |
-| **[Linking Perception, Confidence and Accuracy in MLLMs](https://arxiv.org/abs/2603.12149v1)** | 2026-03-12 | Accepted by CVPR2026 |
-| **[Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145v1)** | 2026-03-12 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 8 tables</p></details> |
-| **[Increasing intelligence in AI agents can worsen collective outcomes](https://arxiv.org/abs/2603.12129v1)** | 2026-03-12 |  |
-| **[WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2602.04634v3)** | 2026-03-12 | <details><summary>https...</summary><p>https://wideseek-r1.github.io/</p></details> |
-| **[Taming the Adversary: Stable Minimax Deep Deterministic Policy Gradient via Fractional Objectives](https://arxiv.org/abs/2603.12110v1)** | 2026-03-12 |  |
-| **[On Information Self-Locking in Reinforcement Learning for Active Reasoning of LLM agents](https://arxiv.org/abs/2603.12109v1)** | 2026-03-12 |  |
-| **[A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control](https://arxiv.org/abs/2603.12096v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 4 tables, 8 figures. Under review in the 31st ITS World Congress 2026</p></details> |
+| **[Optimistically Optimistic Exploration for Provably Efficient Infinite-Horizon Reinforcement and Imitation Learning](https://arxiv.org/abs/2502.13900v3)** | 2026-03-13 |  |
+| **[Accelerating Residual Reinforcement Learning with Uncertainty Estimation](https://arxiv.org/abs/2506.17564v2)** | 2026-03-13 |  |
+| **[SegDAC: Visual Generalization in Reinforcement Learning via Dynamic Object Tokens](https://arxiv.org/abs/2508.09325v4)** | 2026-03-13 | 12 pages |
+| **[DriveMind: A Dual Visual Language Model-based Reinforcement Learning Framework for Autonomous Driving](https://arxiv.org/abs/2506.00819v2)** | 2026-03-13 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Intelligent Vehicles (T-IV)</p></details> |
+| **[Topo-R1: Detecting Topological Anomalies via Vision-Language Models](https://arxiv.org/abs/2603.13054v1)** | 2026-03-13 | 28 pages, 6 figures |
+| **[Mending the Holes: Mitigating Reward Hacking in Reinforcement Learning for Multilingual Translation](https://arxiv.org/abs/2603.13045v1)** | 2026-03-13 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/LeiLiLab/WALAR</p></details> |
+| **[PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026v1)** | 2026-03-13 | 26 pages, 3 figures |
+| **[ARL-Tangram: Unleash the Resource Efficiency in Agentic Reinforcement Learning](https://arxiv.org/abs/2603.13019v1)** | 2026-03-13 |  |
+| **[VideoTemp-o3: Harmonizing Temporal Grounding and Video Understanding in Agentic Thinking-with-Videos](https://arxiv.org/abs/2602.07801v3)** | 2026-03-13 |  |
+| **[Long-form RewardBench: Evaluating Reward Models for Long-form Generation](https://arxiv.org/abs/2603.12963v1)** | 2026-03-13 | Accepted by AAAI2026 |
+| **[Efficient Real-World Autonomous Racing via Attenuated Residual Policy Optimization](https://arxiv.org/abs/2603.12960v1)** | 2026-03-13 |  |
+| **[Thinking in Streaming Video](https://arxiv.org/abs/2603.12938v1)** | 2026-03-13 |  |
+| **[CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks](https://arxiv.org/abs/2508.11360v2)** | 2026-03-13 |  |
+| **[Finite Difference Flow Optimization for RL Post-Training of Text-to-Image Models](https://arxiv.org/abs/2603.12893v1)** | 2026-03-13 | <details><summary>Code ...</summary><p>Code available at https://github.com/NVlabs/finite-difference-flow-optimization</p></details> |
+| **[Enhanced Drug-drug Interaction Prediction Using Adaptive Knowledge Integration](https://arxiv.org/abs/2603.12885v1)** | 2026-03-13 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CCMamba: Topologically-Informed Selective State-Space Networks on Combinatorial Complexes for Higher-Order Graph Learning](https://arxiv.org/abs/2601.20518v2)** | 2026-03-13 |  |
+| **[Goal-Oriented Learning at the Edge: Graph Neural Networks Over-the-Air for Blockage Prediction](https://arxiv.org/abs/2603.13094v1)** | 2026-03-13 |  |
+| **[Association-Aware GNN for Precoder Learning in Cell-Free Systems](https://arxiv.org/abs/2603.13035v1)** | 2026-03-13 |  |
+| **[Transferable Graph Learning for Transmission Congestion Management via Busbar Splitting](https://arxiv.org/abs/2510.20591v2)** | 2026-03-13 |  |
+| **[On the Geometric Coherence of Global Aggregation in Federated Graph Neural Networks](https://arxiv.org/abs/2602.15510v2)** | 2026-03-13 | <details><summary>This ...</summary><p>This is a developing preprint of an 18-page journal manuscript (6 figures), currently being prepared for formal peer-review submission</p></details> |
+| **[Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?](https://arxiv.org/abs/2505.16736v2)** | 2026-03-13 |  |
+| **[Lyapunov Stable Graph Neural Flow](https://arxiv.org/abs/2603.12557v1)** | 2026-03-13 |  |
+| **[What Are Good Positional Encodings for Directed Graphs?](https://arxiv.org/abs/2407.20912v3)** | 2026-03-12 |  |
+| **[GNN-DIP: Neural Corridor Selection for Decomposition-Based Motion Planning](https://arxiv.org/abs/2603.12361v1)** | 2026-03-12 |  |
+| **[Spatial PDE-aware Selective State-space with Nested Memory for Mobile Traffic Grid Forecasting](https://arxiv.org/abs/2603.12353v1)** | 2026-03-12 |  |
 | **[AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v1)** | 2026-03-12 |  |
 | **[Effective Resistance Rewiring: A Simple Topological Correction for Over-Squashing](https://arxiv.org/abs/2603.11944v1)** | 2026-03-12 |  |
 | **[RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset](https://arxiv.org/abs/2603.11811v1)** | 2026-03-12 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
 | **[Enhancing Heterogeneous Multi-Agent Cooperation in Decentralized MARL via GNN-driven Intrinsic Rewards](https://arxiv.org/abs/2408.06503v4)** | 2026-03-12 | <details><summary>Full ...</summary><p>Full paper version for AAMAS 2025 (https://ifaamas.org/Proceedings/aamas2025/pdfs/p2681.pdf), 9 pages, 5 figures</p></details> |
 | **[Federated Learning-driven Beam Management in LEO 6G Non-Terrestrial Networks](https://arxiv.org/abs/2603.10983v1)** | 2026-03-11 | <details><summary>2 pag...</summary><p>2 pages with 2 figures and 1 table. Accepted in 2026 International Applied Computational Electromagnetics Society (ACES) Symposium</p></details> |
-| **[Resource Allocation in Hybrid Radio-Optical IoT Networks using GNN with Multi-task Learning](https://arxiv.org/abs/2511.07428v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted for publications in IEEE Transactions on Machine Learning in Communications and Networking (TMLCN) 20 pages, 17 figures, 3 tables</p></details> |
-| **[Maximum entropy temporal networks](https://arxiv.org/abs/2509.02098v5)** | 2026-03-11 | 7 pages, 4 figures |
-| **[Towards Intelligent Spectrum Management: Spectrum Demand Estimation Using Graph Neural Networks](https://arxiv.org/abs/2603.10802v1)** | 2026-03-11 | <details><summary>13 pa...</summary><p>13 pages, 10 figures. Submitted to IEEE Transactions on Machine Learning in Communications and Networking</p></details> |
-| **[Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems](https://arxiv.org/abs/2602.18419v2)** | 2026-03-11 |  |
-| **[Spatio-Temporal Attention Graph Neural Network: Explaining Causalities With Attention](https://arxiv.org/abs/2603.10676v1)** | 2026-03-11 | 33 pages, 7 figures |
-| **[Graph Tokenization for Bridging Graphs and Transformers](https://arxiv.org/abs/2603.11099v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted as a poster at ICLR 2026. Code is available at https://github.com/BUPT-GAMMA/Graph-Tokenization-for-Bridging-Graphs-and-Transformers</p></details> |
-| **[SCORE: Replacing Layer Stacking with Contractive Recurrent Depth](https://arxiv.org/abs/2603.10544v1)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages, 21 figures, 12 tableaux</p></details> |
-| **[GaLoRA: Parameter-Efficient Graph-Aware LLMs for Node Classification](https://arxiv.org/abs/2603.10298v1)** | 2026-03-11 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 11 tables, 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop</p></details> |
-| **[Estimating condition number with Graph Neural Networks](https://arxiv.org/abs/2603.10277v1)** | 2026-03-10 |  |
-| **[Octopus-inspired Distributed Control for Soft Robotic Arms: A Graph Neural Network-Based Attention Policy with Environmental Interaction](https://arxiv.org/abs/2603.10198v1)** | 2026-03-10 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables, submitted for IROS 2026</p></details> |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |

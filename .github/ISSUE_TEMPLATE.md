@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 05, 2026
+title: Latest 15 Papers - April 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Referring Expressions: Scenario Comprehension Visual Grounding](https://arxiv.org/abs/2604.02323v1)** | 2026-04-02 | <details><summary>20 pa...</summary><p>20 pages, 18 figures, Project Page: https://catherine-r-he.github.io/RSC/</p></details> |
-| **[Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing](https://arxiv.org/abs/2604.02288v1)** | 2026-04-02 |  |
-| **[CIVIC: Cooperative Immersion Via Intelligent Credit-sharing in DRL-Powered Metaverse](https://arxiv.org/abs/2604.02284v1)** | 2026-04-02 | <details><summary>Journ...</summary><p>Journal submission; 19 pages; 9 figures</p></details> |
-| **[SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization](https://arxiv.org/abs/2604.02268v1)** | 2026-04-02 |  |
-| **[Model-Based Reinforcement Learning for Control under Time-Varying Dynamics](https://arxiv.org/abs/2604.02260v1)** | 2026-04-02 | <details><summary>15 pa...</summary><p>15 pages, 5 figues, 2 tables. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[One Sample to Rule Them All: Extreme Data Efficiency in Multidiscipline Reasoning with Reinforcement Learning](https://arxiv.org/abs/2601.03111v2)** | 2026-04-02 |  |
-| **[Reflection of Episodes: Learning to Play Game from Expert and Self Experiences](https://arxiv.org/abs/2502.13388v2)** | 2026-04-02 |  |
-| **[When to ASK: Uncertainty-Gated Language Assistance for Reinforcement Learning](https://arxiv.org/abs/2604.02226v1)** | 2026-04-02 | <details><summary>In Pr...</summary><p>In Proceedings of International Joint Conference on Neural Networks (IJCNN)</p></details> |
-| **[Planning in Branch-and-Bound: Model-Based Reinforcement Learning for Exact Combinatorial Optimization](https://arxiv.org/abs/2511.09219v4)** | 2026-04-02 |  |
-| **[Unsupervised Behavioral Compression: Learning Low-Dimensional Policy Manifolds through State-Occupancy Matching](https://arxiv.org/abs/2603.27044v2)** | 2026-04-02 |  |
-| **[Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges](https://arxiv.org/abs/2604.02211v1)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted for publication in The Nineteenth ACM International Conference on Web Search and Data Mining (WSDM Companion 2026)</p></details> |
-| **[Olaf: Bringing an Animated Character to Life in the Physical World](https://arxiv.org/abs/2512.16705v2)** | 2026-04-02 |  |
-| **[Learning to Play Blackjack: A Curriculum Learning Perspective](https://arxiv.org/abs/2604.00076v2)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted as an oral presentation at the International Conference on Distributed Artificial Intelligence (DAI 2025). 16 pages, 7 figures</p></details> |
-| **[Auction-Based Online Policy Adaptation for Evolving Objectives](https://arxiv.org/abs/2604.02151v1)** | 2026-04-02 | 17 pages, 6 figures |
-| **[Optimizing RAG Rerankers with LLM Feedback via Reinforcement Learning](https://arxiv.org/abs/2604.02091v1)** | 2026-04-02 | 16 pages |
+| **[Local Reinforcement Learning with Action-Conditioned Root Mean Squared Q-Functions](https://arxiv.org/abs/2510.06649v2)** | 2026-04-03 | 18 pages, 11 figures |
+| **[Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models](https://arxiv.org/abs/2604.03179v1)** | 2026-04-03 | CVPR 2026 |
+| **[Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models](https://arxiv.org/abs/2604.03157v1)** | 2026-04-03 | <details><summary>In Pr...</summary><p>In Proceedings of the 32nd ACM-SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</p></details> |
+| **[FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation](https://arxiv.org/abs/2604.03139v1)** | 2026-04-03 |  |
+| **[Self-Distilled RLVR](https://arxiv.org/abs/2604.03128v1)** | 2026-04-03 | Work in progress |
+| **[Unified Thinker: A General Reasoning Modular Core for Image Generation](https://arxiv.org/abs/2601.03127v2)** | 2026-04-03 |  |
+| **[JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency](https://arxiv.org/abs/2604.03044v1)** | 2026-04-03 | <details><summary>Xiaod...</summary><p>Xiaodong He is the corresponding author</p></details> |
+| **[ARM: Advantage Reward Modeling for Long-Horizon Manipulation](https://arxiv.org/abs/2604.03037v1)** | 2026-04-03 |  |
+| **[Behavior-Constrained Reinforcement Learning with Receding-Horizon Credit Assignment for High-Performance Control](https://arxiv.org/abs/2604.03023v1)** | 2026-04-03 |  |
+| **[When RL Meets Adaptive Speculative Training: A Unified Training-Serving System](https://arxiv.org/abs/2602.06932v2)** | 2026-04-03 |  |
+| **[Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning](https://arxiv.org/abs/2511.14617v3)** | 2026-04-03 |  |
+| **[R2-Write: Reflection and Revision for Open-Ended Writing with Deep Reasoning](https://arxiv.org/abs/2604.03004v1)** | 2026-04-03 | 31 pages |
+| **[A semicontinuous relaxation of Saito's criterion and freeness as angular minimization](https://arxiv.org/abs/2604.02995v1)** | 2026-04-03 | <details><summary>This ...</summary><p>This manuscript is a working paper, and an updated version will be posted later. 26 pages</p></details> |
+| **[Mitigating Reward Hacking in RLHF via Advantage Sign Robustness](https://arxiv.org/abs/2604.02986v1)** | 2026-04-03 | 27 pages, 7 figures |
+| **[Agentic Link Construction for Environment and Intent Aware 6G Communication](https://arxiv.org/abs/2511.05094v2)** | 2026-04-03 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DSBD: Dual-Aligned Structural Basis Distillation for Graph Domain Adaptation](https://arxiv.org/abs/2604.03154v1)** | 2026-04-03 |  |
+| **[Communication-free Sampling and 4D Hybrid Parallelism for Scalable Mini-batch GNN Training](https://arxiv.org/abs/2604.02651v1)** | 2026-04-03 |  |
+| **[ChronoSpike: An Adaptive Spiking Graph Neural Network for Dynamic Graphs](https://arxiv.org/abs/2602.01124v2)** | 2026-04-03 |  |
+| **[Analytic Drift Resister for Non-Exemplar Continual Graph Learning](https://arxiv.org/abs/2604.02633v1)** | 2026-04-03 |  |
+| **[Complex-Valued GNNs for Distributed Basis-Invariant Control of Planar Systems](https://arxiv.org/abs/2604.02615v1)** | 2026-04-03 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, submitted to CDC 2026 main track</p></details> |
 | **[Crystalite: A Lightweight Transformer for Efficient Crystal Modeling](https://arxiv.org/abs/2604.02270v1)** | 2026-04-02 | <details><summary>39 pa...</summary><p>39 pages, 13 figures. Code available at: https://github.com/joshrosie/crystalite</p></details> |
 | **[Cross-attentive Cohesive Subgraph Embedding to Mitigate Oversquashing in GNNs](https://arxiv.org/abs/2603.27529v3)** | 2026-04-02 |  |
 | **[Physics Informed Reinforcement Learning with Gibbs Priors for Topology Control in Power Grids](https://arxiv.org/abs/2604.01830v1)** | 2026-04-02 |  |
@@ -36,11 +41,6 @@ labels: documentation
 | **[BN-Pool: Bayesian Nonparametric Pooling for Graphs](https://arxiv.org/abs/2501.09821v2)** | 2026-04-01 |  |
 | **[Generalization Bounds for Spectral GNNs via Fourier Domain Analysis](https://arxiv.org/abs/2604.00918v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted to AISTATS 2026</p></details> |
 | **[Can We Go Beyond Visual Features? Neural Tissue Relation Modeling for Relational Graph Analysis in Non-Melanoma Skin Histology](https://arxiv.org/abs/2512.06949v2)** | 2026-04-01 | CVPR 2026 Workshops |
-| **[WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](https://arxiv.org/abs/2505.08614v5)** | 2026-04-01 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 7 tables</p></details> |
-| **[Predicting Dynamics of Ultra-Large Complex Systems by Inferring Governing Equations](https://arxiv.org/abs/2604.00599v1)** | 2026-04-01 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, under review</p></details> |
-| **[Dynamic Graph Neural Network with Adaptive Features Selection for RGB-D Based Indoor Scene Recognition](https://arxiv.org/abs/2604.00372v1)** | 2026-04-01 |  |
-| **[Is One Token All It Takes? Graph Pooling Tokens for LLM-based GraphQA](https://arxiv.org/abs/2604.00342v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at LREC, KG-LLM Workshop 2026</p></details> |
-| **[A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware](https://arxiv.org/abs/2306.14052v2)** | 2026-03-31 |  |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |

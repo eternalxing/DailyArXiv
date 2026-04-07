@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 06, 2026
+title: Latest 15 Papers - April 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,26 +7,28 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Local Reinforcement Learning with Action-Conditioned Root Mean Squared Q-Functions](https://arxiv.org/abs/2510.06649v2)** | 2026-04-03 | 18 pages, 11 figures |
-| **[Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models](https://arxiv.org/abs/2604.03179v1)** | 2026-04-03 | CVPR 2026 |
-| **[Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models](https://arxiv.org/abs/2604.03157v1)** | 2026-04-03 | <details><summary>In Pr...</summary><p>In Proceedings of the 32nd ACM-SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</p></details> |
-| **[FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation](https://arxiv.org/abs/2604.03139v1)** | 2026-04-03 |  |
-| **[Self-Distilled RLVR](https://arxiv.org/abs/2604.03128v1)** | 2026-04-03 | Work in progress |
-| **[Unified Thinker: A General Reasoning Modular Core for Image Generation](https://arxiv.org/abs/2601.03127v2)** | 2026-04-03 |  |
-| **[JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency](https://arxiv.org/abs/2604.03044v1)** | 2026-04-03 | <details><summary>Xiaod...</summary><p>Xiaodong He is the corresponding author</p></details> |
-| **[ARM: Advantage Reward Modeling for Long-Horizon Manipulation](https://arxiv.org/abs/2604.03037v1)** | 2026-04-03 |  |
-| **[Behavior-Constrained Reinforcement Learning with Receding-Horizon Credit Assignment for High-Performance Control](https://arxiv.org/abs/2604.03023v1)** | 2026-04-03 |  |
-| **[When RL Meets Adaptive Speculative Training: A Unified Training-Serving System](https://arxiv.org/abs/2602.06932v2)** | 2026-04-03 |  |
-| **[Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning](https://arxiv.org/abs/2511.14617v3)** | 2026-04-03 |  |
-| **[R2-Write: Reflection and Revision for Open-Ended Writing with Deep Reasoning](https://arxiv.org/abs/2604.03004v1)** | 2026-04-03 | 31 pages |
-| **[A semicontinuous relaxation of Saito's criterion and freeness as angular minimization](https://arxiv.org/abs/2604.02995v1)** | 2026-04-03 | <details><summary>This ...</summary><p>This manuscript is a working paper, and an updated version will be posted later. 26 pages</p></details> |
-| **[Mitigating Reward Hacking in RLHF via Advantage Sign Robustness](https://arxiv.org/abs/2604.02986v1)** | 2026-04-03 | 27 pages, 7 figures |
-| **[Agentic Link Construction for Environment and Intent Aware 6G Communication](https://arxiv.org/abs/2511.05094v2)** | 2026-04-03 |  |
+| **[Comparative reversal learning reveals rigid adaptation in LLMs under non-stationary uncertainty](https://arxiv.org/abs/2604.04182v1)** | 2026-04-05 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, accepted by IPMU 2026, SS04: Explainable AI and Decision-Making Under Uncertainty: Bridging Interpretability and Robustness</p></details> |
+| **[Scaling the Scaling Logic: Agentic Meta-Synthesis of Logic Reasoning](https://arxiv.org/abs/2602.13218v2)** | 2026-04-05 | <details><summary>41 pa...</summary><p>41 pages, 8 figures, 5 tables in the main body. Project page: https://github.com/AdAstraAbyssoque/Scaling-the-Scaling-Logic, typos corrected, claims cleared</p></details> |
+| **[Causal Process Models: Reframing Dynamic Causal Graph Discovery as a Reinforcement Learning Problem](https://arxiv.org/abs/2507.13920v2)** | 2026-04-05 |  |
+| **[Learning Dexterous Grasping from Sparse Taxonomy Guidance](https://arxiv.org/abs/2604.04138v1)** | 2026-04-05 |  |
+| **[Restless Bandits with Individual Penalty Constraints: A New Near-Optimal Index Policy and How to Learn It](https://arxiv.org/abs/2604.04101v1)** | 2026-04-05 |  |
+| **[Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization](https://arxiv.org/abs/2604.04090v1)** | 2026-04-05 |  |
+| **[CellFluxRL: Biologically-Constrained Virtual Cell Modeling via Reinforcement Learning](https://arxiv.org/abs/2603.21743v3)** | 2026-04-05 |  |
+| **[VA-FastNavi-MARL: Real-Time Robot Control with Multimedia-Driven Meta-Reinforcement Learning](https://arxiv.org/abs/2604.03998v1)** | 2026-04-05 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE International Conference on Multimedia and Expo (ICME 2026)</p></details> |
+| **[Can LLMs Learn to Reason Robustly under Noisy Supervision?](https://arxiv.org/abs/2604.03993v1)** | 2026-04-05 |  |
+| **[RL unknotter, hard unknots and unknotting number](https://arxiv.org/abs/2603.07955v2)** | 2026-04-05 | <details><summary>18 pa...</summary><p>18 pages, many figures, comments welcome</p></details> |
+| **[Reflection of Episodes: Learning to Play Game from Expert and Self Experiences](https://arxiv.org/abs/2502.13388v3)** | 2026-04-05 |  |
+| **[Provable Multi-Task Reinforcement Learning: A Representation Learning Framework with Low Rank Rewards](https://arxiv.org/abs/2604.03891v1)** | 2026-04-04 |  |
+| **[A Multi-Agent Reinforcement Learning Framework for Public Health Decision Analysis](https://arxiv.org/abs/2311.00855v3)** | 2026-04-04 | <details><summary>Updat...</summary><p>Updated to the accepted version published in Healthcare Analytics (November 2025)</p></details> |
+| **[Disentangled World Models: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning](https://arxiv.org/abs/2503.08751v3)** | 2026-04-04 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025. Project page: https://qiwang067.github.io/diswm</p></details> |
+| **[Decomposing Communication Gain and Delay Cost Under Cross-Timestep Delays in Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2604.03785v1)** | 2026-04-04 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[k-Maximum Inner Product Attention for Graph Transformers and the Expressive Power of GraphGPS The Expressive Power of GraphGPS](https://arxiv.org/abs/2604.03815v1)** | 2026-04-04 | <details><summary>Accep...</summary><p>Accepted at the ICLR 2026 GRaM Workshop. 9 pages, 9 figures, 16 tables; 30 pages of supplementary material</p></details> |
 | **[DSBD: Dual-Aligned Structural Basis Distillation for Graph Domain Adaptation](https://arxiv.org/abs/2604.03154v1)** | 2026-04-03 |  |
+| **[Towards Intelligent Energy Security: A Unified Spatio-Temporal and Graph Learning Framework for Scalable Electricity Theft Detection in Smart Grids](https://arxiv.org/abs/2604.03344v1)** | 2026-04-03 | 26 pages, 9 figures |
 | **[Communication-free Sampling and 4D Hybrid Parallelism for Scalable Mini-batch GNN Training](https://arxiv.org/abs/2604.02651v1)** | 2026-04-03 |  |
 | **[ChronoSpike: An Adaptive Spiking Graph Neural Network for Dynamic Graphs](https://arxiv.org/abs/2602.01124v2)** | 2026-04-03 |  |
 | **[Analytic Drift Resister for Non-Exemplar Continual Graph Learning](https://arxiv.org/abs/2604.02633v1)** | 2026-04-03 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[A Review of Neural Networks in Precipitation Prediction](https://arxiv.org/abs/2510.22855v2)** | 2026-04-01 |  |
 | **[EmbedPart: Embedding-Driven Graph Partitioning for Scalable Graph Neural Network Training](https://arxiv.org/abs/2604.01000v1)** | 2026-04-01 |  |
 | **[BN-Pool: Bayesian Nonparametric Pooling for Graphs](https://arxiv.org/abs/2501.09821v2)** | 2026-04-01 |  |
-| **[Generalization Bounds for Spectral GNNs via Fourier Domain Analysis](https://arxiv.org/abs/2604.00918v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted to AISTATS 2026</p></details> |
-| **[Can We Go Beyond Visual Features? Neural Tissue Relation Modeling for Relational Graph Analysis in Non-Melanoma Skin Histology](https://arxiv.org/abs/2512.06949v2)** | 2026-04-01 | CVPR 2026 Workshops |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |

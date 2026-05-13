@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 12, 2026
+title: Latest 15 Papers - May 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models](https://arxiv.org/abs/2604.08545v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project Page: https://Accio-Lab.github.io/Metis</p></details> |
-| **[OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks](https://arxiv.org/abs/2604.08539v1)** | 2026-04-09 | <details><summary>code ...</summary><p>code at: https://github.com/uclanlp/openvlthinker</p></details> |
-| **[Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest](https://arxiv.org/abs/2604.08525v1)** | 2026-04-09 |  |
-| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
-| **[Constrained Policy Optimization with Cantelli-Bounded Value-at-Risk](https://arxiv.org/abs/2601.22993v2)** | 2026-04-09 |  |
-| **[SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions](https://arxiv.org/abs/2604.08477v1)** | 2026-04-09 | 23 Pages, 4 figures |
-| **[Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization](https://arxiv.org/abs/2604.08476v1)** | 2026-04-09 |  |
-| **[LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation](https://arxiv.org/abs/2604.08475v1)** | 2026-04-09 |  |
-| **[TTVS: Boosting Self-Exploring Reinforcement Learning via Test-time Variational Synthesis](https://arxiv.org/abs/2604.08468v1)** | 2026-04-09 |  |
-| **[Less Approximates More: Harmonizing Performance and Confidence Faithfulness via Hybrid Post-Training for High-Stakes Tasks](https://arxiv.org/abs/2604.08454v1)** | 2026-04-09 |  |
-| **[NL-CPS: Reinforcement Learning-Based Kubernetes Control Plane Placement in Multi-Region Clusters](https://arxiv.org/abs/2604.08434v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted to be published in the 10th IEEE International Conference on Fog and Edge Computing</p></details> |
-| **[Towards Hierarchical Multi-Step Reward Models for Enhanced Reasoning in Large Language Models](https://arxiv.org/abs/2503.13551v5)** | 2026-04-09 |  |
-| **[Synthetic Data for any Differentiable Target](https://arxiv.org/abs/2604.08423v1)** | 2026-04-09 |  |
-| **[Drift-Based Policy Optimization: Native One-Step Policy Learning for Online Robot Control](https://arxiv.org/abs/2604.03540v2)** | 2026-04-09 |  |
-| **[ASPECT:Analogical Semantic Policy Execution via Language Conditioned Transfer](https://arxiv.org/abs/2604.08355v1)** | 2026-04-09 |  |
+| **[High-lift Wing Separation Control via Bayesian Optimization and Deep Reinforcement Learning](https://arxiv.org/abs/2605.11981v1)** | 2026-05-12 |  |
+| **[On Predicting the Post-training Potential of Pre-trained LLMs](https://arxiv.org/abs/2605.11978v1)** | 2026-05-12 | Under Review |
+| **[Stochastic Minimum-Cost Reach-Avoid Reinforcement Learning](https://arxiv.org/abs/2605.11975v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at the Forty-third International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization](https://arxiv.org/abs/2605.11974v1)** | 2026-05-12 |  |
+| **[When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents](https://arxiv.org/abs/2605.11928v1)** | 2026-05-12 | <details><summary>Datas...</summary><p>Dataset, code, and benchmark leaderboard are available at https://github.com/WillChow66/robustbench-tc-release.git and https://huggingface.co/spaces/willchow66/robustbench-tc-leaderboard</p></details> |
+| **[RL-SPH: Learning to Achieve Feasible Solutions for Integer Linear Programs](https://arxiv.org/abs/2411.19517v7)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. 30 pages, 12 figures, 22 tables</p></details> |
+| **[StepCodeReasoner: Aligning Code Reasoning with Stepwise Execution Traces via Reinforcement Learning](https://arxiv.org/abs/2605.11922v1)** | 2026-05-12 |  |
+| **[Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning](https://arxiv.org/abs/2605.06130v3)** | 2026-05-12 |  |
+| **[UGround: Towards Unified Visual Grounding with Unrolled Transformers](https://arxiv.org/abs/2510.03853v4)** | 2026-05-12 | <details><summary>This ...</summary><p>This work has been accepted to ICML 2026, please refer to https://github.com/rui-qian/UGround</p></details> |
+| **[LEAPS: An LLM-Empowered Adaptive Plugin in Taobao AI Search](https://arxiv.org/abs/2601.05513v2)** | 2026-05-12 |  |
+| **[Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models](https://arxiv.org/abs/2605.11887v1)** | 2026-05-12 |  |
+| **[Adaptive TD-Lambda for Cooperative Multi-agent Reinforcement Learning](https://arxiv.org/abs/2605.11880v1)** | 2026-05-12 |  |
+| **[RecRM-Bench: Benchmarking Multidimensional Reward Modeling for Agentic Recommender Systems](https://arxiv.org/abs/2605.11874v1)** | 2026-05-12 |  |
+| **[Constraint-Aware Diffusion Priors for High-Fidelity and Versatile Quadruped Locomotion](https://arxiv.org/abs/2605.08804v2)** | 2026-05-12 |  |
+| **[EvoNav: Evolutionary Reward Function Design for Robot Navigation with Large Language Models](https://arxiv.org/abs/2605.11859v1)** | 2026-05-12 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Persistence-Augmented Neural Networks](https://arxiv.org/abs/2604.08469v1)** | 2026-04-09 |  |
-| **[U-CECE: A Universal Multi-Resolution Framework for Conceptual Counterfactual Explanations](https://arxiv.org/abs/2604.08295v1)** | 2026-04-09 |  |
-| **[OpenGLT: A Comprehensive Benchmark of Graph Neural Networks for Graph-Level Tasks](https://arxiv.org/abs/2501.00773v3)** | 2026-04-09 |  |
-| **[Graph Neural Networks for Misinformation Detection: Performance-Efficiency Trade-offs](https://arxiv.org/abs/2604.08131v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at Computational Modeling and Artificial Intelligence for Social Systems Track in ICCS 2026</p></details> |
-| **[AFGNN: API Misuse Detection using Graph Neural Networks and Clustering](https://arxiv.org/abs/2604.07891v1)** | 2026-04-09 |  |
-| **[Toward Generalizable Graph Learning for 3D Engineering AI: Explainable Workflows for CAE Mode Shape Classification and CFD Field Prediction](https://arxiv.org/abs/2604.07781v1)** | 2026-04-09 |  |
-| **[Rhizome OS-1: Rhizome's Semi-Autonomous Operating System for Small Molecule Drug Discovery](https://arxiv.org/abs/2604.07512v1)** | 2026-04-08 |  |
-| **[Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability](https://arxiv.org/abs/2604.07292v1)** | 2026-04-08 |  |
-| **[BadImplant: Injection-based Multi-Targeted Graph Backdoor Attack](https://arxiv.org/abs/2601.15474v2)** | 2026-04-08 |  |
-| **[Self-Discovered Intention-aware Transformer for Multi-modal Vehicle Trajectory Prediction](https://arxiv.org/abs/2604.07126v1)** | 2026-04-08 | 5 pages, 2 figures |
-| **[A Texture-Generalizable Deep Material Network via Orientation-Aware Interaction Learning for Polycrystal Modeling and Texture Evolution](https://arxiv.org/abs/2512.06779v2)** | 2026-04-08 |  |
-| **[Equivariant Multi-agent Reinforcement Learning for Multimodal Vehicle-to-Infrastructure Systems](https://arxiv.org/abs/2604.06914v1)** | 2026-04-08 |  |
-| **[FlowAdam: Implicit Regularization via Geometry-Aware Soft Momentum Injection](https://arxiv.org/abs/2604.06652v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2026 (IEEE WCCI). 8 pages, 4 figures</p></details> |
-| **[Predicting Alzheimer's disease progression using rs-fMRI and a history-aware graph neural network](https://arxiv.org/abs/2604.06469v1)** | 2026-04-07 | <details><summary>Proc....</summary><p>Proc. SPIE 13926, Medical Imaging 2026: Computer-Aided Diagnosis, 1392604</p></details> |
-| **[k-Maximum Inner Product Attention for Graph Transformers and the Expressive Power of GraphGPS](https://arxiv.org/abs/2604.03815v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at the ICLR 2026 GRaM Workshop. 9 pages, 9 figures, 16 tables; 30 pages of supplementary material</p></details> |
+| **[Random-Set Graph Neural Networks](https://arxiv.org/abs/2605.11987v1)** | 2026-05-12 | 23 pages, 6 figures |
+| **[Crash Assessment via Mesh-Based Graph Neural Networks and Physics-Aware Attention](https://arxiv.org/abs/2605.11784v1)** | 2026-05-12 | <details><summary>40 pa...</summary><p>40 pages, 15 figures, 7 tables</p></details> |
+| **[Physics-Informed Graph Neural Networks for Frequency-Aware Optical Aberration Correction](https://arxiv.org/abs/2512.05683v2)** | 2026-05-12 |  |
+| **[U-STS-LLM A Unified Spatio-Temporal Steered Large Language Model for Traffic Prediction and Imputation](https://arxiv.org/abs/2605.11735v1)** | 2026-05-12 | 14 pages, 6 figures |
+| **[Unification of Signal Transform Theory](https://arxiv.org/abs/2605.11589v1)** | 2026-05-12 |  |
+| **[GriNNder: Breaking the Memory Capacity Wall in Full-Graph GNN Training with Storage Offloading](https://arxiv.org/abs/2605.11517v1)** | 2026-05-12 | <details><summary>29 pa...</summary><p>29 pages, Accepted to MLSys 2026</p></details> |
+| **[CAMPA: Efficient and Aligned Multimodal Graph Learning via Decoupled Propagation and Aggregation](https://arxiv.org/abs/2605.11468v1)** | 2026-05-12 |  |
+| **[Smoothness Errors in Dynamics Models and How to Avoid Them](https://arxiv.org/abs/2602.05352v2)** | 2026-05-12 | <details><summary>Ecsta...</summary><p>Ecstatic to share relaxed unitary mesh convolutions with the community :D! This version contains the camera ready for ICML 2026. Send me an email with your thoughts! I love getting mail :^)</p></details> |
+| **[gym-invmgmt: An Open Benchmarking Framework for Inventory Management Methods](https://arxiv.org/abs/2605.11355v1)** | 2026-05-12 | 16 pages, 4 figures |
+| **[Oversmoothing as Representation Degeneracy in Neural Sheaf Diffusion](https://arxiv.org/abs/2605.11178v1)** | 2026-05-11 | <details><summary>15 pa...</summary><p>15 pages, Comments welcome</p></details> |
+| **[Debiasing Message Passing to Mitigate Popularity Bias in GNN-based Collaborative Filtering](https://arxiv.org/abs/2605.11145v1)** | 2026-05-11 |  |
+| **[Feature Augmentation of GNNs for ILPs: Local Uniqueness Suffices](https://arxiv.org/abs/2509.21000v2)** | 2026-05-11 | 19 pages, 9 Tables |
+| **[On Improving Graph Neural Networks for QSAR by Pre-training on Extended-Connectivity Fingerprints](https://arxiv.org/abs/2605.10722v1)** | 2026-05-11 |  |
+| **[Explaining Graph Neural Networks for Node Similarity on Graphs](https://arxiv.org/abs/2407.07639v2)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted in Transactions of Machine Learning Research (2026)</p></details> |
+| **[Reconfigurable Computing Challenge: Real-Time Graph Neural Networks for Online Event Selection in Big Science](https://arxiv.org/abs/2605.10612v1)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted to FCCM Reconfigurable Computing Challenge 2026</p></details> |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |

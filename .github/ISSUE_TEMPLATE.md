@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 15, 2026
+title: Latest 15 Papers - May 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Entropy Polarity in Reinforcement Fine-Tuning: Direction, Asymmetry, and Control](https://arxiv.org/abs/2605.11775v2)** | 2026-05-14 |  |
-| **[CaMeRL: Collision-Aware and Memory-Enhanced Reinforcement Learning for UAV Navigation in Multi-Scale Obstacle Environments](https://arxiv.org/abs/2605.14810v1)** | 2026-05-14 | <details><summary>8 pag...</summary><p>8 pages, 7 figures. Submitted to IEEE Robotics and Automation Letters</p></details> |
-| **[Proximal Action Replacement for Behavior Cloning Actor-Critic in Offline Reinforcement Learning](https://arxiv.org/abs/2602.07441v2)** | 2026-05-14 |  |
-| **[Peng's Q($λ$) for Conservative Value Estimation in Offline Reinforcement Learning](https://arxiv.org/abs/2605.14779v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted in ICLR 2026</p></details> |
-| **[Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](https://arxiv.org/abs/2512.07461v3)** | 2026-05-14 |  |
-| **[Probabilistic Verification of Recurrent Neural Networks for Single and Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2605.14758v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at the 35th International Joint Conference on Artificial Intelligence (IJCAI) 2026</p></details> |
-| **[EARL: Towards a Unified Analysis-Guided Reinforcement Learning Framework for Egocentric Interaction Reasoning and Pixel Grounding](https://arxiv.org/abs/2605.14742v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Project page: https://github.com/yuggiehk/EARL</p></details> |
-| **[Addressing Terminal Constraints in Data-Driven Demand Response Scheduling](https://arxiv.org/abs/2605.14741v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted to IFAC World Congress 2026</p></details> |
-| **[Vision-LLMs for Spatiotemporal Traffic Forecasting](https://arxiv.org/abs/2510.11282v2)** | 2026-05-14 |  |
-| **[R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability](https://arxiv.org/abs/2511.17367v2)** | 2026-05-14 |  |
-| **[Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model](https://arxiv.org/abs/2605.14723v1)** | 2026-05-14 |  |
-| **[GEAR: Granularity-Adaptive Advantage Reweighting for LLM Agents via Self-Distillation](https://arxiv.org/abs/2605.11853v2)** | 2026-05-14 |  |
-| **[Multi-objective application placement in fog computing using graph neural network-based reinforcement learning](https://arxiv.org/abs/2605.14649v1)** | 2026-05-14 |  |
-| **[DRL-STAF: A Deep Reinforcement Learning Framework for State-Aware Forecasting of Complex Multivariate Hidden Markov Processes](https://arxiv.org/abs/2605.14632v1)** | 2026-05-14 |  |
-| **[DIVER: Reinforced Diffusion Breaks Imitation Bottlenecks in End-to-End Autonomous Driving](https://arxiv.org/abs/2507.04049v4)** | 2026-05-14 | 17 pages, 10 figures |
+| **[Generating Realistic Safety-Critical Scenarios for Vehicle-Pedestrian Interactions](https://arxiv.org/abs/2605.17229v1)** | 2026-05-17 | <details><summary>49 pa...</summary><p>49 pages, 13 figures, 11 table</p></details> |
+| **[KASER: Knowledge-Aligned Student Error Simulator for Open-Ended Coding Tasks](https://arxiv.org/abs/2601.06633v2)** | 2026-05-17 | <details><summary>Publi...</summary><p>Published in ACL 2026: The 64th Annual Meeting of the Association for Computational Linguistics</p></details> |
+| **[RLBFF: Binary Flexible Feedback to bridge between Human Feedback & Verifiable Rewards](https://arxiv.org/abs/2509.21319v3)** | 2026-05-17 | <details><summary>Publi...</summary><p>Published at ICLR 2026, 21 pages</p></details> |
+| **[Multi-LLM Systems Exhibit Robust Semantic Collapse](https://arxiv.org/abs/2605.17193v1)** | 2026-05-16 | <details><summary>64 pa...</summary><p>64 pages, 8 figures, 7 tables; includes Supplementary Information</p></details> |
+| **[Learning to Reason without External Rewards](https://arxiv.org/abs/2505.19590v5)** | 2026-05-16 | ICLR 2026 |
+| **[Beyond Execution: Static-Analysis Rewards and Hint-Conditioned Diffusion RL for Code Generation](https://arxiv.org/abs/2605.17174v1)** | 2026-05-16 |  |
+| **[From Imitation to Interaction: Mastering Game of Schnapsen with Shallow Reinforcement Learning](https://arxiv.org/abs/2605.17162v1)** | 2026-05-16 | 17 pages, 8 figures |
+| **[Adaptive Control in Autonomous Driving via Real-Time Recurrent RL](https://arxiv.org/abs/2602.02236v4)** | 2026-05-16 |  |
+| **[Transformation-Augmented GRPO for Enhancing Exploration in Reasoning of Large Language Models](https://arxiv.org/abs/2601.22478v4)** | 2026-05-16 |  |
+| **[Reinforcement Learning for LLM Post-Training: A Survey](https://arxiv.org/abs/2407.16216v4)** | 2026-05-16 |  |
+| **[The Laplacian Keyboard: Beyond the Linear Span](https://arxiv.org/abs/2602.07730v2)** | 2026-05-16 | 31 pages, 17 figures |
+| **[A Red Teaming Framework for Evaluating Robustness of AI-enabled Security Orchestration, Automation, and Response Systems](https://arxiv.org/abs/2605.17075v1)** | 2026-05-16 |  |
+| **[Unleashing the Potential of Diffusion Models for End-to-End Autonomous Driving](https://arxiv.org/abs/2602.22801v2)** | 2026-05-16 |  |
+| **[Does Your Reasoning Model Implicitly Know When to Stop Thinking?](https://arxiv.org/abs/2602.08354v5)** | 2026-05-16 |  |
+| **[Real-Time Aligned Reward Model beyond Semantics](https://arxiv.org/abs/2601.22664v4)** | 2026-05-16 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploitation of Hidden Context in Dynamic Movement Forecasting: A Neural Network Journey from Recurrent to Graph Neural Networks and General Purpose Transformers](https://arxiv.org/abs/2605.14855v1)** | 2026-05-14 | 12 pages |
-| **[R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability](https://arxiv.org/abs/2511.17367v2)** | 2026-05-14 |  |
-| **[MLGIB: Multi-Label Graph Information Bottleneck for Expressive and Robust Message Passing](https://arxiv.org/abs/2605.13126v2)** | 2026-05-14 |  |
-| **[Multi-objective application placement in fog computing using graph neural network-based reinforcement learning](https://arxiv.org/abs/2605.14649v1)** | 2026-05-14 |  |
-| **[Contraction and Hourglass Persistence for Learning on Graphs, Simplices, and Cells](https://arxiv.org/abs/2604.17548v2)** | 2026-05-14 | <details><summary>31 pa...</summary><p>31 pages, 6 figures, 4 algorithms, 2 tables. Accepted at ICLR 2026</p></details> |
-| **[LEAP: Local ECT-Based Learnable Positional Encodings for Graphs](https://arxiv.org/abs/2510.00757v3)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Learning Representations (ICLR) 2026. Our code is available https://www.github.com/aidos-lab/LEAP</p></details> |
-| **[What Information Matters? Graph Out-of-Distribution Detection via Tri-Component Information Decomposition](https://arxiv.org/abs/2605.13032v2)** | 2026-05-14 | ICML26 |
-| **[Flow Field Reconstruction with Sensor Placement Policy Learning](https://arxiv.org/abs/2605.14137v1)** | 2026-05-13 |  |
-| **[Learning Multimodal Embeddings for Traffic Accident Prediction and Causal Estimation](https://arxiv.org/abs/2512.02920v3)** | 2026-05-13 | <details><summary>17 pa...</summary><p>17 pages. Appeared in KDD 2026</p></details> |
-| **[Exact Verification of Graph Neural Networks with Incremental Constraint Solving](https://arxiv.org/abs/2508.09320v3)** | 2026-05-13 | <details><summary>Exten...</summary><p>Extended version of the paper accepted at FM 2026</p></details> |
-| **[Graph Neural Networks with Triangle-Based Messages for the Multicut Problem](https://arxiv.org/abs/2605.13673v1)** | 2026-05-13 | 21 pages, 5 figures |
-| **[Multimodal Graph-based Classification of Esophageal Motility Disorders](https://arxiv.org/abs/2605.13623v1)** | 2026-05-13 |  |
-| **[RAG-GNN: Integrating Retrieved Knowledge with Graph Neural Networks for Precision Medicine](https://arxiv.org/abs/2602.00586v2)** | 2026-05-13 |  |
-| **[Rethinking Generalization in Graph Neural Networks: A Structural Complexity Perspective](https://arxiv.org/abs/2605.13597v1)** | 2026-05-13 | 44 pages, 10 figures |
-| **[Beyond Oversquashing: Understanding Signal Propagation in GNNs Via Observables](https://arxiv.org/abs/2605.13383v1)** | 2026-05-13 |  |
+| **[$\texttt{SynC}$: Synergistic Boosting of Structure and Representation for Deep Graph Clustering](https://arxiv.org/abs/2406.15797v2)** | 2026-05-17 |  |
+| **[GraphMind: Theorem Selection and Conclusion Generation Framework with Dynamic GNN for LLM Reasoning](https://arxiv.org/abs/2511.19078v2)** | 2026-05-17 | <details><summary>This ...</summary><p>This paper has been withdrawn by the authors in order to prepare a substantially revised version</p></details> |
+| **[Filter-then-Verify: A Multiphase GNN and ModernBERT Framework for Social Engineering Detection in Email Networks](https://arxiv.org/abs/2605.17201v1)** | 2026-05-17 | <details><summary>Under...</summary><p>Under review at Elseiver's Computer and security journal</p></details> |
+| **[DynoSLAM: Dynamic SLAM with Generative Graph Neural Networks for Real-World Social Navigation](https://arxiv.org/abs/2605.02759v2)** | 2026-05-16 | <details><summary>Code ...</summary><p>Code & Project page at https://github.com/makriot/dynoslam</p></details> |
+| **[SuReNav: Superpixel Graph-based Constraint Relaxation for Navigation in Over-constrained Environments](https://arxiv.org/abs/2602.06807v2)** | 2026-05-16 | <details><summary>Accep...</summary><p>Accepted by ICRA 2026. Code and videos are available at https://sure-nav.github.io/</p></details> |
+| **[ArtifactLinker: Linking Scientific Artifacts for Automatic State-of-the-Art Discovery](https://arxiv.org/abs/2605.16902v1)** | 2026-05-16 | 12 pages |
+| **[Tensor Channel Equivariant Graph Neural Networks for Molecular Polarizability Prediction](https://arxiv.org/abs/2605.16891v1)** | 2026-05-16 |  |
+| **[Virtual Nodes Guided Dynamic Graph Neural Network for Brain Tumor Segmentation with Missing Modalities](https://arxiv.org/abs/2605.16880v1)** | 2026-05-16 | <details><summary>The I...</summary><p>The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026</p></details> |
+| **[Atoms as Language: VQ-Atom: Semantic Discretization for Molecular Representation Learning](https://arxiv.org/abs/2605.16823v1)** | 2026-05-16 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Submitted to ICML 2026 Workshop on Foundation Models for Life Sciences</p></details> |
+| **[Universal Graph Backdoor Defense: A Feature-based Homophily Perspective](https://arxiv.org/abs/2605.16815v1)** | 2026-05-16 | 17 pages, 6 figures |
+| **[Informative Graph Structure Learning](https://arxiv.org/abs/2605.16809v1)** | 2026-05-16 |  |
+| **[Unification of Signal Transform Theory](https://arxiv.org/abs/2605.11589v2)** | 2026-05-16 | <details><summary>Added...</summary><p>Added Hankel, Hankel (cont.), AR(m)/pedagogical remarks, 10 new references</p></details> |
+| **[Missing-Modality-Aware Graph Neural Network for Cancer Classification](https://arxiv.org/abs/2506.22901v2)** | 2026-05-15 | 27 pages, 22 figures |
+| **[Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experimental Accuracy](https://arxiv.org/abs/2605.16230v1)** | 2026-05-15 | 9 pages, 3 figures |
+| **[Towards Foundation Models for Relational Databases with Language Models and Graph Neural Networks](https://arxiv.org/abs/2605.16085v1)** | 2026-05-15 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 4 tables. Preprint of a paper accepted at the 1st Workshop on Extraction from Triplet Text-Table-Knowledge Graph and associated Challenge (TRIPLET), co-located with ESWC 2026</p></details> |
 
 ## Unmanned Systems
 | **Title** | **Date** | **Comment** |
